@@ -7,10 +7,10 @@
     { "country":  "kuwait", "geoName": "Kuwait", "cities": ["kuwait-city", "al-jahra", "mangaf", "salmiya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" },
     { "country":  "malaysia", "geoName": "Malaysia", "cities": ["kuala-lumpur", "malacca-city", "kuching", "ipoh", "johor-bahru"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" },
     { "country":  "pakistan", "geoName": "Pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar", "quetta", "rawalpindi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
-    { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
     { "country":  "saudi arabia", "geoName": "Saudi Arabia", "cities": ["riyadh", "jeddah", "mecca", "medina", "khamismushait", "dammam", "abha"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" },
     { "country":  "turkey", "geoName": "Turkey", "cities": ["istanbul", "ankara", "izmir", "konya", "gaziantep", "adana"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" },
     { "country":  "united arab emirates", "geoName": "United Arab Emirates", "cities": ["dubai", "sharjah", "ajman"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" },
-    { "country":  "yemen", "geoName": "Yemen", "cities": [" sana'a"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" }
+    { "country":  "yemen", "geoName": "Yemen", "cities": [" sana'a"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" },
+    { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
     ]
 }
