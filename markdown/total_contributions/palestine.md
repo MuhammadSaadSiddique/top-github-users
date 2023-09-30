@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2023/9/30 8:13 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2023/9/30 8:25 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `11 countries` and `57 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -551,7 +551,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Gaza , Palestine</td>
 		<td>6</td>
-		<td>1847</td>
+		<td>1849</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -719,7 +719,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td><a href="https://twitter.com/karamzomlot">karamzomlot</a></td>
 		<td>Gaza</td>
 		<td>604</td>
-		<td>1423</td>
+		<td>1425</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -1867,7 +1867,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Palestine/Gaza</td>
 		<td>70</td>
-		<td>596</td>
+		<td>600</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -4070,6 +4070,20 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>284</td>
 		<td>
+			<a href="https://github.com/sobhisami">
+				<img src="https://avatars.githubusercontent.com/u/101386601?s=72&u=c3324b1d6af4829a3878398deb3d4b44a60e6671&v=4" width="24" alt="Avatar of sobhisami"> sobhisami
+			</a><br/>
+			sobhi sami 
+		</td>
+		<td>Tweet Tec </td>
+		<td>No Twitter Username</td>
+		<td>Gaza, Palestine</td>
+		<td>224</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
 			<a href="https://github.com/ahmedalashii">
 				<img src="https://avatars.githubusercontent.com/u/62793355?s=72&u=4e6651680923c90ad45eba29be8347b6c65656cd&v=4" width="24" alt="Avatar of ahmedalashii"> ahmedalashii
 			</a><br/>
@@ -4079,20 +4093,6 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td><a href="https://twitter.com/ahmed_alashii">ahmed_alashii</a></td>
 		<td>Palestine, Gaza Strip</td>
 		<td>37</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/sobhisami">
-				<img src="https://avatars.githubusercontent.com/u/101386601?s=72&u=c3324b1d6af4829a3878398deb3d4b44a60e6671&v=4" width="24" alt="Avatar of sobhisami"> sobhisami
-			</a><br/>
-			sobhi sami 
-		</td>
-		<td>Tweet Tec </td>
-		<td>No Twitter Username</td>
-		<td>Gaza, Palestine</td>
-		<td>223</td>
 		<td>223</td>
 	</tr>
 	<tr>
@@ -7052,6 +7052,20 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>497</td>
 		<td>
+			<a href="https://github.com/Abdallah-Ibra">
+				<img src="https://avatars.githubusercontent.com/u/75906593?s=72&u=99379292ddba99c920b55314a3452475f5f0ebe6&v=4" width="24" alt="Avatar of Abdallah-Ibra"> Abdallah-Ibra
+			</a><br/>
+			Abdallah Ibrahim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AbdTabasi">AbdTabasi</a></td>
+		<td>Palestine - Gaza</td>
+		<td>49</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
 			<a href="https://github.com/ahmadshehhab">
 				<img src="https://avatars.githubusercontent.com/u/66091501?s=72&u=5de318cf564a56341fcf399435f6e9ea954d9398&v=4" width="24" alt="Avatar of ahmadshehhab"> ahmadshehhab
 			</a><br/>
@@ -7064,7 +7078,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/SaryH">
 				<img src="https://avatars.githubusercontent.com/u/82519050?s=72&v=4" width="24" alt="Avatar of SaryH"> SaryH
@@ -7078,7 +7092,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/hamadafarj">
 				<img src="https://avatars.githubusercontent.com/u/79063295?s=72&u=f72bae1a0a2b723528bd55e60062e4c4d977ef50&v=4" width="24" alt="Avatar of hamadafarj"> hamadafarj
@@ -7092,7 +7106,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/shox">
 				<img src="https://avatars.githubusercontent.com/u/1161316?s=72&u=a654d53196a5554e7cc273825f418794fa908d48&v=4" width="24" alt="Avatar of shox"> shox
@@ -7106,7 +7120,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/shatha962">
 				<img src="https://avatars.githubusercontent.com/u/74102466?s=72&u=38e5b6f4ba6f10b583f27aa2dd799c05e4892ad1&v=4" width="24" alt="Avatar of shatha962"> shatha962
@@ -7120,7 +7134,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/ziadaboalkamar">
 				<img src="https://avatars.githubusercontent.com/u/40515328?s=72&u=3ecc35bf7ddef9e9e205be0a32f0f1d2c3066a50&v=4" width="24" alt="Avatar of ziadaboalkamar"> ziadaboalkamar
@@ -7134,7 +7148,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/mansour-aldadah">
 				<img src="https://avatars.githubusercontent.com/u/45122396?s=72&u=abd59d2a299e2e35eb3982cff2c8bca92d6f362b&v=4" width="24" alt="Avatar of mansour-aldadah"> mansour-aldadah
@@ -7148,7 +7162,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/atefhejazi1">
 				<img src="https://avatars.githubusercontent.com/u/78237128?s=72&u=e0de43fad3b1387bea4cfc8dfe4208c62cb5c552&v=4" width="24" alt="Avatar of atefhejazi1"> atefhejazi1
@@ -7162,7 +7176,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/Eyab0">
 				<img src="https://avatars.githubusercontent.com/u/61092637?s=72&u=04f1c9f02961cdbc020bb6ab889cf83bb00df21b&v=4" width="24" alt="Avatar of Eyab0"> Eyab0
@@ -7176,7 +7190,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/AhmedAlamoudi7">
 				<img src="https://avatars.githubusercontent.com/u/76726399?s=72&u=26bb4349389315b0b610a1a5f058bab53979f60f&v=4" width="24" alt="Avatar of AhmedAlamoudi7"> AhmedAlamoudi7
@@ -7190,7 +7204,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/maysqunaibi">
 				<img src="https://avatars.githubusercontent.com/u/46685038?s=72&u=7bb0397bd5c2b0f7f9056de4b3623fdb9e9f4d99&v=4" width="24" alt="Avatar of maysqunaibi"> maysqunaibi
@@ -7204,7 +7218,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/AlaaZarifa">
 				<img src="https://avatars.githubusercontent.com/u/18426012?s=72&u=1d0d9e6385273dda80d607c68c8aee027f01c3cd&v=4" width="24" alt="Avatar of AlaaZarifa"> AlaaZarifa
@@ -7218,7 +7232,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/Tareq-Adel">
 				<img src="https://avatars.githubusercontent.com/u/113134233?s=72&u=72875bec5b7a0532c0190add12297deec87a5070&v=4" width="24" alt="Avatar of Tareq-Adel"> Tareq-Adel
@@ -7232,7 +7246,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/Osama-you">
 				<img src="https://avatars.githubusercontent.com/u/37075385?s=72&u=837e909e0bc529f83aeb51ea87d437ae14d7cc29&v=4" width="24" alt="Avatar of Osama-you"> Osama-you
@@ -7246,7 +7260,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/aseelnrajab">
 				<img src="https://avatars.githubusercontent.com/u/104845586?s=72&u=6175cc148468f9123ca758b0a0ff6f6e1b02366a&v=4" width="24" alt="Avatar of aseelnrajab"> aseelnrajab
@@ -7260,7 +7274,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/abozanona">
 				<img src="https://avatars.githubusercontent.com/u/12738028?s=72&u=dab04e22385176f95ec35981f9a5053bdc0464fc&v=4" width="24" alt="Avatar of abozanona"> abozanona
@@ -7274,7 +7288,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/devmohammedna">
 				<img src="https://avatars.githubusercontent.com/u/31156267?s=72&u=96861c506bf76956c771745a659650f64c405a5c&v=4" width="24" alt="Avatar of devmohammedna"> devmohammedna
@@ -7288,7 +7302,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/fakhry-alnaffar">
 				<img src="https://avatars.githubusercontent.com/u/88714248?s=72&u=6e2c83c62f69a1c9f7dd717f82cbe796a0e784e6&v=4" width="24" alt="Avatar of fakhry-alnaffar"> fakhry-alnaffar
@@ -7302,7 +7316,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/Mashharawi">
 				<img src="https://avatars.githubusercontent.com/u/36185866?s=72&u=8c881ce57e9bbb0156fe821285223cbc967cd91e&v=4" width="24" alt="Avatar of Mashharawi"> Mashharawi
@@ -7316,7 +7330,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/HamzaEezeldeen">
 				<img src="https://avatars.githubusercontent.com/u/115100047?s=72&u=fdeeeaefc61af0ac299af6dc953962f355a83d41&v=4" width="24" alt="Avatar of HamzaEezeldeen"> HamzaEezeldeen
@@ -7330,7 +7344,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/AnasMuhtadi">
 				<img src="https://avatars.githubusercontent.com/u/94171264?s=72&u=210c090df364c6c90d065f55193594412d3d706a&v=4" width="24" alt="Avatar of AnasMuhtadi"> AnasMuhtadi
@@ -7344,7 +7358,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/duhajarrar">
 				<img src="https://avatars.githubusercontent.com/u/54679733?s=72&v=4" width="24" alt="Avatar of duhajarrar"> duhajarrar
@@ -7358,7 +7372,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/abedshamia">
 				<img src="https://avatars.githubusercontent.com/u/73759748?s=72&u=ca063008eb8bfd124b86672cc852f2ecb5dcb441&v=4" width="24" alt="Avatar of abedshamia"> abedshamia
@@ -7372,7 +7386,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/basilfarra">
 				<img src="https://avatars.githubusercontent.com/u/40392957?s=72&u=dced660fe9504dfb7ad180634b42172f1a55b3b9&v=4" width="24" alt="Avatar of basilfarra"> basilfarra
@@ -7386,7 +7400,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/lana-qawasmy">
 				<img src="https://avatars.githubusercontent.com/u/70531216?s=72&u=5b3702140b932633923da73cd8b6238f43f274db&v=4" width="24" alt="Avatar of lana-qawasmy"> lana-qawasmy
@@ -7400,7 +7414,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/MostafaQanoo">
 				<img src="https://avatars.githubusercontent.com/u/75706900?s=72&u=5cdae0d3cf0db3c6291a2429890eb2a611dffdf5&v=4" width="24" alt="Avatar of MostafaQanoo"> MostafaQanoo
@@ -7414,7 +7428,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/khaled-samy">
 				<img src="https://avatars.githubusercontent.com/u/101295894?s=72&u=cc547ba5ea7492d1d701264d1a656da3f1adae47&v=4" width="24" alt="Avatar of khaled-samy"> khaled-samy
@@ -7428,7 +7442,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/Ola-22">
 				<img src="https://avatars.githubusercontent.com/u/70202013?s=72&u=655156bfa16f97c41049b00d71b9d6a984c38248&v=4" width="24" alt="Avatar of Ola-22"> Ola-22
@@ -7442,7 +7456,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/bahaaoz">
 				<img src="https://avatars.githubusercontent.com/u/93868592?s=72&u=65248ed59478269874a85e928bb4302586b77fbc&v=4" width="24" alt="Avatar of bahaaoz"> bahaaoz
@@ -7456,7 +7470,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/MahmoudHus1">
 				<img src="https://avatars.githubusercontent.com/u/90516797?s=72&v=4" width="24" alt="Avatar of MahmoudHus1"> MahmoudHus1
@@ -7470,7 +7484,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/wawashra">
 				<img src="https://avatars.githubusercontent.com/u/9431292?s=72&u=5f88024b129e571d8ed139afe84b452c55a2f081&v=4" width="24" alt="Avatar of wawashra"> wawashra
@@ -7484,7 +7498,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/RioAtHome">
 				<img src="https://avatars.githubusercontent.com/u/63606881?s=72&v=4" width="24" alt="Avatar of RioAtHome"> RioAtHome
@@ -7498,7 +7512,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/manalamro">
 				<img src="https://avatars.githubusercontent.com/u/105562468?s=72&u=9eeefeb3fb231faa042a7dc61d1fe5a34c94e9ef&v=4" width="24" alt="Avatar of manalamro"> manalamro
@@ -7512,7 +7526,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/nadeemabualarayes">
 				<img src="https://avatars.githubusercontent.com/u/66251426?s=72&u=996822d34b9c06faa06c9801b36a882a14580632&v=4" width="24" alt="Avatar of nadeemabualarayes"> nadeemabualarayes
@@ -7526,7 +7540,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/muathejamil">
 				<img src="https://avatars.githubusercontent.com/u/27643048?s=72&u=25c42c9638e11136f2eda0d867402afc9cbda5db&v=4" width="24" alt="Avatar of muathejamil"> muathejamil
@@ -7540,7 +7554,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/olaomar2000">
 				<img src="https://avatars.githubusercontent.com/u/69324228?s=72&u=d2ddbdd1de8883f74ed0758ab4696120ce7bdef7&v=4" width="24" alt="Avatar of olaomar2000"> olaomar2000
@@ -7554,7 +7568,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/NemerYTamimi">
 				<img src="https://avatars.githubusercontent.com/u/44584761?s=72&u=f113a773902a7bd54ab3205548d1a1be32bb35bb&v=4" width="24" alt="Avatar of NemerYTamimi"> NemerYTamimi
@@ -7568,7 +7582,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/zain661">
 				<img src="https://avatars.githubusercontent.com/u/67260716?s=72&u=d4304831bfb50e1a9fd2b730ce4896400e1ea74a&v=4" width="24" alt="Avatar of zain661"> zain661
@@ -7582,7 +7596,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/kefahalshaer">
 				<img src="https://avatars.githubusercontent.com/u/26024282?s=72&u=a9b04f593c53ada9e91f75a2f5845fb28922cf71&v=4" width="24" alt="Avatar of kefahalshaer"> kefahalshaer
@@ -7596,7 +7610,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/abodbazyan">
 				<img src="https://avatars.githubusercontent.com/u/13680490?s=72&u=08c7c4ad76450ad0aec901153a42f7d4ba953d51&v=4" width="24" alt="Avatar of abodbazyan"> abodbazyan
@@ -7610,7 +7624,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/mo7ammedtabasi">
 				<img src="https://avatars.githubusercontent.com/u/92784241?s=72&u=1fdf85fe7a9035e46d77375dec3a7925022c9c2a&v=4" width="24" alt="Avatar of mo7ammedtabasi"> mo7ammedtabasi
@@ -7624,7 +7638,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/Mahmoud-Ahmad2">
 				<img src="https://avatars.githubusercontent.com/u/80840350?s=72&u=88a8a8e8f83d98c6f03c0be24f6ee02fd08649f3&v=4" width="24" alt="Avatar of Mahmoud-Ahmad2"> Mahmoud-Ahmad2
@@ -7638,7 +7652,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/abodmasoud">
 				<img src="https://avatars.githubusercontent.com/u/78610146?s=72&u=289760809f4af43b60581531fa21b8c2a110287f&v=4" width="24" alt="Avatar of abodmasoud"> abodmasoud
@@ -7652,7 +7666,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/rame1997">
 				<img src="https://avatars.githubusercontent.com/u/42137960?s=72&u=f077b981d5280febd1737401e34b6aaad0915cc7&v=4" width="24" alt="Avatar of rame1997"> rame1997
@@ -7666,7 +7680,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/Ahmed-zaqowt">
 				<img src="https://avatars.githubusercontent.com/u/112826183?s=72&u=e9264f4052bd165ef7ac1cbb5f9f97b20635f006&v=4" width="24" alt="Avatar of Ahmed-zaqowt"> Ahmed-zaqowt
@@ -7680,7 +7694,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/orayyan35">
 				<img src="https://avatars.githubusercontent.com/u/61509757?s=72&u=012965cd5e0fc39960c3cb7c8e0115e10875011e&v=4" width="24" alt="Avatar of orayyan35"> orayyan35
@@ -7694,7 +7708,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/NouraldinS">
 				<img src="https://avatars.githubusercontent.com/u/28482442?s=72&u=d3dbffaee22680174fd1acff2c71554ac7a19b35&v=4" width="24" alt="Avatar of NouraldinS"> NouraldinS
@@ -7708,7 +7722,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/MohammedOH">
 				<img src="https://avatars.githubusercontent.com/u/46321188?s=72&u=a4dd2684e16b386420518f4aa813cf150ad145e6&v=4" width="24" alt="Avatar of MohammedOH"> MohammedOH
@@ -7722,7 +7736,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/HusseinAoda2">
 				<img src="https://avatars.githubusercontent.com/u/38081239?s=72&u=2f3fb115c8788bc7cd2be39061e8600c5da1269c&v=4" width="24" alt="Avatar of HusseinAoda2"> HusseinAoda2
@@ -7736,7 +7750,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/deema1999">
 				<img src="https://avatars.githubusercontent.com/u/35231736?s=72&u=f8c4037613ff411da95185abbf8356df4f00be0b&v=4" width="24" alt="Avatar of deema1999"> deema1999
@@ -7750,7 +7764,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/devameer">
 				<img src="https://avatars.githubusercontent.com/u/23484300?s=72&u=ddcf471a2d95fa939c65d18e696961477a2257f1&v=4" width="24" alt="Avatar of devameer"> devameer
@@ -7764,7 +7778,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/barakat-abweh">
 				<img src="https://avatars.githubusercontent.com/u/15747591?s=72&u=d40bdd1cae8cc73adaadca2adc324882d1e4e354&v=4" width="24" alt="Avatar of barakat-abweh"> barakat-abweh
@@ -7778,7 +7792,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Ibrahim-Mushtaha">
 				<img src="https://avatars.githubusercontent.com/u/63853553?s=72&u=dcf18e7ebe056f04e1800e57e0681632ce781c70&v=4" width="24" alt="Avatar of Ibrahim-Mushtaha"> Ibrahim-Mushtaha
@@ -7792,7 +7806,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/AhmadSaleh22">
 				<img src="https://avatars.githubusercontent.com/u/30163094?s=72&u=11dca29d8407fc9c15d1ddb9a4b70d596f29fd95&v=4" width="24" alt="Avatar of AhmadSaleh22"> AhmadSaleh22
@@ -7806,7 +7820,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/yousefalaqra">
 				<img src="https://avatars.githubusercontent.com/u/56271934?s=72&u=2d177a9f1398231a634e9aa62a7b488d8467076f&v=4" width="24" alt="Avatar of yousefalaqra"> yousefalaqra
@@ -7820,7 +7834,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/ArafatRoaa">
 				<img src="https://avatars.githubusercontent.com/u/67883923?s=72&u=5603cd73827f47e14c5f08d1e800f14e16fcd697&v=4" width="24" alt="Avatar of ArafatRoaa"> ArafatRoaa
@@ -7834,7 +7848,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/aldrek">
 				<img src="https://avatars.githubusercontent.com/u/10108221?s=72&v=4" width="24" alt="Avatar of aldrek"> aldrek
@@ -7848,7 +7862,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/SupervisionT">
 				<img src="https://avatars.githubusercontent.com/u/23292204?s=72&u=a91e39d78fc6d6eece11b4e984093c94f85f0a08&v=4" width="24" alt="Avatar of SupervisionT"> SupervisionT
@@ -7862,7 +7876,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/muisawe">
 				<img src="https://avatars.githubusercontent.com/u/26344769?s=72&u=12c4295739ff119352f0f55d3f018d4e11f00d20&v=4" width="24" alt="Avatar of muisawe"> muisawe
@@ -7876,7 +7890,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/AbdullhRtima">
 				<img src="https://avatars.githubusercontent.com/u/26738546?s=72&u=31adc3c5204b02e1fd441be37b6576b725a98906&v=4" width="24" alt="Avatar of AbdullhRtima"> AbdullhRtima
@@ -7890,7 +7904,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/shahdKhawaldeh1">
 				<img src="https://avatars.githubusercontent.com/u/109172402?s=72&u=9a3dacb29d1648b7509f50fc73ecaf378da43626&v=4" width="24" alt="Avatar of shahdKhawaldeh1"> shahdKhawaldeh1
@@ -7904,7 +7918,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/FarahZaqout">
 				<img src="https://avatars.githubusercontent.com/u/25854070?s=72&u=4649b0efb6f39ff3ee948601d9272837f6a463da&v=4" width="24" alt="Avatar of FarahZaqout"> FarahZaqout
@@ -7918,7 +7932,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/abdallahzatma">
 				<img src="https://avatars.githubusercontent.com/u/93069670?s=72&u=d5593e61475a9995c1f4a2bcca96ee91ec752873&v=4" width="24" alt="Avatar of abdallahzatma"> abdallahzatma
@@ -7928,20 +7942,6 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AAlzatma63787">AAlzatma63787</a></td>
 		<td>palestine - gaza </td>
-		<td>34</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/abood-2020">
-				<img src="https://avatars.githubusercontent.com/u/73236963?s=72&u=7978d73f11e82e6e7ca63f18433d4d27c6d2ea3e&v=4" width="24" alt="Avatar of abood-2020"> abood-2020
-			</a><br/>
-			Abd Al Razzaq Al Dahdouh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaza - Palestaine</td>
 		<td>34</td>
 		<td>34</td>
 	</tr>
@@ -10664,6 +10664,20 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>755</td>
 		<td>
+			<a href="https://github.com/emadalbilbeisi97">
+				<img src="https://avatars.githubusercontent.com/u/41232905?s=72&u=899faa39cb4d0ff80b2de7d126c3238305827c37&v=4" width="24" alt="Avatar of emadalbilbeisi97"> emadalbilbeisi97
+			</a><br/>
+			emadaldin albilbeisi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaza city , palestine</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
 			<a href="https://github.com/omaragha-dev">
 				<img src="https://avatars.githubusercontent.com/u/79842820?s=72&u=9b4238238425da44f0c06deadd8ea89880b660e9&v=4" width="24" alt="Avatar of omaragha-dev"> omaragha-dev
 			</a><br/>
@@ -10676,7 +10690,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/bnabriss">
 				<img src="https://avatars.githubusercontent.com/u/19927903?s=72&u=a9952c115c2ae0ec3acd9f0be3b45f30b19bded0&v=4" width="24" alt="Avatar of bnabriss"> bnabriss
@@ -10690,7 +10704,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/AhmedMElhalaby">
 				<img src="https://avatars.githubusercontent.com/u/28507946?s=72&u=0728bb55e0deacc17879c8d933ef1bb7f53b614f&v=4" width="24" alt="Avatar of AhmedMElhalaby"> AhmedMElhalaby
@@ -10704,7 +10718,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/osamahnini">
 				<img src="https://avatars.githubusercontent.com/u/57841227?s=72&u=14a86dd0105f5a0177eaea93645c5dd55571df8d&v=4" width="24" alt="Avatar of osamahnini"> osamahnini
@@ -10718,7 +10732,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/sajarantisi">
 				<img src="https://avatars.githubusercontent.com/u/46837680?s=72&u=ee220a064b550551038f18043e6f46a86a24ca2b&v=4" width="24" alt="Avatar of sajarantisi"> sajarantisi
@@ -10732,7 +10746,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/yahyashqair">
 				<img src="https://avatars.githubusercontent.com/u/37252929?s=72&u=f85bec5ad4aec6f4c55330585d0afee83ad2231e&v=4" width="24" alt="Avatar of yahyashqair"> yahyashqair
@@ -10746,7 +10760,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/ziadadeela">
 				<img src="https://avatars.githubusercontent.com/u/19434305?s=72&v=4" width="24" alt="Avatar of ziadadeela"> ziadadeela
@@ -10760,7 +10774,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/seancoyne">
 				<img src="https://avatars.githubusercontent.com/u/510437?s=72&v=4" width="24" alt="Avatar of seancoyne"> seancoyne
@@ -10774,7 +10788,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/ahmedQazzaz">
 				<img src="https://avatars.githubusercontent.com/u/7146905?s=72&u=e074157ad6b44142c5cd1aefc42f3859982c4747&v=4" width="24" alt="Avatar of ahmedQazzaz"> ahmedQazzaz
@@ -10788,7 +10802,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/Mohammad-M-AbuBader">
 				<img src="https://avatars.githubusercontent.com/u/73916511?s=72&u=04b416b80286f6e92e02b6f87d6cf1959360b53b&v=4" width="24" alt="Avatar of Mohammad-M-AbuBader"> Mohammad-M-AbuBader
@@ -10802,7 +10816,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/mrm7moud">
 				<img src="https://avatars.githubusercontent.com/u/3719666?s=72&u=5807e91b7ff112318a5c357754713660828dd93a&v=4" width="24" alt="Avatar of mrm7moud"> mrm7moud
@@ -10816,7 +10830,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/fahjan">
 				<img src="https://avatars.githubusercontent.com/u/2186011?s=72&u=1c26480076353016622ea02af03f15a900b1c7d7&v=4" width="24" alt="Avatar of fahjan"> fahjan
@@ -10830,7 +10844,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/nouraldin99">
 				<img src="https://avatars.githubusercontent.com/u/34219934?s=72&u=29411c98ad30068267a82abfa41590926dc96c9a&v=4" width="24" alt="Avatar of nouraldin99"> nouraldin99
@@ -10844,7 +10858,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/abuhashish">
 				<img src="https://avatars.githubusercontent.com/u/75228527?s=72&v=4" width="24" alt="Avatar of abuhashish"> abuhashish
@@ -10858,7 +10872,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/mohammedqissa">
 				<img src="https://avatars.githubusercontent.com/u/17961987?s=72&u=a487f85ca4b3a733bf1519faacdf71b2f3077738&v=4" width="24" alt="Avatar of mohammedqissa"> mohammedqissa
@@ -10872,7 +10886,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/SalamThabet">
 				<img src="https://avatars.githubusercontent.com/u/16378129?s=72&u=db2f4b0fe6a3c3b219ae29ddf375b30b5e6383b5&v=4" width="24" alt="Avatar of SalamThabet"> SalamThabet
@@ -10886,7 +10900,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/KhaledAbuNada-AI">
 				<img src="https://avatars.githubusercontent.com/u/44647104?s=72&u=acd58b62cf6a710febc51976d73574b139cd0748&v=4" width="24" alt="Avatar of KhaledAbuNada-AI"> KhaledAbuNada-AI
@@ -10900,7 +10914,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/JihadBadran">
 				<img src="https://avatars.githubusercontent.com/u/19579496?s=72&u=9a1cd544c382f7050acb2c847bff97a49a2f7f6b&v=4" width="24" alt="Avatar of JihadBadran"> JihadBadran
@@ -10914,7 +10928,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/hamza-sabri">
 				<img src="https://avatars.githubusercontent.com/u/47059736?s=72&u=e9c1097ef00d17673f6a197aa5ed5f0daf4d6008&v=4" width="24" alt="Avatar of hamza-sabri"> hamza-sabri
@@ -10928,7 +10942,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/badertawafsheh">
 				<img src="https://avatars.githubusercontent.com/u/68567544?s=72&u=48a14dd855ec8214e47aad118ff7eca51dcb62f1&v=4" width="24" alt="Avatar of badertawafsheh"> badertawafsheh
@@ -10942,7 +10956,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/mohammeddwikat">
 				<img src="https://avatars.githubusercontent.com/u/43478667?s=72&u=3070d0950cc4cc75859eed60b31bf869f0415994&v=4" width="24" alt="Avatar of mohammeddwikat"> mohammeddwikat
@@ -10956,7 +10970,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/razisayyed">
 				<img src="https://avatars.githubusercontent.com/u/911192?s=72&u=0344ca60ce5e4f4e678972caa7810a08858d003b&v=4" width="24" alt="Avatar of razisayyed"> razisayyed
@@ -10970,7 +10984,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/suhaibmaree">
 				<img src="https://avatars.githubusercontent.com/u/16932602?s=72&u=7d7798c8ae493144aafaa60b64e5f0b1de299887&v=4" width="24" alt="Avatar of suhaibmaree"> suhaibmaree
@@ -10984,7 +10998,7 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/wejdanmurad">
 				<img src="https://avatars.githubusercontent.com/u/47790412?s=72&u=bde0032f22f0f595e688fc3330d4db017dd8cbf4&v=4" width="24" alt="Avatar of wejdanmurad"> wejdanmurad
@@ -10994,20 +11008,6 @@ There are `993 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>Prography </td>
 		<td><a href="https://twitter.com/MuradWejdan">MuradWejdan</a></td>
 		<td>Gaza, Palestine</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>779</td>
-		<td>
-			<a href="https://github.com/Bilal-Mhmd">
-				<img src="https://avatars.githubusercontent.com/u/46746091?s=72&u=2b2b0f96c4bd356e286728542007abafd3358aec&v=4" width="24" alt="Avatar of Bilal-Mhmd"> Bilal-Mhmd
-			</a><br/>
-			Bilal Hoor
-		</td>
-		<td>Palestine Polytechnic University </td>
-		<td>No Twitter Username</td>
-		<td>Hebron, Palestine</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
