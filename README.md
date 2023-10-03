@@ -8,7 +8,7 @@
 List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/10/3 7:10 AM UTC`.
 
 This repository contains users `8 countries` and `46 cities`. 
-To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/config.json).
+To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://muhammadsaadsiddique.github.io/top-github-users/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
@@ -93,7 +93,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/afghanistan.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/afghanistan.md">
 				Afghanistan
 			</a>
 		</td>
@@ -110,7 +110,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/bangladesh.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/bangladesh.md">
 				Bangladesh
 			</a>
 		</td>
@@ -125,7 +125,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/oman.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/oman.md">
 				Oman
 			</a>
 		</td>
@@ -139,7 +139,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/pakistan.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/pakistan.md">
 				Pakistan
 			</a>
 		</td>
@@ -153,7 +153,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/palestine.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/palestine.md">
 				Palestine
 			</a>
 		</td>
@@ -167,7 +167,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/saudi_arabia.md">
 				Saudi Arabia
 			</a>
 		</td>
@@ -183,7 +183,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/syria.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/syria.md">
 				Syria
 			</a>
 		</td>
@@ -196,7 +196,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/turkey.md">
+			<a href="https://muhammadsaadsiddique.github.io/top-github-users/markdown/public_contributions/turkey.md">
 				Turkey
 			</a>
 		</td>
