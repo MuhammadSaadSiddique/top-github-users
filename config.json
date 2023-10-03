@@ -4,7 +4,7 @@
     { "country":  "afghanistan", "geoName": "Afghanistan", "cities": ["kabul", "kandahar", "herat", "Kunduz", "lashkargah", "ghazni", "khost", "zaranj"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
     { "country":  "bangladesh", "geoName": "Bangladesh", "cities": ["dhaka", "mymensingh", "rajshahi", "rangpur", "chittagong", "khulna"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" },
     { "country":  "oman", "geoName": "Oman", "cities": ["muscat", "salalah", "nizwa", "sohar", "seeb"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" },
-    { "country":  "pakistan", "geoName": "Pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar","rawalpindi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
+    { "country":  "pakistan", "geoName": "Pakistan", "cities": ["islamabad", "rawalpindi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
     { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
     { "country":  "saudi arabia", "geoName": "Saudi Arabia", "cities": ["riyadh", "jeddah", "mecca", "medina", "khamismushait", "dammam", "abha"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" },
     { "country":  "syria", "geoName": "Syria", "cities": ["damascus", "aleppo", "homs", "latakia"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" },
