@@ -95,7 +95,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/afghanistan.md">
+			<a href="/markdown/public_contributions/afghanistan">
 				Afghanistan
 			</a>
 		</td>
@@ -112,7 +112,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/bangladesh.md">
+			<a href="/markdown/public_contributions/bangladesh">
 				Bangladesh
 			</a>
 		</td>
@@ -127,7 +127,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/oman.md">
+			<a href="/markdown/public_contributions/oman">
 				Oman
 			</a>
 		</td>
@@ -141,7 +141,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/pakistan.md">
+			<a href="/markdown/public_contributions/pakistan">
 				Pakistan
 			</a>
 		</td>
@@ -152,7 +152,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/palestine.md">
+			<a href="/markdown/public_contributions/palestine">
 				Palestine
 			</a>
 		</td>
@@ -166,7 +166,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md">
+			<a href="/markdown/public_contributions/saudi_arabia">
 				Saudi Arabia
 			</a>
 		</td>
@@ -182,7 +182,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/syria.md">
+			<a href="/markdown/public_contributions/syria">
 				Syria
 			</a>
 		</td>
@@ -195,7 +195,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/turkey.md">
+			<a href="/markdown/public_contributions/turkey">
 				Turkey
 			</a>
 		</td>
