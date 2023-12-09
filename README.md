@@ -1,14 +1,13 @@
-# Top GitHub Users By Country  [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/682451803/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/682451803/year.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) 
-[![Image of insights](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/682451803/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/682451803/week.md)
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/9 5:32 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/9 6:13 AM UTC`.
 
-This repository contains users `8 countries` and `43 cities`. 
+This repository contains users `8 countries` and `46 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -42,7 +41,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 		</td>
 		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/MuhammadSaadSiddique/top-github-users">
-				<img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-action/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
@@ -94,7 +93,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/afghanistan">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/afghanistan.md">
 				Afghanistan
 			</a>
 		</td>
@@ -111,7 +110,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/bangladesh">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/bangladesh.md">
 				Bangladesh
 			</a>
 		</td>
@@ -126,7 +125,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/oman">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/oman.md">
 				Oman
 			</a>
 		</td>
@@ -140,18 +139,21 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/pakistan">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/pakistan.md">
 				Pakistan
 			</a>
 		</td>
 		<td>
 			<code>Islamabad</code> 
-			<code>Rawalpindi</code> 
+			<code>Karachi</code> 
+			<code>Lahore</code> 
+			<code>Faisalabad</code> 
+			<code>Peshawar</code> 
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/palestine">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/palestine.md">
 				Palestine
 			</a>
 		</td>
@@ -165,7 +167,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/saudi_arabia">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md">
 				Saudi Arabia
 			</a>
 		</td>
@@ -181,7 +183,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/syria">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/syria.md">
 				Syria
 			</a>
 		</td>
@@ -194,7 +196,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
-			<a href="markdown/public_contributions/turkey">
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/turkey.md">
 				Turkey
 			</a>
 		</td>
