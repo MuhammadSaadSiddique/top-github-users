@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/1/26 8:48 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/1/26 8:56 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -8207,7 +8207,7 @@ There are `993 users`  in Pakistan. You need at least `34 followers` to be on th
 		<td>624</td>
 		<td>
 			<a href="https://github.com/MasumaJaffery">
-				<img src="https://avatars.githubusercontent.com/u/118986886?s=72&u=fa6ece9cfaba64cdd654750353f7e4cb4765d2a0&v=4" width="24" alt="Avatar of MasumaJaffery"> MasumaJaffery
+				<img src="https://avatars.githubusercontent.com/u/118986886?s=72&u=7615baa9a577755cf5b199dd4716d7224bf88f78&v=4" width="24" alt="Avatar of MasumaJaffery"> MasumaJaffery
 			</a><br/>
 			Syeda Masuma Fatima
 		</td>
