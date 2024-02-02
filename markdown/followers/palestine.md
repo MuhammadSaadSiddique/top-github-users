@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2024/2/1 8:18 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2024/2/2 1:45 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1706,6 +1706,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>124</td>
 		<td>
+			<a href="https://github.com/Batoul-Shaheen">
+				<img src="https://avatars.githubusercontent.com/u/124446183?s=72&u=07796db084a56db44922b023ff0a5731587813ce&v=4" width="24" alt="Avatar of Batoul-Shaheen"> Batoul-Shaheen
+			</a><br/>
+			Batool Shaheen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td> Palestine</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
 			<a href="https://github.com/iamjazzar">
 				<img src="https://avatars.githubusercontent.com/u/11036472?s=72&u=ff80d1a13ea94820b05dfbdc6228cfa1a82ab13b&v=4" width="24" alt="Avatar of iamjazzar"> iamjazzar
 			</a><br/>
@@ -1717,7 +1730,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/abedshamia">
 				<img src="https://avatars.githubusercontent.com/u/73759748?s=72&u=ca063008eb8bfd124b86672cc852f2ecb5dcb441&v=4" width="24" alt="Avatar of abedshamia"> abedshamia
@@ -1730,7 +1743,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/RashaNaser">
 				<img src="https://avatars.githubusercontent.com/u/44090304?s=72&u=d55fca957f1d7f71463d7edfb6f094cb223aa3ce&v=4" width="24" alt="Avatar of RashaNaser"> RashaNaser
@@ -1743,7 +1756,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/haitham-akram">
 				<img src="https://avatars.githubusercontent.com/u/60620686?s=72&u=342ba658331f78de13aaf977eb9eb4983d4e7e1a&v=4" width="24" alt="Avatar of haitham-akram"> haitham-akram
@@ -1756,7 +1769,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/Alaa-Khattab">
 				<img src="https://avatars.githubusercontent.com/u/25320622?s=72&u=2b99471c9d16fa0e3dddba92f4f1e54a689f251b&v=4" width="24" alt="Avatar of Alaa-Khattab"> Alaa-Khattab
@@ -1769,7 +1782,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/Nazeh-Taha">
 				<img src="https://avatars.githubusercontent.com/u/54739625?s=72&u=6bab52163c39a416e5e98982384c66a896533b85&v=4" width="24" alt="Avatar of Nazeh-Taha"> Nazeh-Taha
@@ -1779,19 +1792,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NazehTaha1">NazehTaha1</a></td>
 		<td>Palestine</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/Batoul-Shaheen">
-				<img src="https://avatars.githubusercontent.com/u/124446183?s=72&u=07796db084a56db44922b023ff0a5731587813ce&v=4" width="24" alt="Avatar of Batoul-Shaheen"> Batoul-Shaheen
-			</a><br/>
-			Batool Shaheen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td> Palestine</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -7933,19 +7933,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>603</td>
 		<td>
-			<a href="https://github.com/m5atib">
-				<img src="https://avatars.githubusercontent.com/u/64478989?s=72&u=3a1c4c58c71f024a83704104528e59f530f81dd0&v=4" width="24" alt="Avatar of m5atib"> m5atib
-			</a><br/>
-			Muhaimen Khatib
-		</td>
-		<td>Hearize </td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>604</td>
-		<td>
 			<a href="https://github.com/Rivanjaradat">
 				<img src="https://avatars.githubusercontent.com/u/103911286?s=72&v=4" width="24" alt="Avatar of Rivanjaradat"> Rivanjaradat
 			</a><br/>
@@ -7954,6 +7941,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>Birzeit University </td>
 		<td>No Twitter Username</td>
 		<td>palestine</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>604</td>
+		<td>
+			<a href="https://github.com/m5atib">
+				<img src="https://avatars.githubusercontent.com/u/64478989?s=72&u=3a1c4c58c71f024a83704104528e59f530f81dd0&v=4" width="24" alt="Avatar of m5atib"> m5atib
+			</a><br/>
+			Muhaimen Khatib
+		</td>
+		<td>Hearize </td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
 		<td>8</td>
 	</tr>
 	<tr>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` by users in Palestine on `2024/2/1 8:18 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` by users in Palestine on `2024/2/2 1:45 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -115,7 +115,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>An Najah National University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
-		<td>3056</td>
+		<td>3078</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -185,19 +185,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/saranatour1">
-				<img src="https://avatars.githubusercontent.com/u/77834808?s=72&u=e953923cfcfc0a3e7ed2c8a4ab0542546bc85fe1&v=4" width="24" alt="Avatar of saranatour1"> saranatour1
-			</a><br/>
-			Sara
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tulkarem, Palestine </td>
-		<td>997</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
 			<a href="https://github.com/mayadaabed">
 				<img src="https://avatars.githubusercontent.com/u/45319357?s=72&u=75c6b3c49adfe0acccdbc7cf0d43433ceafbdf83&v=4" width="24" alt="Avatar of mayadaabed"> mayadaabed
 			</a><br/>
@@ -209,7 +196,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>990</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/cleversamerr">
 				<img src="https://avatars.githubusercontent.com/u/73291969?s=72&u=74dd2958257f819c772bbdb56244c026e63bf5bf&v=4" width="24" alt="Avatar of cleversamerr"> cleversamerr
@@ -220,6 +207,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td><a href="https://twitter.com/cleversamerr">cleversamerr</a></td>
 		<td>Palestine</td>
 		<td>982</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/saranatour1">
+				<img src="https://avatars.githubusercontent.com/u/77834808?s=72&u=e953923cfcfc0a3e7ed2c8a4ab0542546bc85fe1&v=4" width="24" alt="Avatar of saranatour1"> saranatour1
+			</a><br/>
+			Sara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tulkarem, Palestine </td>
+		<td>974</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -393,19 +393,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/osama-maree">
-				<img src="https://avatars.githubusercontent.com/u/108696087?s=72&u=8866e145e295aac3899484acc0cf95046438823a&v=4" width="24" alt="Avatar of osama-maree"> osama-maree
-			</a><br/>
-			Osama Maree
-		</td>
-		<td>Foothill Technology Solutions Llc.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Nablus</td>
-		<td>658</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/Rahaf-Mansour">
 				<img src="https://avatars.githubusercontent.com/u/109438456?s=72&u=f41475395168839b458bbbb764a40dc615b7166a&v=4" width="24" alt="Avatar of Rahaf-Mansour"> Rahaf-Mansour
 			</a><br/>
@@ -414,6 +401,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>Foothill Technology Solutions -intern-<br/></td>
 		<td>No Twitter Username</td>
 		<td>Nablus, Palestine </td>
+		<td>666</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/osama-maree">
+				<img src="https://avatars.githubusercontent.com/u/108696087?s=72&u=8866e145e295aac3899484acc0cf95046438823a&v=4" width="24" alt="Avatar of osama-maree"> osama-maree
+			</a><br/>
+			Osama Maree
+		</td>
+		<td>Foothill Technology Solutions Llc.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Nablus</td>
 		<td>658</td>
 	</tr>
 	<tr>
@@ -588,19 +588,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/momenqudaih">
-				<img src="https://avatars.githubusercontent.com/u/89316519?s=72&u=dfa8a3b4e3ce930598c80e76c0ed2713b1dc6540&v=4" width="24" alt="Avatar of momenqudaih"> momenqudaih
-			</a><br/>
-			Momen Qudaih
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>palestine</td>
-		<td>568</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/mabushelbaia">
 				<img src="https://avatars.githubusercontent.com/u/47891125?s=72&u=129a41c43c4c640b4dccffe3cf1d3ab000e65dd8&v=4" width="24" alt="Avatar of mabushelbaia"> mabushelbaia
 			</a><br/>
@@ -609,6 +596,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>Birzeit University </td>
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
+		<td>572</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/momenqudaih">
+				<img src="https://avatars.githubusercontent.com/u/89316519?s=72&u=dfa8a3b4e3ce930598c80e76c0ed2713b1dc6540&v=4" width="24" alt="Avatar of momenqudaih"> momenqudaih
+			</a><br/>
+			Momen Qudaih
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>palestine</td>
 		<td>568</td>
 	</tr>
 	<tr>
@@ -1337,7 +1337,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td> Birzeit University </td>
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
-		<td>308</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -3149,6 +3149,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>235</td>
 		<td>
+			<a href="https://github.com/Rivanjaradat">
+				<img src="https://avatars.githubusercontent.com/u/103911286?s=72&v=4" width="24" alt="Avatar of Rivanjaradat"> Rivanjaradat
+			</a><br/>
+			Rivan jaradat
+		</td>
+		<td>Birzeit University </td>
+		<td>No Twitter Username</td>
+		<td>palestine</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
 			<a href="https://github.com/AhmedIhsan2002">
 				<img src="https://avatars.githubusercontent.com/u/118778313?s=72&u=e1611d9c3e988a769c5cfa28b45bd245750bd153&v=4" width="24" alt="Avatar of AhmedIhsan2002"> AhmedIhsan2002
 			</a><br/>
@@ -3160,7 +3173,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/M7mdNassar">
 				<img src="https://avatars.githubusercontent.com/u/101148006?s=72&u=2df7fa48622d8372a6e66494a5f5cdc13a236498&v=4" width="24" alt="Avatar of M7mdNassar"> M7mdNassar
@@ -3173,7 +3186,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/Abdalrhman-Abuwarda">
 				<img src="https://avatars.githubusercontent.com/u/114994888?s=72&u=7b0686936693aeaee51267e750c5a071030b6045&v=4" width="24" alt="Avatar of Abdalrhman-Abuwarda"> Abdalrhman-Abuwarda
@@ -3184,19 +3197,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td><a href="https://twitter.com/Dev_Abdalrhman">Dev_Abdalrhman</a></td>
 		<td>Palestine - Gaza</td>
 		<td>101</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/Rivanjaradat">
-				<img src="https://avatars.githubusercontent.com/u/103911286?s=72&v=4" width="24" alt="Avatar of Rivanjaradat"> Rivanjaradat
-			</a><br/>
-			Rivan jaradat
-		</td>
-		<td>Birzeit University </td>
-		<td>No Twitter Username</td>
-		<td>palestine</td>
-		<td>98</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3422,6 +3422,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>256</td>
 		<td>
+			<a href="https://github.com/zeidanbraik">
+				<img src="https://avatars.githubusercontent.com/u/51915143?s=72&u=14784d793687dc195e57781d6bc6e2f8d9b4a44c&v=4" width="24" alt="Avatar of zeidanbraik"> zeidanbraik
+			</a><br/>
+			Zeidan Braik
+		</td>
+		<td>University Paris-saclay </td>
+		<td>No Twitter Username</td>
+		<td>Orsay, Palestine</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
 			<a href="https://github.com/Y7EA">
 				<img src="https://avatars.githubusercontent.com/u/87653635?s=72&u=a133f1a1522853dffb7e2e94278d991ec3d39943&v=4" width="24" alt="Avatar of Y7EA"> Y7EA
 			</a><br/>
@@ -3433,7 +3446,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/dee2323">
 				<img src="https://avatars.githubusercontent.com/u/67292105?s=72&u=5d8adc2b28fe584f92751dbaa4d4c2c5bfcd1f81&v=4" width="24" alt="Avatar of dee2323"> dee2323
@@ -3446,7 +3459,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/reemsh2000">
 				<img src="https://avatars.githubusercontent.com/u/71079908?s=72&u=3b42a05193f00f437ee231984ba064febae7b5e1&v=4" width="24" alt="Avatar of reemsh2000"> reemsh2000
@@ -3459,7 +3472,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/salahsaeed19">
 				<img src="https://avatars.githubusercontent.com/u/80893300?s=72&u=3144607c9f143839af456c398d6952a908d030a3&v=4" width="24" alt="Avatar of salahsaeed19"> salahsaeed19
@@ -3472,7 +3485,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/shahdKhawaldeh1">
 				<img src="https://avatars.githubusercontent.com/u/109172402?s=72&u=9a3dacb29d1648b7509f50fc73ecaf378da43626&v=4" width="24" alt="Avatar of shahdKhawaldeh1"> shahdKhawaldeh1
@@ -3485,20 +3498,20 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
-			<a href="https://github.com/zeidanbraik">
-				<img src="https://avatars.githubusercontent.com/u/51915143?s=72&u=14784d793687dc195e57781d6bc6e2f8d9b4a44c&v=4" width="24" alt="Avatar of zeidanbraik"> zeidanbraik
+			<a href="https://github.com/SalahQerem">
+				<img src="https://avatars.githubusercontent.com/u/95977142?s=72&u=08bb4d3b073207a1200bf9a2876a97c367e0ddda&v=4" width="24" alt="Avatar of SalahQerem"> SalahQerem
 			</a><br/>
-			Zeidan Braik
+			Salah Al-Din Qerem
 		</td>
-		<td>University Paris-saclay </td>
+		<td>Palestine Technical University -<br/>Kadoorie<br/></td>
 		<td>No Twitter Username</td>
-		<td>Orsay, Palestine</td>
-		<td>86</td>
+		<td>Jenin, Palestine</td>
+		<td>85</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/shamelj">
 				<img src="https://avatars.githubusercontent.com/u/70355802?s=72&u=4a6b1f3b14ba8f470ea5d5388b9ca9e0238dad81&v=4" width="24" alt="Avatar of shamelj"> shamelj
@@ -3509,19 +3522,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
 		<td>84</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/SalahQerem">
-				<img src="https://avatars.githubusercontent.com/u/95977142?s=72&u=08bb4d3b073207a1200bf9a2876a97c367e0ddda&v=4" width="24" alt="Avatar of SalahQerem"> SalahQerem
-			</a><br/>
-			Salah Al-Din Qerem
-		</td>
-		<td>Palestine Technical University -<br/>Kadoorie<br/></td>
-		<td>No Twitter Username</td>
-		<td>Jenin, Palestine</td>
-		<td>83</td>
 	</tr>
 	<tr>
 		<td>264</td>
@@ -4228,6 +4228,19 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>318</td>
 		<td>
+			<a href="https://github.com/yousefalaqra">
+				<img src="https://avatars.githubusercontent.com/u/56271934?s=72&u=2d177a9f1398231a634e9aa62a7b488d8467076f&v=4" width="24" alt="Avatar of yousefalaqra"> yousefalaqra
+			</a><br/>
+			Jo Aqra
+		</td>
+		<td>Fullsession </td>
+		<td>No Twitter Username</td>
+		<td>Palestine, Westbank, Nablus city. </td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
 			<a href="https://github.com/mohammedSuhail19">
 				<img src="https://avatars.githubusercontent.com/u/101905417?s=72&u=58d2681496c8464f2b1f821dc6dc652b831b7ad0&v=4" width="24" alt="Avatar of mohammedSuhail19"> mohammedSuhail19
 			</a><br/>
@@ -4239,7 +4252,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/MahBadran93">
 				<img src="https://avatars.githubusercontent.com/u/56051864?s=72&u=cbf9122e4495c0e676cf8ba5c752c79c558a869c&v=4" width="24" alt="Avatar of MahBadran93"> MahBadran93
@@ -4252,7 +4265,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/Ansam56">
 				<img src="https://avatars.githubusercontent.com/u/86476980?s=72&v=4" width="24" alt="Avatar of Ansam56"> Ansam56
@@ -4265,7 +4278,7 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/saleemhamo">
 				<img src="https://avatars.githubusercontent.com/u/55649338?s=72&u=89d6d8d85087ddcec8f005aa36ef2133f37ccba4&v=4" width="24" alt="Avatar of saleemhamo"> saleemhamo
@@ -4275,19 +4288,6 @@ There are `989 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Glasgow, UK | Ramallah, Palestine </td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/yousefalaqra">
-				<img src="https://avatars.githubusercontent.com/u/56271934?s=72&u=2d177a9f1398231a634e9aa62a7b488d8467076f&v=4" width="24" alt="Avatar of yousefalaqra"> yousefalaqra
-			</a><br/>
-			Jo Aqra
-		</td>
-		<td>Fullsession </td>
-		<td>No Twitter Username</td>
-		<td>Palestine, Westbank, Nablus city. </td>
 		<td>56</td>
 	</tr>
 	<tr>
