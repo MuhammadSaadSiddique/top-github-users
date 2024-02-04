@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `number of followers` of users in Syria on `2024/2/3 8:18 PM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `number of followers` of users in Syria on `2024/2/4 1:48 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -323,7 +323,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>Syriatel Mobile Telecom </td>
 		<td>No Twitter Username</td>
 		<td>Damascus</td>
-		<td>39</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -3006,6 +3006,19 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/ObaidaNa">
+				<img src="https://avatars.githubusercontent.com/u/59305605?s=72&u=7c621da15b654feca2bb4e95b4879b655bc1c615&v=4" width="24" alt="Avatar of ObaidaNa"> ObaidaNa
+			</a><br/>
+			Obaida Nakkar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Syria</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/Abdulrahman-Alholo">
 				<img src="https://avatars.githubusercontent.com/u/84710498?s=72&u=3a5a4d80a38f05e97174e52767889e0519d872b5&v=4" width="24" alt="Avatar of Abdulrahman-Alholo"> Abdulrahman-Alholo
 			</a><br/>
@@ -3017,25 +3030,12 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Hamza-Rashed">
 				<img src="https://avatars.githubusercontent.com/u/62372964?s=72&u=818594e7a2e575cea1b25b61b540a8af8afe2c9f&v=4" width="24" alt="Avatar of Hamza-Rashed"> Hamza-Rashed
 			</a><br/>
 			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Syria</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/ObaidaNa">
-				<img src="https://avatars.githubusercontent.com/u/59305605?s=72&u=7c621da15b654feca2bb4e95b4879b655bc1c615&v=4" width="24" alt="Avatar of ObaidaNa"> ObaidaNa
-			</a><br/>
-			Obaida Nakkar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6152,19 +6152,6 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>466</td>
 		<td>
-			<a href="https://github.com/aliabdallateef97">
-				<img src="https://avatars.githubusercontent.com/u/118525397?s=72&u=3bd8af6df7b2055d56107488e299c9a25faf69fe&v=4" width="24" alt="Avatar of aliabdallateef97"> aliabdallateef97
-			</a><br/>
-			Ali Abd Allateef
-		</td>
-		<td>Hdr Agency </td>
-		<td>No Twitter Username</td>
-		<td>Damascus/Syria</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
 			<a href="https://github.com/Masa-Beydoun">
 				<img src="https://avatars.githubusercontent.com/u/110569438?s=72&u=ca24dbaf57ad086939c2b4ec99f5412b9fe4c450&v=4" width="24" alt="Avatar of Masa-Beydoun"> Masa-Beydoun
 			</a><br/>
@@ -6173,6 +6160,19 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Damascuse ,Syria</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/aliabdallateef97">
+				<img src="https://avatars.githubusercontent.com/u/118525397?s=72&u=3bd8af6df7b2055d56107488e299c9a25faf69fe&v=4" width="24" alt="Avatar of aliabdallateef97"> aliabdallateef97
+			</a><br/>
+			Ali Abd Allateef
+		</td>
+		<td>Hdr Agency </td>
+		<td>No Twitter Username</td>
+		<td>Damascus/Syria</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -6828,6 +6828,19 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>518</td>
 		<td>
+			<a href="https://github.com/zenmoh">
+				<img src="https://avatars.githubusercontent.com/u/104303020?s=72&u=77ebdaf284157921ad78d61d184c2e63d2cb8b22&v=4" width="24" alt="Avatar of zenmoh"> zenmoh
+			</a><br/>
+			Zen Mohammad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Syria</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
 			<a href="https://github.com/xXMHZXx98">
 				<img src="https://avatars.githubusercontent.com/u/103612587?s=72&u=16e5c3788cb2f9a8f27934982c84031e0f3297e9&v=4" width="24" alt="Avatar of xXMHZXx98"> xXMHZXx98
 			</a><br/>
@@ -6839,7 +6852,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/taheralmoussali">
 				<img src="https://avatars.githubusercontent.com/u/68022545?s=72&u=b22be27a04023799c55b9c50bb029b1ef91993b8&v=4" width="24" alt="Avatar of taheralmoussali"> taheralmoussali
@@ -6852,7 +6865,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/bashar-aldaher">
 				<img src="https://avatars.githubusercontent.com/u/67561329?s=72&u=751cd0088edfa636d6a0726e67b258c5479a4c6b&v=4" width="24" alt="Avatar of bashar-aldaher"> bashar-aldaher
@@ -6865,7 +6878,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/BasharHabsh">
 				<img src="https://avatars.githubusercontent.com/u/142018454?s=72&u=e7b333ce8d55fe917470f31ce0965b6468951a58&v=4" width="24" alt="Avatar of BasharHabsh"> BasharHabsh
@@ -6878,7 +6891,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/Mohammed-Husein">
 				<img src="https://avatars.githubusercontent.com/u/154328083?s=72&v=4" width="24" alt="Avatar of Mohammed-Husein"> Mohammed-Husein
@@ -6888,19 +6901,6 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Aleppo - Syria</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>523</td>
-		<td>
-			<a href="https://github.com/geassgate">
-				<img src="https://avatars.githubusercontent.com/u/117184203?s=72&v=4" width="24" alt="Avatar of geassgate"> geassgate
-			</a><br/>
-			ahmad allahham
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>DAMASCUS</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -6997,6 +6997,19 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>531</td>
 		<td>
+			<a href="https://github.com/geassgate">
+				<img src="https://avatars.githubusercontent.com/u/117184203?s=72&v=4" width="24" alt="Avatar of geassgate"> geassgate
+			</a><br/>
+			ahmad allahham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>DAMASCUS</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
 			<a href="https://github.com/muhammad0936">
 				<img src="https://avatars.githubusercontent.com/u/131200116?s=72&u=e20d82f1dd5649ce4c2162a0fc45c051dd8afc8c&v=4" width="24" alt="Avatar of muhammad0936"> muhammad0936
 			</a><br/>
@@ -7008,7 +7021,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/OmarMar19">
 				<img src="https://avatars.githubusercontent.com/u/119268164?s=72&u=1d06e77bad56f55adf96bd12d49825e1129bae51&v=4" width="24" alt="Avatar of OmarMar19"> OmarMar19
@@ -7021,7 +7034,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/loujainIbrahim">
 				<img src="https://avatars.githubusercontent.com/u/101523911?s=72&v=4" width="24" alt="Avatar of loujainIbrahim"> loujainIbrahim
@@ -7034,7 +7047,7 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/HanadiDar">
 				<img src="https://avatars.githubusercontent.com/u/56400283?s=72&u=c3686e3720f098a36b477f4b28a48faa12b1419b&v=4" width="24" alt="Avatar of HanadiDar"> HanadiDar
@@ -7044,19 +7057,6 @@ There are `981 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lattakia,Syria</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>535</td>
-		<td>
-			<a href="https://github.com/zenmoh">
-				<img src="https://avatars.githubusercontent.com/u/104303020?s=72&u=77ebdaf284157921ad78d61d184c2e63d2cb8b22&v=4" width="24" alt="Avatar of zenmoh"> zenmoh
-			</a><br/>
-			Zen Mohammad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Syria</td>
 		<td>1</td>
 	</tr>
 	<tr>
