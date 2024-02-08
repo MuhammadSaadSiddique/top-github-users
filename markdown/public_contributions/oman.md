@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `public contributions` by users in Oman on `2024/2/7 8:17 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `public contributions` by users in Oman on `2024/2/8 1:42 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -232,7 +232,7 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oman</td>
-		<td>282</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -744,6 +744,19 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>50</td>
 		<td>
+			<a href="https://github.com/MohammedAbri99">
+				<img src="https://avatars.githubusercontent.com/u/69345430?s=72&v=4" width="24" alt="Avatar of MohammedAbri99"> MohammedAbri99
+			</a><br/>
+			Mohammed Alabri
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nizwa, Muscat</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
 			<a href="https://github.com/almuhannad1">
 				<img src="https://avatars.githubusercontent.com/u/66358057?s=72&u=ba258312e651e6ad9176681f7b5bc0aff531fbd6&v=4" width="24" alt="Avatar of almuhannad1"> almuhannad1
 			</a><br/>
@@ -753,19 +766,6 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/almuhannad_01">almuhannad_01</a></td>
 		<td>Oman</td>
 		<td>100</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/MohammedAbri99">
-				<img src="https://avatars.githubusercontent.com/u/69345430?s=72&v=4" width="24" alt="Avatar of MohammedAbri99"> MohammedAbri99
-			</a><br/>
-			Mohammed Alabri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nizwa, Muscat</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -1810,6 +1810,19 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>132</td>
 		<td>
+			<a href="https://github.com/isyedaliraza">
+				<img src="https://avatars.githubusercontent.com/u/32142347?s=72&u=243d343aadc98d9cb1270860e306c2c10e85479b&v=4" width="24" alt="Avatar of isyedaliraza"> isyedaliraza
+			</a><br/>
+			Syed Ali Raza
+		</td>
+		<td>Baramej® | Business &<br/>Digital<br/>Technology<br/>Center<br/></td>
+		<td>No Twitter Username</td>
+		<td>Muscat, Oman</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
 			<a href="https://github.com/duhai-alshukaili">
 				<img src="https://avatars.githubusercontent.com/u/20399679?s=72&u=eda1ccf3eae73298eb6bb8c7d1958ee56d5528e1&v=4" width="24" alt="Avatar of duhai-alshukaili"> duhai-alshukaili
 			</a><br/>
@@ -1819,19 +1832,6 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Nizwa</td>
 		<td>33</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/isyedaliraza">
-				<img src="https://avatars.githubusercontent.com/u/32142347?s=72&u=243d343aadc98d9cb1270860e306c2c10e85479b&v=4" width="24" alt="Avatar of isyedaliraza"> isyedaliraza
-			</a><br/>
-			Syed Ali Raza
-		</td>
-		<td>Baramej® | Business &<br/>Digital<br/>Technology<br/>Center<br/></td>
-		<td>No Twitter Username</td>
-		<td>Muscat, Oman</td>
-		<td>32</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -5827,12 +5827,12 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>441</td>
 		<td>
-			<a href="https://github.com/ffoman">
-				<img src="https://avatars.githubusercontent.com/u/135639772?s=72&u=15f5605422fae7b439c2e813a3d10cfeda8c8479&v=4" width="24" alt="Avatar of ffoman"> ffoman
+			<a href="https://github.com/salafeer-ess">
+				<img src="https://avatars.githubusercontent.com/u/112370163?s=72&u=f1b0e068856e6858bec47e14d41e397ea0b6a8ee&v=4" width="24" alt="Avatar of salafeer-ess"> salafeer-ess
 			</a><br/>
-			Fatma Said
+			Elite Software Solutions
 		</td>
-		<td>Squ </td>
+		<td>Elite-software-solut </td>
 		<td>No Twitter Username</td>
 		<td>Oman</td>
 		<td>1</td>
@@ -5840,12 +5840,12 @@ There are `932 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>442</td>
 		<td>
-			<a href="https://github.com/salafeer-ess">
-				<img src="https://avatars.githubusercontent.com/u/112370163?s=72&u=f1b0e068856e6858bec47e14d41e397ea0b6a8ee&v=4" width="24" alt="Avatar of salafeer-ess"> salafeer-ess
+			<a href="https://github.com/ffoman">
+				<img src="https://avatars.githubusercontent.com/u/135639772?s=72&u=15f5605422fae7b439c2e813a3d10cfeda8c8479&v=4" width="24" alt="Avatar of ffoman"> ffoman
 			</a><br/>
-			Elite Software Solutions
+			Fatma Said
 		</td>
-		<td>Elite-software-solut </td>
+		<td>Squ </td>
 		<td>No Twitter Username</td>
 		<td>Oman</td>
 		<td>1</td>
