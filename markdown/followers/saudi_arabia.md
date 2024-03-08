@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `number of followers` of users in Saudi Arabia on `2024/3/7 8:17 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `number of followers` of users in Saudi Arabia on `2024/3/8 1:44 AM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -141,7 +141,7 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>@invertase </td>
 		<td><a href="https://twitter.com/pr_Mais">pr_Mais</a></td>
 		<td>Riyadh, Saudi Arabia</td>
-		<td>517</td>
+		<td>518</td>
 	</tr>
 	<tr>
 		<td>4</td>

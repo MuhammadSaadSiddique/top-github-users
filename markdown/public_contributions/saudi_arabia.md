@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` by users in Saudi Arabia on `2024/3/7 8:17 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` by users in Saudi Arabia on `2024/3/8 1:44 AM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -141,7 +141,7 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/shicolareone">shicolareone</a></td>
 		<td>Riyadh Saudi Arabia</td>
-		<td>1009</td>
+		<td>1020</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -198,19 +198,6 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/pr-Mais">
-				<img src="https://avatars.githubusercontent.com/u/41123719?s=72&u=d4c5e8f749246610051a01a87f7cb413d586e31b&v=4" width="24" alt="Avatar of pr-Mais"> pr-Mais
-			</a><br/>
-			Mais Alheraki
-		</td>
-		<td>@invertase </td>
-		<td><a href="https://twitter.com/pr_Mais">pr_Mais</a></td>
-		<td>Riyadh, Saudi Arabia</td>
-		<td>601</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
 			<a href="https://github.com/devalibello">
 				<img src="https://avatars.githubusercontent.com/u/114155239?s=72&u=dcadf64c69c2c51e1b942b48a52ded1d7753cbb0&v=4" width="24" alt="Avatar of devalibello"> devalibello
 			</a><br/>
@@ -219,6 +206,19 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>Full-stack Developer </td>
 		<td>No Twitter Username</td>
 		<td>Dammam, Saudi Arabia</td>
+		<td>602</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/pr-Mais">
+				<img src="https://avatars.githubusercontent.com/u/41123719?s=72&u=d4c5e8f749246610051a01a87f7cb413d586e31b&v=4" width="24" alt="Avatar of pr-Mais"> pr-Mais
+			</a><br/>
+			Mais Alheraki
+		</td>
+		<td>@invertase </td>
+		<td><a href="https://twitter.com/pr_Mais">pr_Mais</a></td>
+		<td>Riyadh, Saudi Arabia</td>
 		<td>601</td>
 	</tr>
 	<tr>
@@ -336,7 +336,7 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iKhalilM">iKhalilM</a></td>
 		<td>Riyadh - Amman</td>
-		<td>388</td>
+		<td>390</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -778,7 +778,7 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>Innovation Team </td>
 		<td>No Twitter Username</td>
 		<td>Riyadh, Saudi Arabia | Qassim, Saudi Arabia</td>
-		<td>193</td>
+		<td>194</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1303,6 +1303,19 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/a-alhusaini">
+				<img src="https://avatars.githubusercontent.com/u/44743015?s=72&u=faf626c5a48a28fb950d2bf06512119cdc8b5af0&v=4" width="24" alt="Avatar of a-alhusaini"> a-alhusaini
+			</a><br/>
+			Abdullah Alhusaini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Saudi Arabia, Riyadh</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/kareemaladawy">
 				<img src="https://avatars.githubusercontent.com/u/62149929?s=72&u=2fd467640699cc2522fc7669956814726b1b78ae&v=4" width="24" alt="Avatar of kareemaladawy"> kareemaladawy
 			</a><br/>
@@ -1312,19 +1325,6 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Saudi Arabia, Riyadh</td>
 		<td>119</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/a-alhusaini">
-				<img src="https://avatars.githubusercontent.com/u/44743015?s=72&u=faf626c5a48a28fb950d2bf06512119cdc8b5af0&v=4" width="24" alt="Avatar of a-alhusaini"> a-alhusaini
-			</a><br/>
-			Abdullah Alhusaini
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Saudi Arabia, Riyadh</td>
-		<td>118</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -2356,6 +2356,19 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/zeroows">
+				<img src="https://avatars.githubusercontent.com/u/401352?s=72&u=af0e8dea9088c96f363f636cd8a5c2c004dd5baa&v=4" width="24" alt="Avatar of zeroows"> zeroows
+			</a><br/>
+			Abdulrhman Alkhodiry
+		</td>
+		<td>Jahez </td>
+		<td>No Twitter Username</td>
+		<td>Riyadh, SA</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/WedadAlqithmi">
 				<img src="https://avatars.githubusercontent.com/u/108210044?s=72&v=4" width="24" alt="Avatar of WedadAlqithmi"> WedadAlqithmi
 			</a><br/>
@@ -2367,7 +2380,7 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/TwistedHardware">
 				<img src="https://avatars.githubusercontent.com/u/3673326?s=72&u=c7645f9e99b43e8b85ab2060d6db1dd5f951ee63&v=4" width="24" alt="Avatar of TwistedHardware"> TwistedHardware
@@ -2377,19 +2390,6 @@ There are `989 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>Tech Curve </td>
 		<td><a href="https://twitter.com/twistedhardware">twistedhardware</a></td>
 		<td>Riyadh, Saudi Arabia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/zeroows">
-				<img src="https://avatars.githubusercontent.com/u/401352?s=72&u=af0e8dea9088c96f363f636cd8a5c2c004dd5baa&v=4" width="24" alt="Avatar of zeroows"> zeroows
-			</a><br/>
-			Abdulrhman Alkhodiry
-		</td>
-		<td>Jahez </td>
-		<td>No Twitter Username</td>
-		<td>Riyadh, SA</td>
 		<td>52</td>
 	</tr>
 	<tr>
