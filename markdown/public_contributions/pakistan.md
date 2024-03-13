@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/3/13 8:55 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/3/13 9:03 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>48332</td>
+		<td>48333</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1870,7 +1870,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/devdaniyalali">devdaniyalali</a></td>
 		<td>Karachi,Pakistan</td>
-		<td>326</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -5502,6 +5502,19 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 	<tr>
 		<td>416</td>
 		<td>
+			<a href="https://github.com/ismail-programmer">
+				<img src="https://avatars.githubusercontent.com/u/45707739?s=72&u=768adb5516e1eac73f5daa8886bab58ebaaa2e14&v=4" width="24" alt="Avatar of ismail-programmer"> ismail-programmer
+			</a><br/>
+			Muhammad Ismail
+		</td>
+		<td>Smash Code </td>
+		<td><a href="https://twitter.com/ismailprogramer">ismailprogramer</a></td>
+		<td>Faislabad Punjab Pakistan</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a href="https://github.com/irdanish11">
 				<img src="https://avatars.githubusercontent.com/u/19354208?s=72&u=ab960bf1a6f0805f062c7f53aedf23e41cbe4504&v=4" width="24" alt="Avatar of irdanish11"> irdanish11
 			</a><br/>
@@ -5513,7 +5526,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/Momilijaz96">
 				<img src="https://avatars.githubusercontent.com/u/53872365?s=72&u=b39e03061591b79970b68113b5bead43e6a2d7b3&v=4" width="24" alt="Avatar of Momilijaz96"> Momilijaz96
@@ -5523,19 +5536,6 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>Machine Learning Engineer @<br/>Super.ai<br/></td>
 		<td><a href="https://twitter.com/IjazMomal">IjazMomal</a></td>
 		<td>Islamabad, Pakistan</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/ismail-programmer">
-				<img src="https://avatars.githubusercontent.com/u/45707739?s=72&u=768adb5516e1eac73f5daa8886bab58ebaaa2e14&v=4" width="24" alt="Avatar of ismail-programmer"> ismail-programmer
-			</a><br/>
-			Muhammad Ismail
-		</td>
-		<td>Smash Code </td>
-		<td><a href="https://twitter.com/ismailprogramer">ismailprogramer</a></td>
-		<td>Faislabad Punjab Pakistan</td>
 		<td>67</td>
 	</tr>
 	<tr>
