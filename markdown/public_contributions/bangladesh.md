@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2024/3/20 8:49 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2024/3/20 8:58 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -258,7 +258,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DrDisagree">DrDisagree</a></td>
 		<td>Bangladesh</td>
-		<td>2171</td>
+		<td>2173</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1589,6 +1589,19 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 	<tr>
 		<td>115</td>
 		<td>
+			<a href="https://github.com/Geek-a-Byte">
+				<img src="https://avatars.githubusercontent.com/u/59027621?s=72&u=09f0ecc4f9d755adaf0e4f123a8fa8e910992f16&v=4" width="24" alt="Avatar of Geek-a-Byte"> Geek-a-Byte
+			</a><br/>
+			Nazia Shehnaz Joynab
+		</td>
+		<td>@samsung </td>
+		<td>No Twitter Username</td>
+		<td>Dhaka, Bangladesh</td>
+		<td>445</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a href="https://github.com/naimulcsx">
 				<img src="https://avatars.githubusercontent.com/u/91200810?s=72&u=813a1df28ec6a03524af132bdfbfaf40f2eddf41&v=4" width="24" alt="Avatar of naimulcsx"> naimulcsx
 			</a><br/>
@@ -1598,19 +1611,6 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td><a href="https://twitter.com/naimulcsx">naimulcsx</a></td>
 		<td>Bangladesh</td>
 		<td>445</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/Geek-a-Byte">
-				<img src="https://avatars.githubusercontent.com/u/59027621?s=72&u=09f0ecc4f9d755adaf0e4f123a8fa8e910992f16&v=4" width="24" alt="Avatar of Geek-a-Byte"> Geek-a-Byte
-			</a><br/>
-			Nazia Shehnaz Joynab
-		</td>
-		<td>@samsung </td>
-		<td>No Twitter Username</td>
-		<td>Dhaka, Bangladesh</td>
-		<td>444</td>
 	</tr>
 	<tr>
 		<td>117</td>
