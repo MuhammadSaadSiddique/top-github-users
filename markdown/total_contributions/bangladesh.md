@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/3/21 8:58 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/3/21 9:06 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -887,7 +887,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
 		<td>1180</td>
-		<td>2109</td>
+		<td>2110</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -10216,6 +10216,20 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 	<tr>
 		<td>723</td>
 		<td>
+			<a href="https://github.com/alifbinhossain">
+				<img src="https://avatars.githubusercontent.com/u/76260461?s=72&v=4" width="24" alt="Avatar of alifbinhossain"> alifbinhossain
+			</a><br/>
+			Alif Bin Hossain
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alifbinhossain">alifbinhossain</a></td>
+		<td>Dhaka, Bangladesh.</td>
+		<td>19</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
 			<a href="https://github.com/safwanrahman">
 				<img src="https://avatars.githubusercontent.com/u/7114151?s=72&v=4" width="24" alt="Avatar of safwanrahman"> safwanrahman
 			</a><br/>
@@ -10228,7 +10242,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/asifmuntasir">
 				<img src="https://avatars.githubusercontent.com/u/66783393?s=72&u=125068682345b7d4ec8127ecc17f57968ffdc8bc&v=4" width="24" alt="Avatar of asifmuntasir"> asifmuntasir
@@ -10239,20 +10253,6 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Sylhet,Bangladesh</td>
 		<td>39</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/alifbinhossain">
-				<img src="https://avatars.githubusercontent.com/u/76260461?s=72&v=4" width="24" alt="Avatar of alifbinhossain"> alifbinhossain
-			</a><br/>
-			Alif Bin Hossain
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alifbinhossain">alifbinhossain</a></td>
-		<td>Dhaka, Bangladesh.</td>
-		<td>17</td>
 		<td>39</td>
 	</tr>
 	<tr>

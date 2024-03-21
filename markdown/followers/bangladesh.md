@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/3/21 8:58 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/3/21 9:06 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -154,7 +154,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Jubayer Riyad </td>
 		<td><a href="https://twitter.com/JubayerRiyad">JubayerRiyad</a></td>
 		<td>Bangladesh</td>
-		<td>5532</td>
+		<td>5533</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>4862</td>
+		<td>4863</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -297,7 +297,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Desktop It </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka,Bangladesh</td>
-		<td>1333</td>
+		<td>1334</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -700,7 +700,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Developers Media </td>
 		<td><a href="https://twitter.com/_bimasha_">_bimasha_</a></td>
 		<td>Bangladesh</td>
-		<td>708</td>
+		<td>709</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1649,7 +1649,7 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Pap Interantional Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Mohakhali, Dhaka</td>
-		<td>326</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>120</td>
