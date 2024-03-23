@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/3/23 8:57 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/3/23 9:05 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `8 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -4350,6 +4350,20 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 	<tr>
 		<td>304</td>
 		<td>
+			<a href="https://github.com/Antu7">
+				<img src="https://avatars.githubusercontent.com/u/25433660?s=72&u=1ee2aa2493edfa76e6270c6e8cc4034e4aea93c2&v=4" width="24" alt="Avatar of Antu7"> Antu7
+			</a><br/>
+			Tanvir Hossain Antu
+		</td>
+		<td>@automationsolutionz </td>
+		<td><a href="https://twitter.com/antu_tanvir">antu_tanvir</a></td>
+		<td>Dhaka,Bangladesh</td>
+		<td>6</td>
+		<td>583</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
 			<a href="https://github.com/royantar0311">
 				<img src="https://avatars.githubusercontent.com/u/31099021?s=72&u=1cb280999a985f5a42445cf24d142e1852c1ee9e&v=4" width="24" alt="Avatar of royantar0311"> royantar0311
 			</a><br/>
@@ -4360,20 +4374,6 @@ There are `984 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Bangladesh</td>
 		<td>0</td>
 		<td>583</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/Antu7">
-				<img src="https://avatars.githubusercontent.com/u/25433660?s=72&u=1ee2aa2493edfa76e6270c6e8cc4034e4aea93c2&v=4" width="24" alt="Avatar of Antu7"> Antu7
-			</a><br/>
-			Tanvir Hossain Antu
-		</td>
-		<td>@automationsolutionz </td>
-		<td><a href="https://twitter.com/antu_tanvir">antu_tanvir</a></td>
-		<td>Dhaka,Bangladesh</td>
-		<td>6</td>
-		<td>582</td>
 	</tr>
 	<tr>
 		<td>306</td>
