@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/3/29 1:45 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/3/29 8:19 PM UTC`.
 
-This repository contains users `8 countries` and `46 cities`. 
+This repository contains users `9 countries` and `46 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -163,6 +163,15 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Jabalia </code> 
 			<code>Hebron</code> 
 			<code>Nablus</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/top-github-users/blob/main/markdown/public_contributions/remote.md">
+				Remote
+			</a>
+		</td>
+		<td>
 		</td>
 	</tr>
 	<tr>
