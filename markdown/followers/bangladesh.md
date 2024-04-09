@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/4/9 8:39 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/4/9 8:48 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1524,19 +1524,6 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/miasif">
-				<img src="https://avatars.githubusercontent.com/u/60335491?s=72&u=7ebdfc3c14e26f12e5233f8e22aaf114b26a076d&v=4" width="24" alt="Avatar of miasif"> miasif
-			</a><br/>
-			Asif
-		</td>
-		<td>Pap Interantional Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Mohakhali, Dhaka</td>
-		<td>348</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
 			<a href="https://github.com/mahtamun-hoque-fahim">
 				<img src="https://avatars.githubusercontent.com/u/72432456?s=72&u=4a186965d2e3724bd775d01ac9c7f050003237f5&v=4" width="24" alt="Avatar of mahtamun-hoque-fahim"> mahtamun-hoque-fahim
 			</a><br/>
@@ -1546,6 +1533,19 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td><a href="https://twitter.com/mahtamunF">mahtamunF</a></td>
 		<td>Chattogram,Bangladesh</td>
 		<td>348</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/miasif">
+				<img src="https://avatars.githubusercontent.com/u/60335491?s=72&u=7ebdfc3c14e26f12e5233f8e22aaf114b26a076d&v=4" width="24" alt="Avatar of miasif"> miasif
+			</a><br/>
+			Asif
+		</td>
+		<td>Pap Interantional Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Mohakhali, Dhaka</td>
+		<td>347</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1979,19 +1979,6 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 	<tr>
 		<td>145</td>
 		<td>
-			<a href="https://github.com/noorjsdivs">
-				<img src="https://avatars.githubusercontent.com/u/104062645?s=72&u=2a635e2d7a69f4d55713489e0f2d1d8b2239f62e&v=4" width="24" alt="Avatar of noorjsdivs"> noorjsdivs
-			</a><br/>
-			Noor Mohammad
-		</td>
-		<td>Arogga.com </td>
-		<td>No Twitter Username</td>
-		<td>Dhaka, Bangladesh</td>
-		<td>283</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
 			<a href="https://github.com/mrsiamabdullah">
 				<img src="https://avatars.githubusercontent.com/u/114066993?s=72&u=687f32e99842929efc42e33f8d7c983548855b0c&v=4" width="24" alt="Avatar of mrsiamabdullah"> mrsiamabdullah
 			</a><br/>
@@ -1999,6 +1986,19 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mrsiamabdullah">mrsiamabdullah</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>284</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/noorjsdivs">
+				<img src="https://avatars.githubusercontent.com/u/104062645?s=72&u=2a635e2d7a69f4d55713489e0f2d1d8b2239f62e&v=4" width="24" alt="Avatar of noorjsdivs"> noorjsdivs
+			</a><br/>
+			Noor Mohammad
+		</td>
+		<td>Arogga.com </td>
+		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
 		<td>283</td>
 	</tr>

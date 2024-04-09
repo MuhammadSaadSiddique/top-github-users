@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/4/9 8:39 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/4/9 8:48 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1055,7 +1055,7 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td><a href="https://twitter.com/heerasheikh">heerasheikh</a></td>
 		<td>Sylhet, Bangladesh.</td>
 		<td>1</td>
-		<td>1833</td>
+		<td>1834</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -6626,8 +6626,8 @@ There are `985 users`  in Bangladesh. You need at least `58 followers` to be on 
 		<td>Ridoy-xd </td>
 		<td><a href="https://twitter.com/GOOD_NIGHT">GOOD_NIGHT</a></td>
 		<td>Dhaka </td>
-		<td>246</td>
-		<td>260</td>
+		<td>247</td>
+		<td>261</td>
 	</tr>
 	<tr>
 		<td>467</td>
