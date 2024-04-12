@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `number of followers` of users in Turkey on `2024/4/12 8:55 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `number of followers` of users in Turkey on `2024/4/12 9:03 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -5554,6 +5554,19 @@ There are `979 users`  in Turkey. You need at least `120 followers` to be on thi
 	<tr>
 		<td>420</td>
 		<td>
+			<a href="https://github.com/BedirhanGurler">
+				<img src="https://avatars.githubusercontent.com/u/63727217?s=72&u=4660f0a1a2b773000164f7fe7591cbac9adee19d&v=4" width="24" alt="Avatar of BedirhanGurler"> BedirhanGurler
+			</a><br/>
+			Bedirhan Gürler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ankara</td>
+		<td>210</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
 			<a href="https://github.com/yazilimciavukat">
 				<img src="https://avatars.githubusercontent.com/u/125596720?s=72&u=7931da8d21b758cdde25615a45d194402d05123c&v=4" width="24" alt="Avatar of yazilimciavukat"> yazilimciavukat
 			</a><br/>
@@ -5565,7 +5578,7 @@ There are `979 users`  in Turkey. You need at least `120 followers` to be on thi
 		<td>209</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/faruktoptas">
 				<img src="https://avatars.githubusercontent.com/u/1595227?s=72&v=4" width="24" alt="Avatar of faruktoptas"> faruktoptas
@@ -5575,19 +5588,6 @@ There are `979 users`  in Turkey. You need at least `120 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Istanbul</td>
-		<td>209</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/BedirhanGurler">
-				<img src="https://avatars.githubusercontent.com/u/63727217?s=72&u=4660f0a1a2b773000164f7fe7591cbac9adee19d&v=4" width="24" alt="Avatar of BedirhanGurler"> BedirhanGurler
-			</a><br/>
-			Bedirhan Gürler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ankara</td>
 		<td>209</td>
 	</tr>
 	<tr>

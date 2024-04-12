@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` and `private contributions` by users in Turkey on `2024/4/12 8:55 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` and `private contributions` by users in Turkey on `2024/4/12 9:03 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -116,8 +116,8 @@ There are `979 users`  in Turkey. You need at least `120 followers` to be on thi
 		<td>0xe0cf9bc10c3589a471 </td>
 		<td><a href="https://twitter.com/CryptoTylerMoon">CryptoTylerMoon</a></td>
 		<td>Turkey</td>
-		<td>61785</td>
-		<td>61828</td>
+		<td>61788</td>
+		<td>61831</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1671,7 +1671,7 @@ There are `979 users`  in Turkey. You need at least `120 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ankara, TR</td>
 		<td>6</td>
-		<td>1166</td>
+		<td>1170</td>
 	</tr>
 	<tr>
 		<td>113</td>
