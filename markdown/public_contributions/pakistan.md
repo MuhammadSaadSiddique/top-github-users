@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/5/12 8:41 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/5/12 8:49 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `37 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49889</td>
+		<td>49890</td>
 	</tr>
 	<tr>
 		<td>3</td>
