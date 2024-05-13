@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/5/13 8:43 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/5/13 8:52 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -214,8 +214,8 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>Enter Inventive Studio </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka</td>
-		<td>5012</td>
-		<td>5012</td>
+		<td>5015</td>
+		<td>5015</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -242,8 +242,8 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>Iit, Du </td>
 		<td><a href="https://twitter.com/orbachinujbuk">orbachinujbuk</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>3476</td>
-		<td>4628</td>
+		<td>3481</td>
+		<td>4633</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1041,7 +1041,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Sylhet, Bangladesh</td>
 		<td>141</td>
-		<td>1742</td>
+		<td>1743</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -2342,8 +2342,8 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>Easy Learning  </td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1078</td>
-		<td>1078</td>
+		<td>1079</td>
+		<td>1079</td>
 	</tr>
 	<tr>
 		<td>161</td>
