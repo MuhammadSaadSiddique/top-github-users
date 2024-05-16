@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` and `private contributions` by users in Turkey on `2024/5/16 8:59 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` and `private contributions` by users in Turkey on `2024/5/16 9:09 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -116,8 +116,8 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>Burganbank </td>
 		<td><a href="https://twitter.com/MiralayCrypto">MiralayCrypto</a></td>
 		<td>Turkey</td>
-		<td>72238</td>
-		<td>72265</td>
+		<td>72241</td>
+		<td>72268</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -242,8 +242,8 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>Cto At Upsonic </td>
 		<td><a href="https://twitter.com/onuratakanulsy">onuratakanulsy</a></td>
 		<td>Turkey</td>
-		<td>2968</td>
-		<td>4597</td>
+		<td>2970</td>
+		<td>4599</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -593,7 +593,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Istanbul</td>
 		<td>25</td>
-		<td>2313</td>
+		<td>2315</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -1195,7 +1195,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Turkey, Antalya</td>
 		<td>84</td>
-		<td>1522</td>
+		<td>1523</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1279,7 +1279,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td><a href="https://twitter.com/tfnyldrm">tfnyldrm</a></td>
 		<td>Ankara</td>
 		<td>34</td>
-		<td>1437</td>
+		<td>1438</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1391,7 +1391,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Turkey, UAE, Egypt, Russia, Georgia</td>
 		<td>1064</td>
-		<td>1376</td>
+		<td>1377</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1937,7 +1937,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td><a href="https://twitter.com/ismkdc">ismkdc</a></td>
 		<td>İstanbul</td>
 		<td>34</td>
-		<td>1047</td>
+		<td>1048</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -3617,7 +3617,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td><a href="https://twitter.com/BeratYesbekk">BeratYesbekk</a></td>
 		<td>Istanbul</td>
 		<td>63</td>
-		<td>477</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>252</td>
@@ -4415,7 +4415,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td><a href="https://twitter.com/levcodes">levcodes</a></td>
 		<td>Turkey</td>
 		<td>84</td>
-		<td>352</td>
+		<td>353</td>
 	</tr>
 	<tr>
 		<td>309</td>
@@ -5521,7 +5521,7 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td><a href="https://twitter.com/veyselaksinn">veyselaksinn</a></td>
 		<td>İstanbul/Türkiye</td>
 		<td>108</td>
-		<td>229</td>
+		<td>230</td>
 	</tr>
 	<tr>
 		<td>388</td>
@@ -8830,6 +8830,20 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 	<tr>
 		<td>624</td>
 		<td>
+			<a href="https://github.com/Sedatktn06">
+				<img src="https://avatars.githubusercontent.com/u/54412886?s=72&u=8490090e5e28ba415e3d4a48d0f1e4393367619a&v=4" width="24" alt="Avatar of Sedatktn06"> Sedatktn06
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ankara-Turkey</td>
+		<td>43</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
 			<a href="https://github.com/semihshn">
 				<img src="https://avatars.githubusercontent.com/u/57491762?s=72&u=8fb6f15adb8c628ccc492d2e716151c6e594b8e4&v=4" width="24" alt="Avatar of semihshn"> semihshn
 			</a><br/>
@@ -8840,20 +8854,6 @@ There are `979 users`  in Turkey. You need at least `121 followers` to be on thi
 		<td>Turkey</td>
 		<td>43</td>
 		<td>43</td>
-	</tr>
-	<tr>
-		<td>625</td>
-		<td>
-			<a href="https://github.com/Sedatktn06">
-				<img src="https://avatars.githubusercontent.com/u/54412886?s=72&u=8490090e5e28ba415e3d4a48d0f1e4393367619a&v=4" width="24" alt="Avatar of Sedatktn06"> Sedatktn06
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ankara-Turkey</td>
-		<td>42</td>
-		<td>42</td>
 	</tr>
 	<tr>
 		<td>626</td>
