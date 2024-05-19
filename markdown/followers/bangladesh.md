@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/5/19 8:43 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/5/19 8:52 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -492,7 +492,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hafizur_jr">hafizur_jr</a></td>
 		<td>Bangladesh</td>
-		<td>959</td>
+		<td>960</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -9324,6 +9324,19 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 	<tr>
 		<td>710</td>
 		<td>
+			<a href="https://github.com/IsmailAlamKhan">
+				<img src="https://avatars.githubusercontent.com/u/67656229?s=72&u=de728a21c729584adbe35508b7d408c8859c5cef&v=4" width="24" alt="Avatar of IsmailAlamKhan"> IsmailAlamKhan
+			</a><br/>
+			Md Ismail Alam Khan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mdismailalamkh1">mdismailalamkh1</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
 			<a href="https://github.com/pyprism">
 				<img src="https://avatars.githubusercontent.com/u/1469242?s=72&u=96ba2a88041e7f3f4215f5bb5ae8f381a4e6d202&v=4" width="24" alt="Avatar of pyprism"> pyprism
 			</a><br/>
@@ -9335,7 +9348,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/hossainchisty">
 				<img src="https://avatars.githubusercontent.com/u/62835101?s=72&u=c41bb681b3db4392da2343fb83660a5f353499a3&v=4" width="24" alt="Avatar of hossainchisty"> hossainchisty
@@ -9348,7 +9361,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/ArnobKumarSaha">
 				<img src="https://avatars.githubusercontent.com/u/53598781?s=72&u=c76b2be73e00e1a86f2ce094485a7074b1808f31&v=4" width="24" alt="Avatar of ArnobKumarSaha"> ArnobKumarSaha
@@ -9361,7 +9374,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/tar3q-az1z">
 				<img src="https://avatars.githubusercontent.com/u/128733992?s=72&u=59996c6a11a2290c2a3cbed195f613030b4c1360&v=4" width="24" alt="Avatar of tar3q-az1z"> tar3q-az1z
@@ -9374,7 +9387,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/mdrabbihossen">
 				<img src="https://avatars.githubusercontent.com/u/69860540?s=72&u=aaac445ee29231fc7314dc6020da4e3c3713d4b0&v=4" width="24" alt="Avatar of mdrabbihossen"> mdrabbihossen
@@ -9387,7 +9400,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/ShafiaChy">
 				<img src="https://avatars.githubusercontent.com/u/73391023?s=72&u=3388f6ddbc8103cb7bf8d41268563d7114266842&v=4" width="24" alt="Avatar of ShafiaChy"> ShafiaChy
@@ -9400,7 +9413,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/r3k4t">
 				<img src="https://avatars.githubusercontent.com/u/69615463?s=72&u=ef81bb727007ca42841101271021f499ab36bb01&v=4" width="24" alt="Avatar of r3k4t"> r3k4t
@@ -9413,7 +9426,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/akifislam">
 				<img src="https://avatars.githubusercontent.com/u/53875427?s=72&u=6b72bd13b1383185bc813974f85c27de2037bc38&v=4" width="24" alt="Avatar of akifislam"> akifislam
@@ -9426,7 +9439,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/bijoy26">
 				<img src="https://avatars.githubusercontent.com/u/42487891?s=72&u=05c3e506129882a81865b5cbb31d314807e04681&v=4" width="24" alt="Avatar of bijoy26"> bijoy26
@@ -9439,7 +9452,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/ishtiak-ahmed">
 				<img src="https://avatars.githubusercontent.com/u/57805696?s=72&u=2b9663607202b1a9df5c06d9de0b01643f7fdbc5&v=4" width="24" alt="Avatar of ishtiak-ahmed"> ishtiak-ahmed
@@ -9452,7 +9465,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/Nahid-Hassan">
 				<img src="https://avatars.githubusercontent.com/u/36586531?s=72&u=b350fe35b7fa8c49fa79303bc342fc15814142ab&v=4" width="24" alt="Avatar of Nahid-Hassan"> Nahid-Hassan
@@ -9461,19 +9474,6 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		</td>
 		<td>Associate Software Engineer, Therap<br/>(bd)<br/>Ltd.<br/></td>
 		<td>No Twitter Username</td>
-		<td>Dhaka, Bangladesh</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>721</td>
-		<td>
-			<a href="https://github.com/IsmailAlamKhan">
-				<img src="https://avatars.githubusercontent.com/u/67656229?s=72&u=de728a21c729584adbe35508b7d408c8859c5cef&v=4" width="24" alt="Avatar of IsmailAlamKhan"> IsmailAlamKhan
-			</a><br/>
-			Md Ismail Alam Khan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mdismailalamkh1">mdismailalamkh1</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>79</td>
 	</tr>
