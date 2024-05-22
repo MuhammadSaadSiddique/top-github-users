@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2024/5/21 12:59 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2024/5/22 1:55 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -141,7 +141,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Tech Mahindra </td>
 		<td><a href="https://twitter.com/ahmedtechm">ahmedtechm</a></td>
 		<td>Muscat, Oman</td>
-		<td>213</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -206,7 +206,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mtkarimi">mtkarimi</a></td>
 		<td>Oman</td>
-		<td>81</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -1654,6 +1654,19 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>120</td>
 		<td>
+			<a href="https://github.com/almuhannad1">
+				<img src="https://avatars.githubusercontent.com/u/66358057?s=72&u=ba258312e651e6ad9176681f7b5bc0aff531fbd6&v=4" width="24" alt="Avatar of almuhannad1"> almuhannad1
+			</a><br/>
+			Almuhannad_01
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/almuhannad_01">almuhannad_01</a></td>
+		<td>Oman</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
 			<a href="https://github.com/asayedio">
 				<img src="https://avatars.githubusercontent.com/u/37831748?s=72&u=18dad711a8c5a31149298c7aa1875e37717c5e1a&v=4" width="24" alt="Avatar of asayedio"> asayedio
 			</a><br/>
@@ -1665,7 +1678,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/MOGr488">
 				<img src="https://avatars.githubusercontent.com/u/86527969?s=72&u=70124d62097f2cb93f5bc2f10e85305abbdfe974&v=4" width="24" alt="Avatar of MOGr488"> MOGr488
@@ -1678,7 +1691,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/Hilal-Almoqbali">
 				<img src="https://avatars.githubusercontent.com/u/72453298?s=72&v=4" width="24" alt="Avatar of Hilal-Almoqbali"> Hilal-Almoqbali
@@ -1691,7 +1704,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/ReemAlSharji">
 				<img src="https://avatars.githubusercontent.com/u/96210737?s=72&u=da5406155e925a71da935f7eced9578907e99d4b&v=4" width="24" alt="Avatar of ReemAlSharji"> ReemAlSharji
@@ -1704,7 +1717,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/Laurrencia">
 				<img src="https://avatars.githubusercontent.com/u/81080746?s=72&u=e450c0da5062a89b5d7662b5e7b3531c7863bcfd&v=4" width="24" alt="Avatar of Laurrencia"> Laurrencia
@@ -1717,7 +1730,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/notron">
 				<img src="https://avatars.githubusercontent.com/u/8420759?s=72&u=6ab06c02c31dd0e053f9b618f4de8ca3994cf3b7&v=4" width="24" alt="Avatar of notron"> notron
@@ -1730,7 +1743,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/AjShirin">
 				<img src="https://avatars.githubusercontent.com/u/92366951?s=72&u=54b74ba0ea117169d280c0cb3baf8578f3528992&v=4" width="24" alt="Avatar of AjShirin"> AjShirin
@@ -1743,7 +1756,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/ahmedg90">
 				<img src="https://avatars.githubusercontent.com/u/23008831?s=72&u=464c66a80d87665fac8fe1ff673f1317d20587ce&v=4" width="24" alt="Avatar of ahmedg90"> ahmedg90
@@ -1756,7 +1769,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/pccrazy">
 				<img src="https://avatars.githubusercontent.com/u/5598959?s=72&u=dcbc4506c98a720caf339696b831eb9d713026ca&v=4" width="24" alt="Avatar of pccrazy"> pccrazy
@@ -1769,7 +1782,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/taaa22">
 				<img src="https://avatars.githubusercontent.com/u/24491863?s=72&u=6591e4ee8f743c5063a4ca6aea5c9fc5438a7059&v=4" width="24" alt="Avatar of taaa22"> taaa22
@@ -1782,7 +1795,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Missc0d3r">
 				<img src="https://avatars.githubusercontent.com/u/24991057?s=72&u=5ae14e6f3c5a6f92c14afc8d6020851ad13b566f&v=4" width="24" alt="Avatar of Missc0d3r"> Missc0d3r
@@ -1795,7 +1808,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/RevanthNemani">
 				<img src="https://avatars.githubusercontent.com/u/43512987?s=72&u=f26689e83dcb5fa04a7ee0cc45b8552ec55694f1&v=4" width="24" alt="Avatar of RevanthNemani"> RevanthNemani
@@ -1808,7 +1821,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/shereiqi1">
 				<img src="https://avatars.githubusercontent.com/u/105645531?s=72&u=304d63133d13d86ea26e6f8cadb0c94ace7a6bc2&v=4" width="24" alt="Avatar of shereiqi1"> shereiqi1
@@ -1821,7 +1834,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/lizannajohn">
 				<img src="https://avatars.githubusercontent.com/u/117629085?s=72&u=b5ac4275f6b23fc8887a34a569c96ab741382231&v=4" width="24" alt="Avatar of lizannajohn"> lizannajohn
@@ -1834,7 +1847,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/abdmanss">
 				<img src="https://avatars.githubusercontent.com/u/3151108?s=72&u=8f685d88ac99a843b2d427bdd683a27904b99268&v=4" width="24" alt="Avatar of abdmanss"> abdmanss
@@ -1847,7 +1860,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/WhatIsFun">
 				<img src="https://avatars.githubusercontent.com/u/96421608?s=72&u=7121fb153cac85353119a205912d4750a5ace3b4&v=4" width="24" alt="Avatar of WhatIsFun"> WhatIsFun
@@ -1860,7 +1873,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/idrisaltamimi">
 				<img src="https://avatars.githubusercontent.com/u/97464844?s=72&u=7a5695af72a4cc3d6ab7281c4d8dcbe206f3ab81&v=4" width="24" alt="Avatar of idrisaltamimi"> idrisaltamimi
@@ -1873,7 +1886,7 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/AliAlSubhi98">
 				<img src="https://avatars.githubusercontent.com/u/123540925?s=72&v=4" width="24" alt="Avatar of AliAlSubhi98"> AliAlSubhi98
@@ -1882,19 +1895,6 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		</td>
 		<td>Tech Mahindra </td>
 		<td>No Twitter Username</td>
-		<td>Oman</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/almuhannad1">
-				<img src="https://avatars.githubusercontent.com/u/66358057?s=72&u=ba258312e651e6ad9176681f7b5bc0aff531fbd6&v=4" width="24" alt="Avatar of almuhannad1"> almuhannad1
-			</a><br/>
-			Almuhannad_01
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/almuhannad_01">almuhannad_01</a></td>
 		<td>Oman</td>
 		<td>6</td>
 	</tr>
@@ -2135,19 +2135,6 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>157</td>
 		<td>
-			<a href="https://github.com/melwinVincent">
-				<img src="https://avatars.githubusercontent.com/u/12426903?s=72&u=68cd9a202675b8114340ce31cfcb5a6d45bc05f5&v=4" width="24" alt="Avatar of melwinVincent"> melwinVincent
-			</a><br/>
-			Melwin Vincent
-		</td>
-		<td>Oifc </td>
-		<td>No Twitter Username</td>
-		<td>Muscat</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
 			<a href="https://github.com/sapomani">
 				<img src="https://avatars.githubusercontent.com/u/11939023?s=72&u=108213dae195cfc24bb01afb3a156c49f5b7734f&v=4" width="24" alt="Avatar of sapomani"> sapomani
 			</a><br/>
@@ -2156,6 +2143,19 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Pasi </td>
 		<td>No Twitter Username</td>
 		<td>Oman , Muscat</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/melwinVincent">
+				<img src="https://avatars.githubusercontent.com/u/12426903?s=72&u=68cd9a202675b8114340ce31cfcb5a6d45bc05f5&v=4" width="24" alt="Avatar of melwinVincent"> melwinVincent
+			</a><br/>
+			Melwin Vincent
+		</td>
+		<td>Oifc </td>
+		<td>No Twitter Username</td>
+		<td>Muscat</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -4293,19 +4293,6 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>323</td>
 		<td>
-			<a href="https://github.com/saraAlmaqbali95">
-				<img src="https://avatars.githubusercontent.com/u/67467826?s=72&v=4" width="24" alt="Avatar of saraAlmaqbali95"> saraAlmaqbali95
-			</a><br/>
-			Sara Almaqbali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oman</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
 			<a href="https://github.com/shaaarplegs">
 				<img src="https://avatars.githubusercontent.com/u/82036686?s=72&u=0704dcbbfbd652803f49837abd96c1148ee95d44&v=4" width="24" alt="Avatar of shaaarplegs"> shaaarplegs
 			</a><br/>
@@ -4314,6 +4301,19 @@ There are `930 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>@quardafy </td>
 		<td>No Twitter Username</td>
 		<td>Oman, Muscat</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/saraAlmaqbali95">
+				<img src="https://avatars.githubusercontent.com/u/67467826?s=72&v=4" width="24" alt="Avatar of saraAlmaqbali95"> saraAlmaqbali95
+			</a><br/>
+			Sara Almaqbali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oman</td>
 		<td>1</td>
 	</tr>
 	<tr>
