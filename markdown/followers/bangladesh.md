@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/5/25 8:40 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/5/25 8:49 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -3027,7 +3027,7 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>Simplisolve </td>
 		<td>No Twitter Username</td>
 		<td>DHAKA, BANGLADESH</td>
-		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -5697,19 +5697,6 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 	<tr>
 		<td>431</td>
 		<td>
-			<a href="https://github.com/maifeeulasad">
-				<img src="https://avatars.githubusercontent.com/u/29339330?s=72&u=fd358e37da40c410b4e653edb38ff5bfe05a100b&v=4" width="24" alt="Avatar of maifeeulasad"> maifeeulasad
-			</a><br/>
-			Maifee Ul Asad
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Maifeeulasad">Maifeeulasad</a></td>
-		<td>Chittagong , Bangladesh </td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
 			<a href="https://github.com/md-abir-alahe">
 				<img src="https://avatars.githubusercontent.com/u/108272566?s=72&u=faf35417064d357c6298d69db09074f38a1fa244&v=4" width="24" alt="Avatar of md-abir-alahe"> md-abir-alahe
 			</a><br/>
@@ -5718,6 +5705,19 @@ There are `984 users`  in Bangladesh. You need at least `60 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abir_alahe">abir_alahe</a></td>
 		<td>Dhaka, Bangladesh</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/maifeeulasad">
+				<img src="https://avatars.githubusercontent.com/u/29339330?s=72&u=fd358e37da40c410b4e653edb38ff5bfe05a100b&v=4" width="24" alt="Avatar of maifeeulasad"> maifeeulasad
+			</a><br/>
+			Maifee Ul Asad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Maifeeulasad">Maifeeulasad</a></td>
+		<td>Chittagong , Bangladesh </td>
 		<td>116</td>
 	</tr>
 	<tr>
