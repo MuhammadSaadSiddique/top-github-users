@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/5/30 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/5/30 9:01 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49748</td>
+		<td>49749</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -4228,6 +4228,19 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 	<tr>
 		<td>318</td>
 		<td>
+			<a href="https://github.com/MianJawadAhmad">
+				<img src="https://avatars.githubusercontent.com/u/39160224?s=72&u=a7b5aa2a1a8f8e2095974cae989175dcf9c82372&v=4" width="24" alt="Avatar of MianJawadAhmad"> MianJawadAhmad
+			</a><br/>
+			Mian Jawad Ahmad
+		</td>
+		<td>@encoderbytes </td>
+		<td><a href="https://twitter.com/MianJawadAhmad1">MianJawadAhmad1</a></td>
+		<td>Pakistan</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
 			<a href="https://github.com/Jazzel">
 				<img src="https://avatars.githubusercontent.com/u/66016802?s=72&u=6d1305fe27d38794a5ed5273385e5197c47dbf9f&v=4" width="24" alt="Avatar of Jazzel"> Jazzel
 			</a><br/>
@@ -4239,7 +4252,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/sarahsga">
 				<img src="https://avatars.githubusercontent.com/u/10798986?s=72&u=17cf4426e00f5d1cbb5d9cafd0bfa4738d6839b9&v=4" width="24" alt="Avatar of sarahsga"> sarahsga
@@ -4252,7 +4265,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/JunaidJameel">
 				<img src="https://avatars.githubusercontent.com/u/109211380?s=72&u=36441ad792295df6366cb5014f6bd07e192d0a4e&v=4" width="24" alt="Avatar of JunaidJameel"> JunaidJameel
@@ -4261,19 +4274,6 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Pakistan</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/MianJawadAhmad">
-				<img src="https://avatars.githubusercontent.com/u/39160224?s=72&u=a7b5aa2a1a8f8e2095974cae989175dcf9c82372&v=4" width="24" alt="Avatar of MianJawadAhmad"> MianJawadAhmad
-			</a><br/>
-			Mian Jawad Ahmad
-		</td>
-		<td>@encoderbytes </td>
-		<td><a href="https://twitter.com/MianJawadAhmad1">MianJawadAhmad1</a></td>
 		<td>Pakistan</td>
 		<td>113</td>
 	</tr>

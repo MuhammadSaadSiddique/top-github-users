@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/5/30 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/5/30 9:01 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49748</td>
-		<td>50360</td>
+		<td>49749</td>
+		<td>50361</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -453,7 +453,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Islamabad, Pakistan</td>
 		<td>28</td>
-		<td>2673</td>
+		<td>2674</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -2245,7 +2245,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Pakistan</td>
 		<td>166</td>
-		<td>997</td>
+		<td>998</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -7640,6 +7640,20 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 	<tr>
 		<td>539</td>
 		<td>
+			<a href="https://github.com/MianJawadAhmad">
+				<img src="https://avatars.githubusercontent.com/u/39160224?s=72&u=a7b5aa2a1a8f8e2095974cae989175dcf9c82372&v=4" width="24" alt="Avatar of MianJawadAhmad"> MianJawadAhmad
+			</a><br/>
+			Mian Jawad Ahmad
+		</td>
+		<td>@encoderbytes </td>
+		<td><a href="https://twitter.com/MianJawadAhmad1">MianJawadAhmad1</a></td>
+		<td>Pakistan</td>
+		<td>115</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
 			<a href="https://github.com/MonaMobeen">
 				<img src="https://avatars.githubusercontent.com/u/101993714?s=72&u=3b38cbb0a4a53b717f599c9266523b5abe5f7125&v=4" width="24" alt="Avatar of MonaMobeen"> MonaMobeen
 			</a><br/>
@@ -7652,7 +7666,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/mrzaid">
 				<img src="https://avatars.githubusercontent.com/u/55809488?s=72&u=b85b307d51ab2d9460398ede2f969bc8e4fb38f7&v=4" width="24" alt="Avatar of mrzaid"> mrzaid
@@ -7666,7 +7680,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/fastesol">
 				<img src="https://avatars.githubusercontent.com/u/12485556?s=72&u=8ac9866a98ddc3f558bf157b1c403b0f876750ce&v=4" width="24" alt="Avatar of fastesol"> fastesol
@@ -7680,7 +7694,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/ohmysaudi">
 				<img src="https://avatars.githubusercontent.com/u/34591174?s=72&u=5a96171d85f3c5021b2017ed9153ca3ec9a3e3a3&v=4" width="24" alt="Avatar of ohmysaudi"> ohmysaudi
@@ -7691,20 +7705,6 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td><a href="https://twitter.com/saudafzal25">saudafzal25</a></td>
 		<td>Faisalabad (Pakistan)</td>
 		<td>40</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
-			<a href="https://github.com/MianJawadAhmad">
-				<img src="https://avatars.githubusercontent.com/u/39160224?s=72&u=a7b5aa2a1a8f8e2095974cae989175dcf9c82372&v=4" width="24" alt="Avatar of MianJawadAhmad"> MianJawadAhmad
-			</a><br/>
-			Mian Jawad Ahmad
-		</td>
-		<td>@encoderbytes </td>
-		<td><a href="https://twitter.com/MianJawadAhmad1">MianJawadAhmad1</a></td>
-		<td>Pakistan</td>
-		<td>113</td>
 		<td>140</td>
 	</tr>
 	<tr>
