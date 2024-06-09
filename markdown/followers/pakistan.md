@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/6/9 8:45 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/6/9 8:54 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -11781,6 +11781,19 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 	<tr>
 		<td>899</td>
 		<td>
+			<a href="https://github.com/iabdr">
+				<img src="https://avatars.githubusercontent.com/u/87899654?s=72&u=efb4846dbf121f076204fa7635c9f19d25bfa892&v=4" width="24" alt="Avatar of iabdr"> iabdr
+			</a><br/>
+			Raja Abdullah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abdrajax">abdrajax</a></td>
+		<td>Pakistan</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
 			<a href="https://github.com/bilalah211">
 				<img src="https://avatars.githubusercontent.com/u/138313506?s=72&u=3d5e2bd52a67eafaae7ff8071e258446e8b12447&v=4" width="24" alt="Avatar of bilalah211"> bilalah211
 			</a><br/>
@@ -11792,7 +11805,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/SaeedIqbal">
 				<img src="https://avatars.githubusercontent.com/u/1551440?s=72&u=d943250e0a91df6870d5ee90fd25f976f576ead1&v=4" width="24" alt="Avatar of SaeedIqbal"> SaeedIqbal
@@ -11805,7 +11818,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/hammadtariq">
 				<img src="https://avatars.githubusercontent.com/u/4215644?s=72&u=cc47cfc8b79c62c028a76b08b629b55e45893913&v=4" width="24" alt="Avatar of hammadtariq"> hammadtariq
@@ -11818,7 +11831,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/iFaiq19">
 				<img src="https://avatars.githubusercontent.com/u/57317125?s=72&u=6caec4043822c5c4e74ff04e40ea9740ab65e08f&v=4" width="24" alt="Avatar of iFaiq19"> iFaiq19
@@ -11831,7 +11844,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/codebyraza">
 				<img src="https://avatars.githubusercontent.com/u/92684107?s=72&u=9c44192b88e97e81ccd669e4d7ed0847883eae21&v=4" width="24" alt="Avatar of codebyraza"> codebyraza
@@ -11844,7 +11857,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/LybaFatimaNasir">
 				<img src="https://avatars.githubusercontent.com/u/55187190?s=72&u=5748df9d4cd5739a02d553967a9c4c6530ef7744&v=4" width="24" alt="Avatar of LybaFatimaNasir"> LybaFatimaNasir
@@ -11857,7 +11870,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/FareenaEhtesham">
 				<img src="https://avatars.githubusercontent.com/u/57524242?s=72&u=7519b2d7140b41b803f977696bb16d3554b3acda&v=4" width="24" alt="Avatar of FareenaEhtesham"> FareenaEhtesham
@@ -11870,7 +11883,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/naveedalirehmani">
 				<img src="https://avatars.githubusercontent.com/u/70668120?s=72&u=fc1e83c4ec9883cf89227ce022249a4d85174b30&v=4" width="24" alt="Avatar of naveedalirehmani"> naveedalirehmani
@@ -11883,7 +11896,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/ishanShahzad">
 				<img src="https://avatars.githubusercontent.com/u/35418903?s=72&u=16eb4ef2bfaaba114b72bc64a778deb57aaca315&v=4" width="24" alt="Avatar of ishanShahzad"> ishanShahzad
@@ -11896,7 +11909,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/anserwaseem">
 				<img src="https://avatars.githubusercontent.com/u/32386713?s=72&u=7963ff63b12f97f8e4680e183f395ea10fab3eed&v=4" width="24" alt="Avatar of anserwaseem"> anserwaseem
@@ -11909,7 +11922,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/shahmirfaisal">
 				<img src="https://avatars.githubusercontent.com/u/46317883?s=72&u=2ca96e63d45fb4be42fd3bafcfe1b2090336456b&v=4" width="24" alt="Avatar of shahmirfaisal"> shahmirfaisal
@@ -11922,7 +11935,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/AzaanUllah-Khan">
 				<img src="https://avatars.githubusercontent.com/u/121516991?s=72&u=d663d3e7169562e169fadd87dce50039b669078f&v=4" width="24" alt="Avatar of AzaanUllah-Khan"> AzaanUllah-Khan
@@ -11935,7 +11948,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/oyekamal">
 				<img src="https://avatars.githubusercontent.com/u/44357749?s=72&u=5002b7a321c689707707651f72c3178098cdc37a&v=4" width="24" alt="Avatar of oyekamal"> oyekamal
@@ -11948,7 +11961,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/musamairshad">
 				<img src="https://avatars.githubusercontent.com/u/77895050?s=72&u=a0e8e8e94c3d3002d9efdece931de21fad044456&v=4" width="24" alt="Avatar of musamairshad"> musamairshad
@@ -11961,7 +11974,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/m7adeel">
 				<img src="https://avatars.githubusercontent.com/u/87698014?s=72&u=05440c52aa200578cffa2fcd3c09b15c9532cae8&v=4" width="24" alt="Avatar of m7adeel"> m7adeel
@@ -11974,7 +11987,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/hamsahmedansari">
 				<img src="https://avatars.githubusercontent.com/u/35776235?s=72&u=412478ffdabfca1dca1f26a61f030b8a8f54eb7d&v=4" width="24" alt="Avatar of hamsahmedansari"> hamsahmedansari
@@ -11987,7 +12000,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/ShahSomething">
 				<img src="https://avatars.githubusercontent.com/u/63047096?s=72&u=0b36bfe5a6b0b74605ef8cda1a264da8a8d30c56&v=4" width="24" alt="Avatar of ShahSomething"> ShahSomething
@@ -12000,7 +12013,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/orbitalsonic">
 				<img src="https://avatars.githubusercontent.com/u/77429009?s=72&u=e98407b50de89f1d70245828f11d95e22916d54b&v=4" width="24" alt="Avatar of orbitalsonic"> orbitalsonic
@@ -12013,7 +12026,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/ZeroCoolHacker">
 				<img src="https://avatars.githubusercontent.com/u/18724529?s=72&u=d8a9d3cb5cdbc0b04c43a2d27c6e4f6834bd5d0c&v=4" width="24" alt="Avatar of ZeroCoolHacker"> ZeroCoolHacker
@@ -12026,7 +12039,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/Talhaverse">
 				<img src="https://avatars.githubusercontent.com/u/41064991?s=72&u=60bacb68cbfc0cb6097c36fde66fe01c12002a5e&v=4" width="24" alt="Avatar of Talhaverse"> Talhaverse
@@ -12039,7 +12052,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/syedahmedusman2">
 				<img src="https://avatars.githubusercontent.com/u/66121118?s=72&u=706e2ca39d2ba1a6d6df5f3ad9024b14c93329f6&v=4" width="24" alt="Avatar of syedahmedusman2"> syedahmedusman2
@@ -12052,7 +12065,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/yohamza">
 				<img src="https://avatars.githubusercontent.com/u/25034775?s=72&u=bf299d67f52e499427b7aa61d46dbd48c0b4109d&v=4" width="24" alt="Avatar of yohamza"> yohamza
@@ -12062,19 +12075,6 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>@enoch-tech </td>
 		<td><a href="https://twitter.com/yohamxa">yohamxa</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>921</td>
-		<td>
-			<a href="https://github.com/iabdr">
-				<img src="https://avatars.githubusercontent.com/u/87899654?s=72&u=efb4846dbf121f076204fa7635c9f19d25bfa892&v=4" width="24" alt="Avatar of iabdr"> iabdr
-			</a><br/>
-			Raja Abdullah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abdrajax">abdrajax</a></td>
-		<td>Pakistan</td>
 		<td>41</td>
 	</tr>
 	<tr>
