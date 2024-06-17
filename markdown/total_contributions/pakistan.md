@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/6/17 8:31 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/6/17 8:40 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -2091,7 +2091,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Pakistan,Karachi</td>
 		<td>22</td>
-		<td>1044</td>
+		<td>1045</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2300,8 +2300,8 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karachi, Pakistan</td>
-		<td>338</td>
-		<td>963</td>
+		<td>339</td>
+		<td>964</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -4191,7 +4191,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Pakistan</td>
 		<td>54</td>
-		<td>490</td>
+		<td>491</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -7962,6 +7962,20 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 	<tr>
 		<td>562</td>
 		<td>
+			<a href="https://github.com/ahmadmustafaanis">
+				<img src="https://avatars.githubusercontent.com/u/47111429?s=72&u=542ab0e41eec7e39c5c3e041d60410b783a080bd&v=4" width="24" alt="Avatar of ahmadmustafaanis"> ahmadmustafaanis
+			</a><br/>
+			Ahmad Mustafa Anis
+		</td>
+		<td>Roll.ai </td>
+		<td><a href="https://twitter.com/AhmadMustafaAn1">AhmadMustafaAn1</a></td>
+		<td>Pakistan</td>
+		<td>105</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
 			<a href="https://github.com/shahzaneer">
 				<img src="https://avatars.githubusercontent.com/u/77126013?s=72&u=7c59df960c827aed14edbea489e590cd9d925efb&v=4" width="24" alt="Avatar of shahzaneer"> shahzaneer
 			</a><br/>
@@ -7972,20 +7986,6 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>Islamabad,Pakistan</td>
 		<td>91</td>
 		<td>120</td>
-	</tr>
-	<tr>
-		<td>563</td>
-		<td>
-			<a href="https://github.com/ahmadmustafaanis">
-				<img src="https://avatars.githubusercontent.com/u/47111429?s=72&u=542ab0e41eec7e39c5c3e041d60410b783a080bd&v=4" width="24" alt="Avatar of ahmadmustafaanis"> ahmadmustafaanis
-			</a><br/>
-			Ahmad Mustafa Anis
-		</td>
-		<td>Roll.ai </td>
-		<td><a href="https://twitter.com/AhmadMustafaAn1">AhmadMustafaAn1</a></td>
-		<td>Pakistan</td>
-		<td>104</td>
-		<td>119</td>
 	</tr>
 	<tr>
 		<td>564</td>
