@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/6/18 8:35 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/6/18 8:44 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -172,8 +172,8 @@ There are `984 users`  in Bangladesh. You need at least `61 followers` to be on 
 		<td>Enter Inventive Studio </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka</td>
-		<td>5708</td>
-		<td>5708</td>
+		<td>5710</td>
+		<td>5710</td>
 	</tr>
 	<tr>
 		<td>6</td>
