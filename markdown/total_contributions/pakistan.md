@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/6/22 8:41 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/6/22 8:50 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49625</td>
-		<td>50236</td>
+		<td>49626</td>
+		<td>50237</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -719,7 +719,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td><a href="https://twitter.com/i_mark_1">i_mark_1</a></td>
 		<td>Pakistan</td>
 		<td>167</td>
-		<td>2116</td>
+		<td>2117</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -5702,8 +5702,8 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SMArsalanShah">SMArsalanShah</a></td>
 		<td>Karachi</td>
-		<td>286</td>
-		<td>292</td>
+		<td>287</td>
+		<td>293</td>
 	</tr>
 	<tr>
 		<td>401</td>

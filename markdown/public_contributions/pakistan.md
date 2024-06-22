@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/6/22 8:41 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/6/22 8:50 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49625</td>
+		<td>49626</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -2057,6 +2057,19 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/SyedMuhammadArsalanShah">
+				<img src="https://avatars.githubusercontent.com/u/77351219?s=72&u=85dd7814979da263429296538e70267593c55b39&v=4" width="24" alt="Avatar of SyedMuhammadArsalanShah"> SyedMuhammadArsalanShah
+			</a><br/>
+			Syed Muhammad Arsalan Shah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SMArsalanShah">SMArsalanShah</a></td>
+		<td>Karachi</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/mInzamamMalik">
 				<img src="https://avatars.githubusercontent.com/u/14273842?s=72&u=a01e0f55c1f5be8cd068430239164a07733c3943&v=4" width="24" alt="Avatar of mInzamamMalik"> mInzamamMalik
 			</a><br/>
@@ -2068,7 +2081,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/Ifera">
 				<img src="https://avatars.githubusercontent.com/u/32965703?s=72&u=cedb3d0d0a0f07554cdd207a3c74253b9028f61e&v=4" width="24" alt="Avatar of Ifera"> Ifera
@@ -2078,19 +2091,6 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>@intel </td>
 		<td><a href="https://twitter.com/_tayyabr">_tayyabr</a></td>
 		<td>Pakistan</td>
-		<td>286</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/SyedMuhammadArsalanShah">
-				<img src="https://avatars.githubusercontent.com/u/77351219?s=72&u=85dd7814979da263429296538e70267593c55b39&v=4" width="24" alt="Avatar of SyedMuhammadArsalanShah"> SyedMuhammadArsalanShah
-			</a><br/>
-			Syed Muhammad Arsalan Shah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SMArsalanShah">SMArsalanShah</a></td>
-		<td>Karachi</td>
 		<td>286</td>
 	</tr>
 	<tr>
