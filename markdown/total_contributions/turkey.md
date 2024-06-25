@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` and `private contributions` by users in Turkey on `2024/6/25 8:51 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` and `private contributions` by users in Turkey on `2024/6/25 9:00 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -116,8 +116,8 @@ There are `979 users`  in Turkey. You need at least `123 followers` to be on thi
 		<td>0xe0cf9bc10c3589a471 </td>
 		<td><a href="https://twitter.com/MiralayCrypto">MiralayCrypto</a></td>
 		<td>Turkey</td>
-		<td>86674</td>
-		<td>86698</td>
+		<td>86676</td>
+		<td>86700</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -495,7 +495,7 @@ There are `979 users`  in Turkey. You need at least `123 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
 		<td>91</td>
-		<td>2490</td>
+		<td>2491</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -2553,7 +2553,7 @@ There are `979 users`  in Turkey. You need at least `123 followers` to be on thi
 		<td><a href="https://twitter.com/DevrimMehmetP">DevrimMehmetP</a></td>
 		<td>İstanbul</td>
 		<td>107</td>
-		<td>781</td>
+		<td>783</td>
 	</tr>
 	<tr>
 		<td>176</td>
