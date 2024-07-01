@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/7/1 8:52 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/7/1 9:01 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49671</td>
-		<td>50258</td>
+		<td>49672</td>
+		<td>50259</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -845,7 +845,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td><a href="https://twitter.com/qasimcode">qasimcode</a></td>
 		<td>Lahore, Pakistan</td>
 		<td>62</td>
-		<td>2004</td>
+		<td>2005</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1348,8 +1348,8 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>University Of Peshawar </td>
 		<td>No Twitter Username</td>
 		<td>Pakistan </td>
-		<td>1410</td>
-		<td>1410</td>
+		<td>1411</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>90</td>

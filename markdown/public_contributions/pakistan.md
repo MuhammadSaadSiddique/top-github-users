@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/7/1 8:52 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/7/1 9:01 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49671</td>
+		<td>49672</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -297,7 +297,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>University Of Peshawar </td>
 		<td>No Twitter Username</td>
 		<td>Pakistan </td>
-		<td>1410</td>
+		<td>1411</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -6789,19 +6789,6 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 	<tr>
 		<td>515</td>
 		<td>
-			<a href="https://github.com/SundeshBatheja">
-				<img src="https://avatars.githubusercontent.com/u/76198109?s=72&u=9224781801e376bf82d195ac5e7db9b924d27fe8&v=4" width="24" alt="Avatar of SundeshBatheja"> SundeshBatheja
-			</a><br/>
-			Sundesh Batheja
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/itsbatheja">itsbatheja</a></td>
-		<td>Karachi,Pakistan</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>516</td>
-		<td>
 			<a href="https://github.com/fronbasal">
 				<img src="https://avatars.githubusercontent.com/u/19863638?s=72&u=2b85a5670ad48b0f7c281991663847a33e4a40f2&v=4" width="24" alt="Avatar of fronbasal"> fronbasal
 			</a><br/>
@@ -6810,6 +6797,19 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>@mhsp </td>
 		<td>No Twitter Username</td>
 		<td>Essen, Germany - Islamabad, Pakistan</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/SundeshBatheja">
+				<img src="https://avatars.githubusercontent.com/u/76198109?s=72&u=9224781801e376bf82d195ac5e7db9b924d27fe8&v=4" width="24" alt="Avatar of SundeshBatheja"> SundeshBatheja
+			</a><br/>
+			Sundesh Batheja
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/itsbatheja">itsbatheja</a></td>
+		<td>Karachi,Pakistan</td>
 		<td>40</td>
 	</tr>
 	<tr>
