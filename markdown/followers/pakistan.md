@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/7/6 8:43 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/7/6 8:51 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1571,7 +1571,7 @@ There are `995 users`  in Pakistan. You need at least `39 followers` to be on th
 		<td>@cloud-primero  </td>
 		<td>No Twitter Username</td>
 		<td>karachi</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>114</td>
