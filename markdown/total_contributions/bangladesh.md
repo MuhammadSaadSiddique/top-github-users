@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/7/7 8:58 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/7/7 9:07 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -970,8 +970,8 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>@code4mk  </td>
 		<td><a href="https://twitter.com/code4mk">code4mk</a></td>
 		<td>Dhaka,Bangladesh.</td>
-		<td>461</td>
-		<td>1833</td>
+		<td>462</td>
+		<td>1834</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1251,7 +1251,7 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td><a href="https://twitter.com/shipu_ahamed">shipu_ahamed</a></td>
 		<td>Dhaka,Bangladesh</td>
 		<td>151</td>
-		<td>1660</td>
+		<td>1661</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1348,8 +1348,8 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TalhaTarique1">TalhaTarique1</a></td>
 		<td>Saidpur,Bangladesh</td>
-		<td>1592</td>
-		<td>1592</td>
+		<td>1593</td>
+		<td>1593</td>
 	</tr>
 	<tr>
 		<td>90</td>
