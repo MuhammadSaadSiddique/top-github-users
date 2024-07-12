@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/7/12 8:44 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/7/12 8:53 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -186,8 +186,8 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>Enter Inventive Studio </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka</td>
-		<td>5874</td>
-		<td>5874</td>
+		<td>5875</td>
+		<td>5875</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1139,7 +1139,7 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td><a href="https://twitter.com/TanvirMahin24">TanvirMahin24</a></td>
 		<td>Rajshahi, Bangladesh</td>
 		<td>51</td>
-		<td>1717</td>
+		<td>1718</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -5974,6 +5974,20 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 	<tr>
 		<td>420</td>
 		<td>
+			<a href="https://github.com/ShadowShahriar">
+				<img src="https://avatars.githubusercontent.com/u/79012744?s=72&u=10b0342cb687d31b0a9f6714bc833b54c37c2654&v=4" width="24" alt="Avatar of ShadowShahriar"> ShadowShahriar
+			</a><br/>
+			S. Shahriar
+		</td>
+		<td>Bsf Basis </td>
+		<td><a href="https://twitter.com/ShadowShahriar">ShadowShahriar</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>305</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
 			<a href="https://github.com/tamal-sen">
 				<img src="https://avatars.githubusercontent.com/u/71141953?s=72&u=41f88906142958c3a44d2d22a1f7a7b433191e15&v=4" width="24" alt="Avatar of tamal-sen"> tamal-sen
 			</a><br/>
@@ -5986,7 +6000,7 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>313</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/emotionless">
 				<img src="https://avatars.githubusercontent.com/u/1973375?s=72&u=374af4d76bac7b957da2a9f2762bc20b6bb7a62c&v=4" width="24" alt="Avatar of emotionless"> emotionless
@@ -5998,20 +6012,6 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>Dhaka, Bangladesh</td>
 		<td>302</td>
 		<td>313</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/ShadowShahriar">
-				<img src="https://avatars.githubusercontent.com/u/79012744?s=72&u=10b0342cb687d31b0a9f6714bc833b54c37c2654&v=4" width="24" alt="Avatar of ShadowShahriar"> ShadowShahriar
-			</a><br/>
-			S. Shahriar
-		</td>
-		<td>Bsf Basis </td>
-		<td><a href="https://twitter.com/ShadowShahriar">ShadowShahriar</a></td>
-		<td>Dhaka, Bangladesh</td>
-		<td>303</td>
-		<td>312</td>
 	</tr>
 	<tr>
 		<td>423</td>
@@ -7766,6 +7766,20 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 	<tr>
 		<td>548</td>
 		<td>
+			<a href="https://github.com/Ivanshamir">
+				<img src="https://avatars.githubusercontent.com/u/29983451?s=72&u=5b129ffa1e0f9e200c4c82aa7a98e8b19ea0b148&v=4" width="24" alt="Avatar of Ivanshamir"> Ivanshamir
+			</a><br/>
+			S. M. Shamir Imtiaz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/shamir_imtiaz">shamir_imtiaz</a></td>
+		<td>Dhaka,Bangladesh</td>
+		<td>6</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
 			<a href="https://github.com/sagorbrur">
 				<img src="https://avatars.githubusercontent.com/u/10723655?s=72&u=72e83451c72ad73a54ad83c0299aa397b9f65504&v=4" width="24" alt="Avatar of sagorbrur"> sagorbrur
 			</a><br/>
@@ -7778,7 +7792,7 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/farukalamai">
 				<img src="https://avatars.githubusercontent.com/u/92469073?s=72&u=1f01beb0a36eab0523fd81a31da2d50640aedcc9&v=4" width="24" alt="Avatar of farukalamai"> farukalamai
@@ -7790,20 +7804,6 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td>Rangamati, Bangladesh</td>
 		<td>157</td>
 		<td>157</td>
-	</tr>
-	<tr>
-		<td>550</td>
-		<td>
-			<a href="https://github.com/Ivanshamir">
-				<img src="https://avatars.githubusercontent.com/u/29983451?s=72&u=5b129ffa1e0f9e200c4c82aa7a98e8b19ea0b148&v=4" width="24" alt="Avatar of Ivanshamir"> Ivanshamir
-			</a><br/>
-			S. M. Shamir Imtiaz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/shamir_imtiaz">shamir_imtiaz</a></td>
-		<td>Dhaka,Bangladesh</td>
-		<td>6</td>
-		<td>156</td>
 	</tr>
 	<tr>
 		<td>551</td>
@@ -7892,6 +7892,20 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 	<tr>
 		<td>557</td>
 		<td>
+			<a href="https://github.com/mushfiqweb">
+				<img src="https://avatars.githubusercontent.com/u/2777499?s=72&u=a58616c33fe60be3725d6db9e64e42fe2c232c08&v=4" width="24" alt="Avatar of mushfiqweb"> mushfiqweb
+			</a><br/>
+			Mushfiqur Rahman
+		</td>
+		<td>@kmstechio </td>
+		<td><a href="https://twitter.com/mushfiqweb">mushfiqweb</a></td>
+		<td>Dhaka, BD</td>
+		<td>30</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
 			<a href="https://github.com/abdulmominsakib">
 				<img src="https://avatars.githubusercontent.com/u/55970925?s=72&u=00b61bbc2033debab7330f08e11453a4fe7b48d7&v=4" width="24" alt="Avatar of abdulmominsakib"> abdulmominsakib
 			</a><br/>
@@ -7901,20 +7915,6 @@ There are `984 users`  in Bangladesh. You need at least `62 followers` to be on 
 		<td><a href="https://twitter.com/abdulmominsakib">abdulmominsakib</a></td>
 		<td>Chittagong, BD</td>
 		<td>2</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>558</td>
-		<td>
-			<a href="https://github.com/mushfiqweb">
-				<img src="https://avatars.githubusercontent.com/u/2777499?s=72&u=a58616c33fe60be3725d6db9e64e42fe2c232c08&v=4" width="24" alt="Avatar of mushfiqweb"> mushfiqweb
-			</a><br/>
-			Mushfiqur Rahman
-		</td>
-		<td>@kmstechio </td>
-		<td><a href="https://twitter.com/mushfiqweb">mushfiqweb</a></td>
-		<td>Dhaka, BD</td>
-		<td>29</td>
 		<td>150</td>
 	</tr>
 	<tr>
