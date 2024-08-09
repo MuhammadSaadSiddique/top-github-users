@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/8/9 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/8/9 9:02 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `995 users`  in Pakistan. You need at least `40 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>53009</td>
-		<td>53438</td>
+		<td>53010</td>
+		<td>53439</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `995 users`  in Pakistan. You need at least `40 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lahore, Pakistan</td>
 		<td>35</td>
-		<td>13275</td>
+		<td>13276</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -2034,8 +2034,8 @@ There are `995 users`  in Pakistan. You need at least `40 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karachi, Pakistan</td>
-		<td>822</td>
-		<td>1029</td>
+		<td>823</td>
+		<td>1030</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2245,7 +2245,7 @@ There are `995 users`  in Pakistan. You need at least `40 followers` to be on th
 		<td><a href="https://twitter.com/developerwaleed">developerwaleed</a></td>
 		<td>Pakistan</td>
 		<td>390</td>
-		<td>951</td>
+		<td>952</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2959,7 +2959,7 @@ There are `995 users`  in Pakistan. You need at least `40 followers` to be on th
 		<td><a href="https://twitter.com/ai_phile">ai_phile</a></td>
 		<td>Tando Muhammad Khan, Sindh, Pakistan</td>
 		<td>121</td>
-		<td>752</td>
+		<td>753</td>
 	</tr>
 	<tr>
 		<td>205</td>
