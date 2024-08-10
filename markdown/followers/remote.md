@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `number of followers` of users in Remote on `2024/8/10 8:35 PM UTC`. This list contains users from `Remote` and cities.
+The `number of followers` of users in Remote on `2024/8/10 8:47 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1805,7 +1805,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Remote</td>
-		<td>208</td>
+		<td>209</td>
 	</tr>
 	<tr>
 		<td>132</td>

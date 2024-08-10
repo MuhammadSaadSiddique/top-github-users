@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `public contributions` by users in Remote on `2024/8/10 8:35 PM UTC`. This list contains users from `Remote` and cities.
+The `public contributions` by users in Remote on `2024/8/10 8:47 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -245,7 +245,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>@ibm @softwareag </td>
 		<td>No Twitter Username</td>
 		<td>France, 64 (remote)</td>
-		<td>2248</td>
+		<td>2251</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -6919,6 +6919,19 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 	<tr>
 		<td>525</td>
 		<td>
+			<a href="https://github.com/nbertagnolli">
+				<img src="https://avatars.githubusercontent.com/u/2716997?s=72&u=045820c56b106d871f61ee46bda1fdbb2f53b447&v=4" width="24" alt="Avatar of nbertagnolli"> nbertagnolli
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Remote</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
 			<a href="https://github.com/AndrewClarker0524">
 				<img src="https://avatars.githubusercontent.com/u/172140938?s=72&u=ccb60e106ca7a0b8ec82a4d7309815f1b78ead8a&v=4" width="24" alt="Avatar of AndrewClarker0524"> AndrewClarker0524
 			</a><br/>
@@ -6930,7 +6943,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/kopepasah">
 				<img src="https://avatars.githubusercontent.com/u/911283?s=72&u=9fb352b4315b2d96a2e2747acc21347cc80a8dc4&v=4" width="24" alt="Avatar of kopepasah"> kopepasah
@@ -6943,7 +6956,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/rodrigobressan">
 				<img src="https://avatars.githubusercontent.com/u/6449988?s=72&u=0c6541a942a00c87476c9a5a21666c22f72da76b&v=4" width="24" alt="Avatar of rodrigobressan"> rodrigobressan
@@ -6956,7 +6969,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/mikekpl">
 				<img src="https://avatars.githubusercontent.com/u/16832215?s=72&u=a60d1851df488a474ec4ad3dde8282e146ea4c2a&v=4" width="24" alt="Avatar of mikekpl"> mikekpl
@@ -6969,7 +6982,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/HalleluyahBoy">
 				<img src="https://avatars.githubusercontent.com/u/118768616?s=72&u=928ceae6b6d8133f0c0c19471c55061533063849&v=4" width="24" alt="Avatar of HalleluyahBoy"> HalleluyahBoy
@@ -6982,7 +6995,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/khera-shanu">
 				<img src="https://avatars.githubusercontent.com/u/20905267?s=72&u=3022fe62893a9960bba6ba477d46e2f4b2f1d30a&v=4" width="24" alt="Avatar of khera-shanu"> khera-shanu
@@ -6995,7 +7008,7 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/edison12a">
 				<img src="https://avatars.githubusercontent.com/u/20975616?s=72&v=4" width="24" alt="Avatar of edison12a"> edison12a
@@ -7003,19 +7016,6 @@ There are `969 users`  in Remote. You need at least `35 followers` to be on this
 			Edison A
 		</td>
 		<td>Singalarity </td>
-		<td>No Twitter Username</td>
-		<td>Remote</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>532</td>
-		<td>
-			<a href="https://github.com/nbertagnolli">
-				<img src="https://avatars.githubusercontent.com/u/2716997?s=72&u=045820c56b106d871f61ee46bda1fdbb2f53b447&v=4" width="24" alt="Avatar of nbertagnolli"> nbertagnolli
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Remote</td>
 		<td>34</td>
