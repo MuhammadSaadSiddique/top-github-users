@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/8/23 8:45 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/8/23 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -289,6 +289,19 @@ There are `994 users`  in Pakistan. You need at least `41 followers` to be on th
 	<tr>
 		<td>15</td>
 		<td>
+			<a href="https://github.com/sarfraznawaz2005">
+				<img src="https://avatars.githubusercontent.com/u/201788?s=72&u=f2fee6a48da141c75b6811e8c27a9163ef5acaf0&v=4" width="24" alt="Avatar of sarfraznawaz2005"> sarfraznawaz2005
+			</a><br/>
+			Sarfraz Ahmed
+		</td>
+		<td>The Brains </td>
+		<td><a href="https://twitter.com/sarfraznawaz">sarfraznawaz</a></td>
+		<td>Karachi, Pakistan</td>
+		<td>1345</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
 			<a href="https://github.com/Zain-ul-din">
 				<img src="https://avatars.githubusercontent.com/u/78583049?s=72&u=1163d03c158af9e6d173c8bd17c77e51ad30cd89&v=4" width="24" alt="Avatar of Zain-ul-din"> Zain-ul-din
 			</a><br/>
@@ -298,19 +311,6 @@ There are `994 users`  in Pakistan. You need at least `41 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lahore</td>
 		<td>1340</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/sarfraznawaz2005">
-				<img src="https://avatars.githubusercontent.com/u/201788?s=72&u=f2fee6a48da141c75b6811e8c27a9163ef5acaf0&v=4" width="24" alt="Avatar of sarfraznawaz2005"> sarfraznawaz2005
-			</a><br/>
-			Sarfraz Ahmed
-		</td>
-		<td>The Brains </td>
-		<td><a href="https://twitter.com/sarfraznawaz">sarfraznawaz</a></td>
-		<td>Karachi, Pakistan</td>
-		<td>1338</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -739,7 +739,7 @@ There are `994 users`  in Pakistan. You need at least `41 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Pakistan</td>
-		<td>702</td>
+		<td>705</td>
 	</tr>
 	<tr>
 		<td>50</td>
