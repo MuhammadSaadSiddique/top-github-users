@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/8/24 8:44 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/8/24 8:53 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -635,7 +635,7 @@ There are `984 users`  in Bangladesh. You need at least `63 followers` to be on 
 		<td>Coding With Muhib </td>
 		<td>No Twitter Username</td>
 		<td>Sylhet, Bangladesh</td>
-		<td>802</td>
+		<td>801</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -700,7 +700,7 @@ There are `984 users`  in Bangladesh. You need at least `63 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>BANGLADESH</td>
-		<td>768</td>
+		<td>769</td>
 	</tr>
 	<tr>
 		<td>47</td>
