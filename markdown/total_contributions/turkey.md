@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` and `private contributions` by users in Turkey on `2024/8/25 8:49 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` and `private contributions` by users in Turkey on `2024/8/25 8:57 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -116,8 +116,8 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>0xe0cf9bc10c3589a471 </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>108751</td>
-		<td>108775</td>
+		<td>108753</td>
+		<td>108777</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,8 +144,8 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>@archlinux </td>
 		<td><a href="https://twitter.com/orhundev">orhundev</a></td>
 		<td>Ankara, Turkey</td>
-		<td>7779</td>
-		<td>7885</td>
+		<td>7781</td>
+		<td>7887</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -536,8 +536,8 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kn_swe">kn_swe</a></td>
 		<td>istanbul</td>
-		<td>467</td>
-		<td>2493</td>
+		<td>476</td>
+		<td>2492</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -691,7 +691,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td><a href="https://twitter.com/adiyahsi_44">adiyahsi_44</a></td>
 		<td>İstanbul, TÜRKİYE</td>
 		<td>2</td>
-		<td>2096</td>
+		<td>2097</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1200,6 +1200,20 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/hwpplayer1">
+				<img src="https://avatars.githubusercontent.com/u/9614451?s=72&u=e693c25f905135fec946499e8daccce0d87c6b86&v=4" width="24" alt="Avatar of hwpplayer1"> hwpplayer1
+			</a><br/>
+			Jack Torrent
+		</td>
+		<td>@masscollabs </td>
+		<td>No Twitter Username</td>
+		<td>İstanbul , Türkiye</td>
+		<td>1420</td>
+		<td>1557</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/sugrado">
 				<img src="https://avatars.githubusercontent.com/u/76165528?s=72&u=b23db2eb02f84734d4b51ced45c4d120dba817f1&v=4" width="24" alt="Avatar of sugrado"> sugrado
 			</a><br/>
@@ -1212,7 +1226,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>1557</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/hmert">
 				<img src="https://avatars.githubusercontent.com/u/182906?s=72&u=882b4570354d9241ad5a79a3c2458ec0955f3c52&v=4" width="24" alt="Avatar of hmert"> hmert
@@ -1223,20 +1237,6 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td><a href="https://twitter.com/hmert">hmert</a></td>
 		<td>Istanbul, Turkey</td>
 		<td>37</td>
-		<td>1556</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/hwpplayer1">
-				<img src="https://avatars.githubusercontent.com/u/9614451?s=72&u=e693c25f905135fec946499e8daccce0d87c6b86&v=4" width="24" alt="Avatar of hwpplayer1"> hwpplayer1
-			</a><br/>
-			Jack Torrent
-		</td>
-		<td>@masscollabs </td>
-		<td>No Twitter Username</td>
-		<td>İstanbul , Türkiye</td>
-		<td>1419</td>
 		<td>1556</td>
 	</tr>
 	<tr>
@@ -1853,7 +1853,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td><a href="https://twitter.com/selimdev_">selimdev_</a></td>
 		<td>Turkey</td>
 		<td>7</td>
-		<td>1091</td>
+		<td>1092</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -4540,8 +4540,8 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_buraksezer">_buraksezer</a></td>
 		<td>Istanbul</td>
-		<td>271</td>
-		<td>328</td>
+		<td>272</td>
+		<td>329</td>
 	</tr>
 	<tr>
 		<td>318</td>

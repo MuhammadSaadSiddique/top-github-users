@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` by users in Turkey on `2024/8/25 8:49 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` by users in Turkey on `2024/8/25 8:57 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -115,7 +115,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>0xe0cf9bc10c3589a471 </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>108751</td>
+		<td>108753</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>@archlinux </td>
 		<td><a href="https://twitter.com/orhundev">orhundev</a></td>
 		<td>Ankara, Turkey</td>
-		<td>7779</td>
+		<td>7781</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -427,7 +427,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>@masscollabs </td>
 		<td>No Twitter Username</td>
 		<td>İstanbul , Türkiye</td>
-		<td>1419</td>
+		<td>1420</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1134,19 +1134,6 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 	<tr>
 		<td>80</td>
 		<td>
-			<a href="https://github.com/pirj">
-				<img src="https://avatars.githubusercontent.com/u/6916?s=72&u=220b8c90f93dba75ae5163aa5d6ecc2b451ce87f&v=4" width="24" alt="Avatar of pirj"> pirj
-			</a><br/>
-			Phil Pirozhkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Turkey</td>
-		<td>467</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
 			<a href="https://github.com/khalednadam">
 				<img src="https://avatars.githubusercontent.com/u/37756122?s=72&u=f137e3f2c7d0ae8b25b5d03feccef985c7067517&v=4" width="24" alt="Avatar of khalednadam"> khalednadam
 			</a><br/>
@@ -1155,6 +1142,19 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kn_swe">kn_swe</a></td>
 		<td>istanbul</td>
+		<td>476</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/pirj">
+				<img src="https://avatars.githubusercontent.com/u/6916?s=72&u=220b8c90f93dba75ae5163aa5d6ecc2b451ce87f&v=4" width="24" alt="Avatar of pirj"> pirj
+			</a><br/>
+			Phil Pirozhkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Turkey</td>
 		<td>467</td>
 	</tr>
 	<tr>
@@ -1844,7 +1844,7 @@ There are `977 users`  in Turkey. You need at least `126 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_buraksezer">_buraksezer</a></td>
 		<td>Istanbul</td>
-		<td>271</td>
+		<td>272</td>
 	</tr>
 	<tr>
 		<td>135</td>
