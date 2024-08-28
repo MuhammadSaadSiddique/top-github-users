@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/8/28 8:54 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/8/28 9:03 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -2850,19 +2850,6 @@ There are `994 users`  in Pakistan. You need at least `41 followers` to be on th
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/InnoSufiyan">
-				<img src="https://avatars.githubusercontent.com/u/66431140?s=72&u=f6808e4e52e69845cf1985e974f3f0b143169b78&v=4" width="24" alt="Avatar of InnoSufiyan"> InnoSufiyan
-			</a><br/>
-			Inno Sufiyan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>karachi, Pakistan</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
 			<a href="https://github.com/umarprogrammer19">
 				<img src="https://avatars.githubusercontent.com/u/154402323?s=72&u=b62b351f6d787f4375e0420f38529fc51403d7d3&v=4" width="24" alt="Avatar of umarprogrammer19"> umarprogrammer19
 			</a><br/>
@@ -2871,6 +2858,19 @@ There are `994 users`  in Pakistan. You need at least `41 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pakistan, Karachi</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/InnoSufiyan">
+				<img src="https://avatars.githubusercontent.com/u/66431140?s=72&u=f6808e4e52e69845cf1985e974f3f0b143169b78&v=4" width="24" alt="Avatar of InnoSufiyan"> InnoSufiyan
+			</a><br/>
+			Inno Sufiyan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>karachi, Pakistan</td>
 		<td>160</td>
 	</tr>
 	<tr>
