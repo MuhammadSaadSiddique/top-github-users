@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2024/9/3 8:56 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2024/9/3 9:05 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -341,7 +341,7 @@ There are `988 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td><a href="https://twitter.com/YOUCEFHOUSSEME1">YOUCEFHOUSSEME1</a></td>
 		<td>Riyadh - Saudi Arabia</td>
 		<td>676</td>
-		<td>3116</td>
+		<td>3119</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -775,7 +775,7 @@ There are `988 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td><a href="https://twitter.com/salahalkhwlani">salahalkhwlani</a></td>
 		<td> Riyadh, Ar Riyāḑ, Saudi Arabia </td>
 		<td>29</td>
-		<td>1276</td>
+		<td>1277</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -1984,6 +1984,20 @@ There are `988 users`  in Saudi Arabia. You need at least `5 followers` to be on
 	<tr>
 		<td>135</td>
 		<td>
+			<a href="https://github.com/abdalmola-apps">
+				<img src="https://avatars.githubusercontent.com/u/36125530?s=72&u=739ce4bd5ff3b77a144f0a7335e206dc0b12a0c4&v=4" width="24" alt="Avatar of abdalmola-apps"> abdalmola-apps
+			</a><br/>
+			Abdalmola Mustafa
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Riyadh</td>
+		<td>5</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
 			<a href="https://github.com/MBingazy">
 				<img src="https://avatars.githubusercontent.com/u/54359848?s=72&u=00e386ada18c6ff96122e3d22281ae187c4155a3&v=4" width="24" alt="Avatar of MBingazy"> MBingazy
 			</a><br/>
@@ -1996,7 +2010,7 @@ There are `988 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>511</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/smike7">
 				<img src="https://avatars.githubusercontent.com/u/40997682?s=72&u=8e3ab2c789ef1f5ee8155716ec1f3ea0f9f111c6&v=4" width="24" alt="Avatar of smike7"> smike7
@@ -2008,20 +2022,6 @@ There are `988 users`  in Saudi Arabia. You need at least `5 followers` to be on
 		<td>Saudi Arabia, Riyadh </td>
 		<td>0</td>
 		<td>502</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/abdalmola-apps">
-				<img src="https://avatars.githubusercontent.com/u/36125530?s=72&u=739ce4bd5ff3b77a144f0a7335e206dc0b12a0c4&v=4" width="24" alt="Avatar of abdalmola-apps"> abdalmola-apps
-			</a><br/>
-			Abdalmola Mustafa
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Riyadh</td>
-		<td>5</td>
-		<td>499</td>
 	</tr>
 	<tr>
 		<td>138</td>
