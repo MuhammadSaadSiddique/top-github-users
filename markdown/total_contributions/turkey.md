@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` and `private contributions` by users in Turkey on `2024/9/21 8:53 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` and `private contributions` by users in Turkey on `2024/9/21 9:02 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -116,8 +116,8 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>0xe0cf9bc10c3589a471 </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>118470</td>
-		<td>118494</td>
+		<td>118472</td>
+		<td>118496</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -313,7 +313,7 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td><a href="https://twitter.com/necatikcl">necatikcl</a></td>
 		<td>Ankara, TR</td>
 		<td>16</td>
-		<td>3400</td>
+		<td>3411</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -858,8 +858,8 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>@fal-ai </td>
 		<td><a href="https://twitter.com/isidentical">isidentical</a></td>
 		<td>Somewhere in southern Turkey</td>
-		<td>396</td>
-		<td>1928</td>
+		<td>397</td>
+		<td>1929</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -4000,6 +4000,20 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 	<tr>
 		<td>279</td>
 		<td>
+			<a href="https://github.com/mimaraslan">
+				<img src="https://avatars.githubusercontent.com/u/3824125?s=72&u=b5e6f903dc76de3e3341e5d83f5c69c51e6f491f&v=4" width="24" alt="Avatar of mimaraslan"> mimaraslan
+			</a><br/>
+			Mimar Aslan 
+		</td>
+		<td>Oracle Ace At Java<br/>&<br/>Türkiye<br/>Java<br/>User<br/>Group<br/>Leader<br/></td>
+		<td><a href="https://twitter.com/mimaraslan">mimaraslan</a></td>
+		<td>Istanbul, Türkiye</td>
+		<td>390</td>
+		<td>390</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
 			<a href="https://github.com/umurgdk">
 				<img src="https://avatars.githubusercontent.com/u/624974?s=72&u=679182a0667919623b62dab983eea3db24751b8c&v=4" width="24" alt="Avatar of umurgdk"> umurgdk
 			</a><br/>
@@ -4010,20 +4024,6 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>Izmir / Turkey</td>
 		<td>21</td>
 		<td>390</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/mimaraslan">
-				<img src="https://avatars.githubusercontent.com/u/3824125?s=72&u=b5e6f903dc76de3e3341e5d83f5c69c51e6f491f&v=4" width="24" alt="Avatar of mimaraslan"> mimaraslan
-			</a><br/>
-			Mimar Aslan 
-		</td>
-		<td>Oracle Ace At Java<br/>&<br/>Türkiye<br/>Java<br/>User<br/>Group<br/>Leader<br/></td>
-		<td><a href="https://twitter.com/mimaraslan">mimaraslan</a></td>
-		<td>Istanbul, Türkiye</td>
-		<td>389</td>
-		<td>389</td>
 	</tr>
 	<tr>
 		<td>281</td>
@@ -5806,6 +5806,20 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 	<tr>
 		<td>408</td>
 		<td>
+			<a href="https://github.com/ozlerhakan">
+				<img src="https://avatars.githubusercontent.com/u/1964927?s=72&u=9dcf5bad7b09d64242bc9d777f384d7f96c90fd8&v=4" width="24" alt="Avatar of ozlerhakan"> ozlerhakan
+			</a><br/>
+			Hakan Özler
+		</td>
+		<td>Digital Science </td>
+		<td>No Twitter Username</td>
+		<td>Izmir, Turkey</td>
+		<td>150</td>
+		<td>181</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
 			<a href="https://github.com/NeziheSozen">
 				<img src="https://avatars.githubusercontent.com/u/6676053?s=72&u=02933a405cf57483807a0489a0a394a9efde18c4&v=4" width="24" alt="Avatar of NeziheSozen"> NeziheSozen
 			</a><br/>
@@ -5816,20 +5830,6 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>Tekirdag, Turkey</td>
 		<td>57</td>
 		<td>181</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
-			<a href="https://github.com/ozlerhakan">
-				<img src="https://avatars.githubusercontent.com/u/1964927?s=72&u=9dcf5bad7b09d64242bc9d777f384d7f96c90fd8&v=4" width="24" alt="Avatar of ozlerhakan"> ozlerhakan
-			</a><br/>
-			Hakan Özler
-		</td>
-		<td>Digital Science </td>
-		<td>No Twitter Username</td>
-		<td>Izmir, Turkey</td>
-		<td>150</td>
-		<td>180</td>
 	</tr>
 	<tr>
 		<td>410</td>
@@ -6716,6 +6716,20 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 	<tr>
 		<td>473</td>
 		<td>
+			<a href="https://github.com/halilxibrahim">
+				<img src="https://avatars.githubusercontent.com/u/54751699?s=72&u=38728407cd14ae26013bff8f482fc38013a22c89&v=4" width="24" alt="Avatar of halilxibrahim"> halilxibrahim
+			</a><br/>
+			Halil İbrahim 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/halilxibrahim_">halilxibrahim_</a></td>
+		<td>Ankara, Turkey</td>
+		<td>113</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
 			<a href="https://github.com/FurkanEdizkan">
 				<img src="https://avatars.githubusercontent.com/u/65301915?s=72&u=3aae78de797740c0ff052ae0bc4917e025dc8211&v=4" width="24" alt="Avatar of FurkanEdizkan"> FurkanEdizkan
 			</a><br/>
@@ -6728,7 +6742,7 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/coderserdar">
 				<img src="https://avatars.githubusercontent.com/u/11051271?s=72&u=87f9dc7158019ef706e77fdb64ef0e77cd8396f2&v=4" width="24" alt="Avatar of coderserdar"> coderserdar
@@ -6740,20 +6754,6 @@ There are `977 users`  in Turkey. You need at least `127 followers` to be on thi
 		<td>Ankara</td>
 		<td>73</td>
 		<td>119</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/halilxibrahim">
-				<img src="https://avatars.githubusercontent.com/u/54751699?s=72&u=38728407cd14ae26013bff8f482fc38013a22c89&v=4" width="24" alt="Avatar of halilxibrahim"> halilxibrahim
-			</a><br/>
-			Halil İbrahim 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/halilxibrahim_">halilxibrahim_</a></td>
-		<td>Ankara, Turkey</td>
-		<td>112</td>
-		<td>118</td>
 	</tr>
 	<tr>
 		<td>476</td>
