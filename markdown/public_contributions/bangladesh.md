@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2024/9/26 8:58 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2024/9/26 9:07 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -349,7 +349,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>Easy Learning  </td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>1118</td>
+		<td>1119</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -2928,6 +2928,19 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 	<tr>
 		<td>218</td>
 		<td>
+			<a href="https://github.com/arif98741">
+				<img src="https://avatars.githubusercontent.com/u/17213478?s=72&u=5713d1c081fa946d62ae8474399d5b158112d4ff&v=4" width="24" alt="Avatar of arif98741"> arif98741
+			</a><br/>
+			Ariful Islam
+		</td>
+		<td>Mudozangl </td>
+		<td><a href="https://twitter.com/arif98741">arif98741</a></td>
+		<td>Dhaka</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
 			<a href="https://github.com/Zannatul-Naim">
 				<img src="https://avatars.githubusercontent.com/u/97250227?s=72&u=d24c8b04128bdfea325fe5bc777e670904232564&v=4" width="24" alt="Avatar of Zannatul-Naim"> Zannatul-Naim
 			</a><br/>
@@ -2939,7 +2952,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/Pritamdutta7498">
 				<img src="https://avatars.githubusercontent.com/u/121660642?s=72&u=a8d309d02c8fcef98cb46dd4ba978a09b6bb4ead&v=4" width="24" alt="Avatar of Pritamdutta7498"> Pritamdutta7498
@@ -2952,7 +2965,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/Hasnayeen">
 				<img src="https://avatars.githubusercontent.com/u/9433499?s=72&u=0f68d3c720cfad763bd51ea731f733856a708d58&v=4" width="24" alt="Avatar of Hasnayeen"> Hasnayeen
@@ -2965,7 +2978,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>196</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/bariulmunshi">
 				<img src="https://avatars.githubusercontent.com/u/96907202?s=72&u=16588a617224f5a063786f5dd12190c921992a2e&v=4" width="24" alt="Avatar of bariulmunshi"> bariulmunshi
@@ -2978,7 +2991,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>196</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/r3k4t">
 				<img src="https://avatars.githubusercontent.com/u/69615463?s=72&u=ef81bb727007ca42841101271021f499ab36bb01&v=4" width="24" alt="Avatar of r3k4t"> r3k4t
@@ -2991,7 +3004,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>196</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/webhasan">
 				<img src="https://avatars.githubusercontent.com/u/5059044?s=72&u=8dabfeb2ee765d60c9c839d7e00f6ae4f1c38f23&v=4" width="24" alt="Avatar of webhasan"> webhasan
@@ -3002,19 +3015,6 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Dhaka Bangladesh</td>
 		<td>195</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/arif98741">
-				<img src="https://avatars.githubusercontent.com/u/17213478?s=72&u=5713d1c081fa946d62ae8474399d5b158112d4ff&v=4" width="24" alt="Avatar of arif98741"> arif98741
-			</a><br/>
-			Ariful Islam
-		</td>
-		<td>Mudozangl </td>
-		<td><a href="https://twitter.com/arif98741">arif98741</a></td>
-		<td>Dhaka</td>
-		<td>194</td>
 	</tr>
 	<tr>
 		<td>225</td>
