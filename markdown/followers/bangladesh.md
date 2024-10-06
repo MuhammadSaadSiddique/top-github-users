@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/10/6 8:46 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/10/6 8:55 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -193,7 +193,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>Super Star Group (ssg)<br/></td>
 		<td><a href="https://twitter.com/sazzadul1">sazzadul1</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>2595</td>
+		<td>2594</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -2031,6 +2031,19 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/AsmSafone">
+				<img src="https://avatars.githubusercontent.com/u/77989182?s=72&u=c4a553c4adaef1aa59a9d5e5290f316b790cd199&v=4" width="24" alt="Avatar of AsmSafone"> AsmSafone
+			</a><br/>
+			AsmSafone
+		</td>
+		<td>@s1-bots </td>
+		<td>No Twitter Username</td>
+		<td>Bangladesh</td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/Hasnayeen">
 				<img src="https://avatars.githubusercontent.com/u/9433499?s=72&u=0f68d3c720cfad763bd51ea731f733856a708d58&v=4" width="24" alt="Avatar of Hasnayeen"> Hasnayeen
 			</a><br/>
@@ -2040,19 +2053,6 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td><a href="https://twitter.com/nhasnayeen">nhasnayeen</a></td>
 		<td>Bangladesh</td>
 		<td>310</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/AsmSafone">
-				<img src="https://avatars.githubusercontent.com/u/77989182?s=72&u=c4a553c4adaef1aa59a9d5e5290f316b790cd199&v=4" width="24" alt="Avatar of AsmSafone"> AsmSafone
-			</a><br/>
-			AsmSafone
-		</td>
-		<td>@s1-bots </td>
-		<td>No Twitter Username</td>
-		<td>Bangladesh</td>
-		<td>309</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -11963,6 +11963,19 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 	<tr>
 		<td>913</td>
 		<td>
+			<a href="https://github.com/Junaid433">
+				<img src="https://avatars.githubusercontent.com/u/91566370?s=72&u=263587ad13fac67379eb99379d91bc3beede1307&v=4" width="24" alt="Avatar of Junaid433"> Junaid433
+			</a><br/>
+			Junaid Rahman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Panchagarh,Bangladesh</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
 			<a href="https://github.com/inzamam-inz">
 				<img src="https://avatars.githubusercontent.com/u/48618774?s=72&u=4b79ae32dc60823df0be6cb86a8e7bcdef792f4d&v=4" width="24" alt="Avatar of inzamam-inz"> inzamam-inz
 			</a><br/>
@@ -11974,7 +11987,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/shamim-42">
 				<img src="https://avatars.githubusercontent.com/u/30372165?s=72&u=913472353defc3fce9a16665f1fd73b51a2681a0&v=4" width="24" alt="Avatar of shamim-42"> shamim-42
@@ -11987,7 +12000,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/ishrat98">
 				<img src="https://avatars.githubusercontent.com/u/35221540?s=72&u=ba6e6870811dcd1862f33391d08577a3f120d2b4&v=4" width="24" alt="Avatar of ishrat98"> ishrat98
@@ -12000,7 +12013,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/hellorafiul">
 				<img src="https://avatars.githubusercontent.com/u/59471580?s=72&u=bc03081a21d3cc7b37b3005ea6115b458386c7af&v=4" width="24" alt="Avatar of hellorafiul"> hellorafiul
@@ -12013,7 +12026,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/ariyanmorshed">
 				<img src="https://avatars.githubusercontent.com/u/37775397?s=72&u=e550d7a9e2f1b41360c4db81fe60889b1b9ebf2c&v=4" width="24" alt="Avatar of ariyanmorshed"> ariyanmorshed
@@ -12026,7 +12039,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/AKD92">
 				<img src="https://avatars.githubusercontent.com/u/16840288?s=72&u=b525ea98002c5f6a0a505d700ba204048ca2652e&v=4" width="24" alt="Avatar of AKD92"> AKD92
@@ -12039,7 +12052,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/MahmudulHassan5809">
 				<img src="https://avatars.githubusercontent.com/u/35035594?s=72&u=22833dd0bcdfd0b09bb0db62a5cedc43a4032130&v=4" width="24" alt="Avatar of MahmudulHassan5809"> MahmudulHassan5809
@@ -12052,7 +12065,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/LMNx9-JOHNY">
 				<img src="https://avatars.githubusercontent.com/u/145145650?s=72&u=a9ec7422de60a8ea410d453b09394a43eb1f4a85&v=4" width="24" alt="Avatar of LMNx9-JOHNY"> LMNx9-JOHNY
@@ -12065,7 +12078,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/itsrafsanjani">
 				<img src="https://avatars.githubusercontent.com/u/48161278?s=72&u=8858d64c187dfda6e6d702dafc9e739006a1bfeb&v=4" width="24" alt="Avatar of itsrafsanjani"> itsrafsanjani
@@ -12078,7 +12091,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/mbrsagor">
 				<img src="https://avatars.githubusercontent.com/u/39002174?s=72&u=381678082ca7c309da93a4001029c6bc2cb3b219&v=4" width="24" alt="Avatar of mbrsagor"> mbrsagor
@@ -12091,7 +12104,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/akmamun">
 				<img src="https://avatars.githubusercontent.com/u/10064901?s=72&u=1f44ce516e2f7c695b06d5fa160390f3b58a2461&v=4" width="24" alt="Avatar of akmamun"> akmamun
@@ -12104,7 +12117,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/NehadAwad">
 				<img src="https://avatars.githubusercontent.com/u/34838421?s=72&u=c6d039676743e488cff4c4aa8d49617183a6a82d&v=4" width="24" alt="Avatar of NehadAwad"> NehadAwad
@@ -12117,7 +12130,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/Rudro-25">
 				<img src="https://avatars.githubusercontent.com/u/56835340?s=72&u=8f10b19b583b4461b084f28d34e211e811699f5d&v=4" width="24" alt="Avatar of Rudro-25"> Rudro-25
@@ -12130,7 +12143,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/rdnasim">
 				<img src="https://avatars.githubusercontent.com/u/19654129?s=72&u=13687be7e9698dabf7d119de479c4388e39fc3d0&v=4" width="24" alt="Avatar of rdnasim"> rdnasim
@@ -12143,7 +12156,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/chayanforyou">
 				<img src="https://avatars.githubusercontent.com/u/12654289?s=72&u=5db9cb2327ada2257e3878664d5eae0d4e90de8a&v=4" width="24" alt="Avatar of chayanforyou"> chayanforyou
@@ -12156,7 +12169,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/abdurrahmanriyad">
 				<img src="https://avatars.githubusercontent.com/u/16055472?s=72&u=af01eb314519c77474a54fa109bfaea29ffbdf48&v=4" width="24" alt="Avatar of abdurrahmanriyad"> abdurrahmanriyad
@@ -12169,7 +12182,7 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/problemsolvewithridoy">
 				<img src="https://avatars.githubusercontent.com/u/123636419?s=72&u=9f0e0ec24e176efa0d1c1a049d19f883109607d1&v=4" width="24" alt="Avatar of problemsolvewithridoy"> problemsolvewithridoy
@@ -12179,19 +12192,6 @@ There are `984 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jhenaidah, Dakha, Bangladesh</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>930</td>
-		<td>
-			<a href="https://github.com/Junaid433">
-				<img src="https://avatars.githubusercontent.com/u/91566370?s=72&u=263587ad13fac67379eb99379d91bc3beede1307&v=4" width="24" alt="Avatar of Junaid433"> Junaid433
-			</a><br/>
-			Junaid Rahman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Panchagarh,Bangladesh</td>
 		<td>67</td>
 	</tr>
 	<tr>
