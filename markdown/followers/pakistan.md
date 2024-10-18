@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/10/18 8:58 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/10/18 9:06 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `43 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/axiftaj">axiftaj</a></td>
 		<td>Islamabad, Pakistan</td>
-		<td>1965</td>
+		<td>1966</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -648,7 +648,7 @@ There are `994 users`  in Pakistan. You need at least `43 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Islamabad Pakistan.</td>
-		<td>601</td>
+		<td>600</td>
 	</tr>
 	<tr>
 		<td>43</td>
