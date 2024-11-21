@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2024/11/21 8:52 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2024/11/21 9:00 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1321,7 +1321,7 @@ There are `987 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
 		<td>408</td>
-		<td>511</td>
+		<td>513</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -3384,26 +3384,26 @@ There are `987 users`  in Palestine. You need at least `5 followers` to be on th
 	<tr>
 		<td>235</td>
 		<td>
-			<a href="https://github.com/abdalkarimnael">
-				<img src="https://avatars.githubusercontent.com/u/162728446?s=72&u=1b8258ecbda8a2a0ad22149ab97451895551443b&v=4" width="24" alt="Avatar of abdalkarimnael"> abdalkarimnael
-			</a><br/>
-			Abdalkarim Barghouthi
-		</td>
-		<td>Birzeit University </td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>136</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
 			<a href="https://github.com/ShahdEid2003">
 				<img src="https://avatars.githubusercontent.com/u/165230077?s=72&u=d35b371c6ee17d3862def62820cb66085859a5a4&v=4" width="24" alt="Avatar of ShahdEid2003"> ShahdEid2003
 			</a><br/>
 			Shahd Eid
 		</td>
 		<td>Palestine Technical University-kadoorie </td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
+		<td>137</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/abdalkarimnael">
+				<img src="https://avatars.githubusercontent.com/u/162728446?s=72&u=1b8258ecbda8a2a0ad22149ab97451895551443b&v=4" width="24" alt="Avatar of abdalkarimnael"> abdalkarimnael
+			</a><br/>
+			Abdalkarim Barghouthi
+		</td>
+		<td>Birzeit University </td>
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
 		<td>136</td>
