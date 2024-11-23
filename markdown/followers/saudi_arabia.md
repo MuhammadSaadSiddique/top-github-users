@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `number of followers` of users in Saudi Arabia on `2024/11/23 8:48 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `number of followers` of users in Saudi Arabia on `2024/11/23 8:58 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -11573,6 +11573,19 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>883</td>
 		<td>
+			<a href="https://github.com/Abdullah-binRokan">
+				<img src="https://avatars.githubusercontent.com/u/45723409?s=72&v=4" width="24" alt="Avatar of Abdullah-binRokan"> Abdullah-binRokan
+			</a><br/>
+			Abdullah bin Rokan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riyadh, Saudi Arabia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>884</td>
+		<td>
 			<a href="https://github.com/ahmadtech199">
 				<img src="https://avatars.githubusercontent.com/u/51687546?s=72&u=0289d44651b0eca6853ed6e83cb080de54405a3c&v=4" width="24" alt="Avatar of ahmadtech199"> ahmadtech199
 			</a><br/>
@@ -11584,7 +11597,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/bander-saeed94">
 				<img src="https://avatars.githubusercontent.com/u/29840356?s=72&u=5bcb683160051597b72b734ae510226feaf2d974&v=4" width="24" alt="Avatar of bander-saeed94"> bander-saeed94
@@ -11597,7 +11610,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/itsraghadalotibi">
 				<img src="https://avatars.githubusercontent.com/u/114938513?s=72&v=4" width="24" alt="Avatar of itsraghadalotibi"> itsraghadalotibi
@@ -11610,7 +11623,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/ahmedtalaat327">
 				<img src="https://avatars.githubusercontent.com/u/26097164?s=72&u=102d708d8bd890b5beffaa39a482e99b09186ea9&v=4" width="24" alt="Avatar of ahmedtalaat327"> ahmedtalaat327
@@ -11623,7 +11636,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/Abd-ulRahman">
 				<img src="https://avatars.githubusercontent.com/u/1366228?s=72&u=2e109e89bab2502cc8ce4405b9cf316b784720bc&v=4" width="24" alt="Avatar of Abd-ulRahman"> Abd-ulRahman
@@ -11636,7 +11649,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/xd7fx">
 				<img src="https://avatars.githubusercontent.com/u/173664349?s=72&u=cc06c6d924d388a25f4dff59fce7537228900626&v=4" width="24" alt="Avatar of xd7fx"> xd7fx
@@ -11649,7 +11662,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/AhmedAshrafFayeq">
 				<img src="https://avatars.githubusercontent.com/u/47187014?s=72&u=545a734ea0ce6c9dd941f32c3f11743470826c22&v=4" width="24" alt="Avatar of AhmedAshrafFayeq"> AhmedAshrafFayeq
@@ -11662,7 +11675,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/Senior-Moe">
 				<img src="https://avatars.githubusercontent.com/u/111916275?s=72&u=3f1e8990b3ddc5b46f372322595602534114fcb7&v=4" width="24" alt="Avatar of Senior-Moe"> Senior-Moe
@@ -11675,7 +11688,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/mohamadnabel">
 				<img src="https://avatars.githubusercontent.com/u/128857044?s=72&u=1f47a1fd067513b077eb2ff716b8f2b450353095&v=4" width="24" alt="Avatar of mohamadnabel"> mohamadnabel
@@ -11688,7 +11701,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/azizH">
 				<img src="https://avatars.githubusercontent.com/u/14812978?s=72&u=8391ea259814328cd097da311747e715d1b35c5e&v=4" width="24" alt="Avatar of azizH"> azizH
@@ -11701,7 +11714,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/fai9al7dad">
 				<img src="https://avatars.githubusercontent.com/u/63120233?s=72&u=2057d5a42ae2960cd22e0e3156b36541b6ddf4e1&v=4" width="24" alt="Avatar of fai9al7dad"> fai9al7dad
@@ -11714,7 +11727,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/Alhomaidhi">
 				<img src="https://avatars.githubusercontent.com/u/38828723?s=72&u=ce4c6c96af93eedf445372c10de25ec2e39139de&v=4" width="24" alt="Avatar of Alhomaidhi"> Alhomaidhi
@@ -11727,7 +11740,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/Ahmed0or1">
 				<img src="https://avatars.githubusercontent.com/u/31637268?s=72&u=3c23cacdca513caed47903c5185a9ca859e2d95b&v=4" width="24" alt="Avatar of Ahmed0or1"> Ahmed0or1
@@ -11740,7 +11753,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/ameensom">
 				<img src="https://avatars.githubusercontent.com/u/14329047?s=72&u=66d0894cf4772475dd9eede8cbb20bc81cd88e37&v=4" width="24" alt="Avatar of ameensom"> ameensom
@@ -11753,7 +11766,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/mssalkhalifah">
 				<img src="https://avatars.githubusercontent.com/u/60398196?s=72&u=7b4ead5d3a03a9ed3b86ff398ade3e6c1dcff529&v=4" width="24" alt="Avatar of mssalkhalifah"> mssalkhalifah
@@ -11766,7 +11779,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/isbader">
 				<img src="https://avatars.githubusercontent.com/u/48184690?s=72&u=ed1958d30aa584804ac0bf61c380a7b33addd701&v=4" width="24" alt="Avatar of isbader"> isbader
@@ -11779,7 +11792,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/DerwazaIT">
 				<img src="https://avatars.githubusercontent.com/u/98885209?s=72&u=bb12e1f8331516b8dd64f0f27a59385659ee23ef&v=4" width="24" alt="Avatar of DerwazaIT"> DerwazaIT
@@ -11792,7 +11805,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/revrkk">
 				<img src="https://avatars.githubusercontent.com/u/12998431?s=72&u=21b8d374b5512f67e832d98a0d5fef8d6caf4f4d&v=4" width="24" alt="Avatar of revrkk"> revrkk
@@ -11805,7 +11818,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/SGF-14">
 				<img src="https://avatars.githubusercontent.com/u/141271658?s=72&u=1b23bb4ce9e4f17efe07041c59f18ce0f2f1f6e2&v=4" width="24" alt="Avatar of SGF-14"> SGF-14
@@ -11818,7 +11831,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/ibnHamdan">
 				<img src="https://avatars.githubusercontent.com/u/3194590?s=72&u=926a95095793251ed4648a7374f8411ba25da6fe&v=4" width="24" alt="Avatar of ibnHamdan"> ibnHamdan
@@ -11831,7 +11844,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/Sarrahx">
 				<img src="https://avatars.githubusercontent.com/u/112611661?s=72&u=52783cf588b896145bdd0d8aabcad4de72bf1cf0&v=4" width="24" alt="Avatar of Sarrahx"> Sarrahx
@@ -11844,7 +11857,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/zalshawi">
 				<img src="https://avatars.githubusercontent.com/u/63451257?s=72&u=340c4476d896b0fa2628904dd4dd741a418b3475&v=4" width="24" alt="Avatar of zalshawi"> zalshawi
@@ -11857,7 +11870,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/Zataxo">
 				<img src="https://avatars.githubusercontent.com/u/110985621?s=72&u=e8c6e439e1a0b26fc49455da5cc18a3dfccdbced&v=4" width="24" alt="Avatar of Zataxo"> Zataxo
@@ -11870,7 +11883,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/osmanmoharram">
 				<img src="https://avatars.githubusercontent.com/u/29931614?s=72&u=f1d0fe53b38acf68444ef91fa0e2007f4c305b38&v=4" width="24" alt="Avatar of osmanmoharram"> osmanmoharram
@@ -11883,7 +11896,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/Alhanoufala">
 				<img src="https://avatars.githubusercontent.com/u/79309859?s=72&u=85c2d315652f515ac564f5bb75cb85afe559b067&v=4" width="24" alt="Avatar of Alhanoufala"> Alhanoufala
@@ -11896,7 +11909,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/Taefmersal">
 				<img src="https://avatars.githubusercontent.com/u/108003187?s=72&u=8b7efa8231ec877549d817ec1c05745e4d3da56a&v=4" width="24" alt="Avatar of Taefmersal"> Taefmersal
@@ -11909,7 +11922,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/Aseelcs">
 				<img src="https://avatars.githubusercontent.com/u/90194589?s=72&u=7b15331f389697a8683f9c530b0bed79b3c80010&v=4" width="24" alt="Avatar of Aseelcs"> Aseelcs
@@ -11922,7 +11935,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/aseelban">
 				<img src="https://avatars.githubusercontent.com/u/36125847?s=72&u=933cce8aef50d41f699a8a75cea77d4dac08f5bb&v=4" width="24" alt="Avatar of aseelban"> aseelban
@@ -11935,7 +11948,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/jawatson">
 				<img src="https://avatars.githubusercontent.com/u/1736162?s=72&v=4" width="24" alt="Avatar of jawatson"> jawatson
@@ -11948,7 +11961,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/ahmedRSA">
 				<img src="https://avatars.githubusercontent.com/u/77731877?s=72&u=202d6a25de407a39d9c23fc6a8b7c8ddc159854b&v=4" width="24" alt="Avatar of ahmedRSA"> ahmedRSA
@@ -11961,7 +11974,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/ManarSalem">
 				<img src="https://avatars.githubusercontent.com/u/54808444?s=72&u=ef199cf092058fccd90dd6c109d3efa34cae2920&v=4" width="24" alt="Avatar of ManarSalem"> ManarSalem
@@ -11974,7 +11987,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/DoaaSalemJedani">
 				<img src="https://avatars.githubusercontent.com/u/98253326?s=72&u=0dc66261e9a880fe04d4d702378f47c393c93367&v=4" width="24" alt="Avatar of DoaaSalemJedani"> DoaaSalemJedani
@@ -11987,7 +12000,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/ahosam">
 				<img src="https://avatars.githubusercontent.com/u/398571?s=72&u=2b645bcb9681e4a245a76c0c375e5c4c73744d81&v=4" width="24" alt="Avatar of ahosam"> ahosam
@@ -12000,7 +12013,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/zainabmel">
 				<img src="https://avatars.githubusercontent.com/u/68287704?s=72&v=4" width="24" alt="Avatar of zainabmel"> zainabmel
@@ -12013,7 +12026,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/wilayat">
 				<img src="https://avatars.githubusercontent.com/u/6347383?s=72&u=0d8906288920cb76d71e3acfd7ca0b69b6801045&v=4" width="24" alt="Avatar of wilayat"> wilayat
@@ -12026,7 +12039,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/b4ndar">
 				<img src="https://avatars.githubusercontent.com/u/43325009?s=72&u=42da8471106802d422b2ccca37e70a1b0a326eb9&v=4" width="24" alt="Avatar of b4ndar"> b4ndar
@@ -12039,7 +12052,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/Nawaf-Fahad">
 				<img src="https://avatars.githubusercontent.com/u/63883911?s=72&v=4" width="24" alt="Avatar of Nawaf-Fahad"> Nawaf-Fahad
@@ -12052,7 +12065,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/shahadNa1">
 				<img src="https://avatars.githubusercontent.com/u/50388183?s=72&u=972d4d406f22fec7cbd2b88b7243da0bf3c6abf5&v=4" width="24" alt="Avatar of shahadNa1"> shahadNa1
@@ -12065,7 +12078,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/Y-55">
 				<img src="https://avatars.githubusercontent.com/u/73385791?s=72&u=ffb2a14db41bf12358ae9bc7c5cc1c35e8ae14c4&v=4" width="24" alt="Avatar of Y-55"> Y-55
@@ -12078,7 +12091,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/mkhalil95">
 				<img src="https://avatars.githubusercontent.com/u/48019183?s=72&u=4c6b823c8877eb7b549196a2e30bcd11691b0ee1&v=4" width="24" alt="Avatar of mkhalil95"> mkhalil95
@@ -12091,7 +12104,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/afj95">
 				<img src="https://avatars.githubusercontent.com/u/33052105?s=72&u=8ba8980ef85f9253f93b271e77f215adb416481e&v=4" width="24" alt="Avatar of afj95"> afj95
@@ -12104,7 +12117,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/Meaad96s">
 				<img src="https://avatars.githubusercontent.com/u/20974667?s=72&u=4eefb9441fc9733aa3aea625b470b96fecfb81c2&v=4" width="24" alt="Avatar of Meaad96s"> Meaad96s
@@ -12117,7 +12130,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/Aillian">
 				<img src="https://avatars.githubusercontent.com/u/43043916?s=72&u=843aa434cc3fb2bd259a55c341f83f311bf355d0&v=4" width="24" alt="Avatar of Aillian"> Aillian
@@ -12130,7 +12143,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/hindamosh">
 				<img src="https://avatars.githubusercontent.com/u/39014318?s=72&u=7231c1cf5dac323ab5ca549d21cf84ea9c8845dd&v=4" width="24" alt="Avatar of hindamosh"> hindamosh
@@ -12140,19 +12153,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Jeddah - Saudi Arabia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>927</td>
-		<td>
-			<a href="https://github.com/XOUT1">
-				<img src="https://avatars.githubusercontent.com/u/77713114?s=72&u=2bc858d992f0eb0ec5a7b8b578cb900586f72891&v=4" width="24" alt="Avatar of XOUT1"> XOUT1
-			</a><br/>
-			iwin siju
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>riyadh</td>
 		<td>6</td>
 	</tr>
 	<tr>
