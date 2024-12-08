@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` by users in Syria on `2024/12/7 8:21 PM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` by users in Syria on `2024/12/8 8:58 PM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -336,7 +336,7 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>Ismail </td>
 		<td>No Twitter Username</td>
 		<td>Aleppo-Syria</td>
-		<td>471</td>
+		<td>472</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -354,6 +354,19 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/DMouayad">
+				<img src="https://avatars.githubusercontent.com/u/82384138?s=72&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4" width="24" alt="Avatar of DMouayad"> DMouayad
+			</a><br/>
+			Mouayad Alhamwi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Damascus, Syria</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/mohammad-Al-Mouhtaseb">
 				<img src="https://avatars.githubusercontent.com/u/83731873?s=72&u=59f554c2256cb207105f60c86365bd09ae7d8f14&v=4" width="24" alt="Avatar of mohammad-Al-Mouhtaseb"> mohammad-Al-Mouhtaseb
 			</a><br/>
@@ -363,19 +376,6 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Syria</td>
 		<td>445</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/DMouayad">
-				<img src="https://avatars.githubusercontent.com/u/82384138?s=72&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4" width="24" alt="Avatar of DMouayad"> DMouayad
-			</a><br/>
-			Mouayad Alhamwi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Damascus, Syria</td>
-		<td>443</td>
 	</tr>
 	<tr>
 		<td>22</td>

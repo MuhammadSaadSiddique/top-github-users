@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` and `private contributions` by users in Syria on `2024/12/7 8:21 PM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` and `private contributions` by users in Syria on `2024/12/8 8:58 PM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -215,7 +215,7 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Damascus, Syria</td>
 		<td>661</td>
-		<td>886</td>
+		<td>883</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -402,6 +402,20 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/offpic">
+				<img src="https://avatars.githubusercontent.com/u/31142397?s=72&u=16d7a8288c2fa2aa8981abaff4a41f7c76e0dcfd&v=4" width="24" alt="Avatar of offpic"> offpic
+			</a><br/>
+			Ismail Alhajjjjj 
+		</td>
+		<td>Ismail </td>
+		<td>No Twitter Username</td>
+		<td>Aleppo-Syria</td>
+		<td>472</td>
+		<td>472</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/maamounhajnajeeb">
 				<img src="https://avatars.githubusercontent.com/u/87011464?s=72&u=f9c2c273d348be7aad18ed9fa5a38b2050c67f52&v=4" width="24" alt="Avatar of maamounhajnajeeb"> maamounhajnajeeb
 			</a><br/>
@@ -414,21 +428,21 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>472</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
-			<a href="https://github.com/offpic">
-				<img src="https://avatars.githubusercontent.com/u/31142397?s=72&u=16d7a8288c2fa2aa8981abaff4a41f7c76e0dcfd&v=4" width="24" alt="Avatar of offpic"> offpic
+			<a href="https://github.com/DMouayad">
+				<img src="https://avatars.githubusercontent.com/u/82384138?s=72&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4" width="24" alt="Avatar of DMouayad"> DMouayad
 			</a><br/>
-			Ismail Alhajjjjj 
+			Mouayad Alhamwi
 		</td>
-		<td>Ismail </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Aleppo-Syria</td>
-		<td>471</td>
-		<td>471</td>
+		<td>Damascus, Syria</td>
+		<td>450</td>
+		<td>450</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/mohammad-Al-Mouhtaseb">
 				<img src="https://avatars.githubusercontent.com/u/83731873?s=72&u=59f554c2256cb207105f60c86365bd09ae7d8f14&v=4" width="24" alt="Avatar of mohammad-Al-Mouhtaseb"> mohammad-Al-Mouhtaseb
@@ -440,20 +454,6 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>Syria</td>
 		<td>445</td>
 		<td>445</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/DMouayad">
-				<img src="https://avatars.githubusercontent.com/u/82384138?s=72&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4" width="24" alt="Avatar of DMouayad"> DMouayad
-			</a><br/>
-			Mouayad Alhamwi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Damascus, Syria</td>
-		<td>443</td>
-		<td>443</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -733,7 +733,7 @@ There are `986 users`  in Syria. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>syria</td>
 		<td>6</td>
-		<td>314</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>46</td>
