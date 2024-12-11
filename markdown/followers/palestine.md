@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2024/12/11 8:53 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2024/12/11 9:01 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1485,6 +1485,19 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/AhmadSaleh22">
+				<img src="https://avatars.githubusercontent.com/u/30163094?s=72&u=11dca29d8407fc9c15d1ddb9a4b70d596f29fd95&v=4" width="24" alt="Avatar of AhmadSaleh22"> AhmadSaleh22
+			</a><br/>
+			Ahmad Saleh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>palestine</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/momen-sisalem92">
 				<img src="https://avatars.githubusercontent.com/u/16369528?s=72&v=4" width="24" alt="Avatar of momen-sisalem92"> momen-sisalem92
 			</a><br/>
@@ -1496,7 +1509,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/Mai-Elhajeen">
 				<img src="https://avatars.githubusercontent.com/u/79872538?s=72&u=13da38f451b0ed3c37b7adc78e19449b57880a42&v=4" width="24" alt="Avatar of Mai-Elhajeen"> Mai-Elhajeen
@@ -1509,7 +1522,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/Haythamasalama">
 				<img src="https://avatars.githubusercontent.com/u/37311945?s=72&u=dd15495fcd026cb45b8729f8bf679baabd587a92&v=4" width="24" alt="Avatar of Haythamasalama"> Haythamasalama
@@ -1522,7 +1535,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/IsraaMoqbel">
 				<img src="https://avatars.githubusercontent.com/u/28726665?s=72&u=9c9462a1fa96e37b50f0e508b17385ca1c01a0d9&v=4" width="24" alt="Avatar of IsraaMoqbel"> IsraaMoqbel
@@ -1535,7 +1548,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/itsAsmaa">
 				<img src="https://avatars.githubusercontent.com/u/112779922?s=72&u=8a0dee8de24ce1132218a3cd64f0de2ac039896d&v=4" width="24" alt="Avatar of itsAsmaa"> itsAsmaa
@@ -1545,19 +1558,6 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>Birzeit University  </td>
 		<td>No Twitter Username</td>
 		<td>Palestine </td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/AhmadSaleh22">
-				<img src="https://avatars.githubusercontent.com/u/30163094?s=72&u=11dca29d8407fc9c15d1ddb9a4b70d596f29fd95&v=4" width="24" alt="Avatar of AhmadSaleh22"> AhmadSaleh22
-			</a><br/>
-			Ahmad Saleh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>palestine</td>
 		<td>42</td>
 	</tr>
 	<tr>
