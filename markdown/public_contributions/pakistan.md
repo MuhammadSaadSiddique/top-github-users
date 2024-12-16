@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/12/16 8:44 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/12/16 8:55 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>@zaid-code </td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>42166</td>
+		<td>42168</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1420,6 +1420,19 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 	<tr>
 		<td>102</td>
 		<td>
+			<a href="https://github.com/khanzadigithubid">
+				<img src="https://avatars.githubusercontent.com/u/160390882?s=72&u=33babbe31226e62f4154d218b4d6252954df0e08&v=4" width="24" alt="Avatar of khanzadigithubid"> khanzadigithubid
+			</a><br/>
+			Khanzadi Wazir Ali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Karachi, Pakistan</td>
+		<td>385</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
 			<a href="https://github.com/tayyabadev">
 				<img src="https://avatars.githubusercontent.com/u/142013549?s=72&u=86e505bf727e8b12e6cd68dac4e02631794b39ec&v=4" width="24" alt="Avatar of tayyabadev"> tayyabadev
 			</a><br/>
@@ -1429,19 +1442,6 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Pakistan</td>
 		<td>385</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/khanzadigithubid">
-				<img src="https://avatars.githubusercontent.com/u/160390882?s=72&u=33babbe31226e62f4154d218b4d6252954df0e08&v=4" width="24" alt="Avatar of khanzadigithubid"> khanzadigithubid
-			</a><br/>
-			Khanzadi Wazir Ali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Karachi, Pakistan</td>
-		<td>384</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1810,6 +1810,19 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 	<tr>
 		<td>132</td>
 		<td>
+			<a href="https://github.com/mfahadahmed2020">
+				<img src="https://avatars.githubusercontent.com/u/160360284?s=72&u=af18005881a132dcf47550551dd6cc4b573c73ea&v=4" width="24" alt="Avatar of mfahadahmed2020"> mfahadahmed2020
+			</a><br/>
+			M Fahad Ahmed
+		</td>
+		<td>Target Wall Mart Fashion<br/>Accessories<br/></td>
+		<td>No Twitter Username</td>
+		<td>Karachi</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
 			<a href="https://github.com/DeepakKumarKhatri">
 				<img src="https://avatars.githubusercontent.com/u/86526696?s=72&u=849e3398be5ad8553875da6efc5fca28cd3accf1&v=4" width="24" alt="Avatar of DeepakKumarKhatri"> DeepakKumarKhatri
 			</a><br/>
@@ -1821,7 +1834,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/alammehtab">
 				<img src="https://avatars.githubusercontent.com/u/49854015?s=72&u=54fc0bf79ec6dcf91932a36f30b6a8d7d36ec6ba&v=4" width="24" alt="Avatar of alammehtab"> alammehtab
@@ -1831,19 +1844,6 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>Https://myfitnesscoa </td>
 		<td><a href="https://twitter.com/mehtaba728">mehtaba728</a></td>
 		<td>Islamabad, Pakistan</td>
-		<td>322</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/mfahadahmed2020">
-				<img src="https://avatars.githubusercontent.com/u/160360284?s=72&u=af18005881a132dcf47550551dd6cc4b573c73ea&v=4" width="24" alt="Avatar of mfahadahmed2020"> mfahadahmed2020
-			</a><br/>
-			M Fahad Ahmed
-		</td>
-		<td>Target Wall Mart Fashion<br/>Accessories<br/></td>
-		<td>No Twitter Username</td>
-		<td>Karachi</td>
 		<td>322</td>
 	</tr>
 	<tr>
@@ -2520,7 +2520,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>Microverse </td>
 		<td><a href="https://twitter.com/MasumaJaffery">MasumaJaffery</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>239</td>
+		<td>240</td>
 	</tr>
 	<tr>
 		<td>187</td>
