@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` by users in Turkey on `2025/2/8 8:53 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` by users in Turkey on `2025/2/8 9:02 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -115,7 +115,7 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>0x0e0.eth </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>127093</td>
+		<td>127095</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -271,7 +271,7 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>Blockchain, Devops,  Java<br/>Full<br/>Stack<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/Hamit_Mizrak">Hamit_Mizrak</a></td>
 		<td>istanbul</td>
-		<td>1909</td>
+		<td>1911</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -310,7 +310,7 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>@firstbatchxyz </td>
 		<td><a href="https://twitter.com/0xerhant">0xerhant</a></td>
 		<td>Istanbul</td>
-		<td>1575</td>
+		<td>1576</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -518,7 +518,7 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>İstanbul</td>
-		<td>1082</td>
+		<td>1083</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -1147,19 +1147,6 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/cihat">
-				<img src="https://avatars.githubusercontent.com/u/57585087?s=72&u=f55b72a563f3d1d583c755af769250ec64cebfc3&v=4" width="24" alt="Avatar of cihat"> cihat
-			</a><br/>
-			Cihat SALİK
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chtslk">chtslk</a></td>
-		<td>Istanbul</td>
-		<td>466</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
 			<a href="https://github.com/yusufyaman07">
 				<img src="https://avatars.githubusercontent.com/u/148998418?s=72&u=6443abda1ba443384799881dea2575fad919c2fc&v=4" width="24" alt="Avatar of yusufyaman07"> yusufyaman07
 			</a><br/>
@@ -1168,6 +1155,19 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>Emaartechs </td>
 		<td><a href="https://twitter.com/yaman_yusuf_7">yaman_yusuf_7</a></td>
 		<td>Malatya/Turkey</td>
+		<td>467</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/cihat">
+				<img src="https://avatars.githubusercontent.com/u/57585087?s=72&u=f55b72a563f3d1d583c755af769250ec64cebfc3&v=4" width="24" alt="Avatar of cihat"> cihat
+			</a><br/>
+			Cihat SALİK
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chtslk">chtslk</a></td>
+		<td>Istanbul</td>
 		<td>466</td>
 	</tr>
 	<tr>
@@ -1337,7 +1337,7 @@ There are `974 users`  in Turkey. You need at least `136 followers` to be on thi
 		<td>Volosoft </td>
 		<td><a href="https://twitter.com/alperebicoglu">alperebicoglu</a></td>
 		<td>Turkey</td>
-		<td>418</td>
+		<td>419</td>
 	</tr>
 	<tr>
 		<td>96</td>
