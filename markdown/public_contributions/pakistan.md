@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2025/2/11 8:40 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2025/2/11 8:49 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>@zaid-code </td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>38759</td>
+		<td>38760</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -6191,6 +6191,19 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 	<tr>
 		<td>469</td>
 		<td>
+			<a href="https://github.com/haideralicodes">
+				<img src="https://avatars.githubusercontent.com/u/78718236?s=72&u=bf7a9861fe4404f995531403418eba60a74ba56c&v=4" width="24" alt="Avatar of haideralicodes"> haideralicodes
+			</a><br/>
+			Haider Ali
+		</td>
+		<td>@mlsa-islamabad  </td>
+		<td>No Twitter Username</td>
+		<td>Pakistan</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
 			<a href="https://github.com/missmehakalamgir">
 				<img src="https://avatars.githubusercontent.com/u/159041130?s=72&u=1a9826496cdea89424395416d58d5e1791d54817&v=4" width="24" alt="Avatar of missmehakalamgir"> missmehakalamgir
 			</a><br/>
@@ -6202,7 +6215,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/shahzebnaqvi">
 				<img src="https://avatars.githubusercontent.com/u/50788207?s=72&u=35504a3bc0a4bbcc201b95d9cd7cdcc122aa6221&v=4" width="24" alt="Avatar of shahzebnaqvi"> shahzebnaqvi
@@ -6215,7 +6228,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/Kun786">
 				<img src="https://avatars.githubusercontent.com/u/12573912?s=72&u=7dd419516c4aa24c45c2a2a26900b381657ddbfd&v=4" width="24" alt="Avatar of Kun786"> Kun786
@@ -6228,7 +6241,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/HusnainAnwar">
 				<img src="https://avatars.githubusercontent.com/u/78223981?s=72&u=1c5a68353b93eea4ebe64bd9992fccd04d6313bc&v=4" width="24" alt="Avatar of HusnainAnwar"> HusnainAnwar
@@ -6241,7 +6254,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/aayanqazi">
 				<img src="https://avatars.githubusercontent.com/u/13614942?s=72&u=2ca5fdef8d917848d9fc52ec6d7fa588383ba6e5&v=4" width="24" alt="Avatar of aayanqazi"> aayanqazi
@@ -6254,7 +6267,7 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/Sameer-472">
 				<img src="https://avatars.githubusercontent.com/u/71975211?s=72&u=dd25256e3cc8f51eb93ef2b2ae1d7f2e7cb5ac78&v=4" width="24" alt="Avatar of Sameer-472"> Sameer-472
@@ -6264,19 +6277,6 @@ There are `993 users`  in Pakistan. You need at least `47 followers` to be on th
 		<td>Transviti </td>
 		<td><a href="https://twitter.com/sameer_45">sameer_45</a></td>
 		<td>Karachi Sindh Pakistan</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/haideralicodes">
-				<img src="https://avatars.githubusercontent.com/u/78718236?s=72&u=bf7a9861fe4404f995531403418eba60a74ba56c&v=4" width="24" alt="Avatar of haideralicodes"> haideralicodes
-			</a><br/>
-			Haider Ali
-		</td>
-		<td>@mlsa-islamabad  </td>
-		<td>No Twitter Username</td>
-		<td>Pakistan</td>
 		<td>45</td>
 	</tr>
 	<tr>
