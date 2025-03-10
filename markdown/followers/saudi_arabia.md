@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `number of followers` of users in Saudi Arabia on `2025/3/10 8:51 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `number of followers` of users in Saudi Arabia on `2025/3/10 9:00 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -154,7 +154,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Confidential </td>
 		<td>No Twitter Username</td>
 		<td>Mecca, Saudi Arabia</td>
-		<td>806</td>
+		<td>807</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -3357,6 +3357,19 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>251</td>
 		<td>
+			<a href="https://github.com/YonkoSultan">
+				<img src="https://avatars.githubusercontent.com/u/107263975?s=72&u=d89f98e270504d3163673b2507950848d585bfd1&v=4" width="24" alt="Avatar of YonkoSultan"> YonkoSultan
+			</a><br/>
+			Sultan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Saudi arabia, Jeddah</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a href="https://github.com/kh77">
 				<img src="https://avatars.githubusercontent.com/u/17608867?s=72&v=4" width="24" alt="Avatar of kh77"> kh77
 			</a><br/>
@@ -3368,7 +3381,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/Abdullah-Alsabi">
 				<img src="https://avatars.githubusercontent.com/u/80869015?s=72&u=91636dc8c92bf9eb64939432fae3396888df7e79&v=4" width="24" alt="Avatar of Abdullah-Alsabi"> Abdullah-Alsabi
@@ -3381,7 +3394,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/JalalMadhaji">
 				<img src="https://avatars.githubusercontent.com/u/55395451?s=72&u=c576260496aef9219df6b04294b6b4439de8882c&v=4" width="24" alt="Avatar of JalalMadhaji"> JalalMadhaji
@@ -3394,7 +3407,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/kareemaladawy">
 				<img src="https://avatars.githubusercontent.com/u/62149929?s=72&u=f3782519030a76084db1834f9ab5fbfe4b2426ae&v=4" width="24" alt="Avatar of kareemaladawy"> kareemaladawy
@@ -3407,7 +3420,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Hnooz">
 				<img src="https://avatars.githubusercontent.com/u/44949769?s=72&u=2d9cdc5b92a5a920178ec3273475382aefb3a9d8&v=4" width="24" alt="Avatar of Hnooz"> Hnooz
@@ -3420,7 +3433,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/hamed-farag">
 				<img src="https://avatars.githubusercontent.com/u/5382471?s=72&u=48f24019cc19f554855f837c347b26cdd0386f9b&v=4" width="24" alt="Avatar of hamed-farag"> hamed-farag
@@ -3430,19 +3443,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Wakecap </td>
 		<td><a href="https://twitter.com/hamedmfarag">hamedmfarag</a></td>
 		<td>Riyadh, KSA</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/YonkoSultan">
-				<img src="https://avatars.githubusercontent.com/u/107263975?s=72&u=d89f98e270504d3163673b2507950848d585bfd1&v=4" width="24" alt="Avatar of YonkoSultan"> YonkoSultan
-			</a><br/>
-			Sultan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Saudi arabia, Jeddah</td>
 		<td>25</td>
 	</tr>
 	<tr>

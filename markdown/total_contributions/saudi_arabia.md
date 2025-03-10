@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/3/10 8:51 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/3/10 9:00 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -271,7 +271,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/YasserALattas">YasserALattas</a></td>
 		<td>Jeddah, Saudi Arabia</td>
 		<td>52</td>
-		<td>3586</td>
+		<td>3587</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -565,7 +565,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/timer150">timer150</a></td>
 		<td>Medina, Ohio</td>
 		<td>44</td>
-		<td>2175</td>
+		<td>2177</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -957,7 +957,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Jeddah</td>
 		<td>119</td>
-		<td>1392</td>
+		<td>1393</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1279,7 +1279,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>34</td>
-		<td>1024</td>
+		<td>1025</td>
 	</tr>
 	<tr>
 		<td>85</td>
