@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/4/1 8:53 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/4/1 9:02 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -145,7 +145,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/aziz9kh">aziz9kh</a></td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>1</td>
-		<td>5296</td>
+		<td>5297</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -495,7 +495,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/timer150">timer150</a></td>
 		<td>Medina, Ohio</td>
 		<td>46</td>
-		<td>2306</td>
+		<td>2307</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -3160,6 +3160,20 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>219</td>
 		<td>
+			<a href="https://github.com/ialeidan">
+				<img src="https://avatars.githubusercontent.com/u/33706239?s=72&u=852ae4f805dfff92b0f13e91734800a6a00d35c7&v=4" width="24" alt="Avatar of ialeidan"> ialeidan
+			</a><br/>
+			Ibrahim Aleidan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riyadh, Saudi Arabia</td>
+		<td>1</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
 			<a href="https://github.com/X7md">
 				<img src="https://avatars.githubusercontent.com/u/54203033?s=72&u=774c791c8f234c97a4654f248f1bedd020457627&v=4" width="24" alt="Avatar of X7md"> X7md
 			</a><br/>
@@ -3172,7 +3186,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/Mosallamy">
 				<img src="https://avatars.githubusercontent.com/u/49591985?s=72&u=e8b5b88a0ce0be945983b3133b0c639201d0aa56&v=4" width="24" alt="Avatar of Mosallamy"> Mosallamy
@@ -3183,20 +3197,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>0</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/ialeidan">
-				<img src="https://avatars.githubusercontent.com/u/33706239?s=72&u=852ae4f805dfff92b0f13e91734800a6a00d35c7&v=4" width="24" alt="Avatar of ialeidan"> ialeidan
-			</a><br/>
-			Ibrahim Aleidan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riyadh, Saudi Arabia</td>
-		<td>1</td>
 		<td>229</td>
 	</tr>
 	<tr>
