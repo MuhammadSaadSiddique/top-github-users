@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2025/4/19 8:42 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2025/4/19 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -895,7 +895,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>Devsinc  </td>
 		<td>No Twitter Username</td>
 		<td>Islamabad, Pakistan</td>
-		<td>483</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -5957,6 +5957,19 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 	<tr>
 		<td>451</td>
 		<td>
+			<a href="https://github.com/khusamayasir">
+				<img src="https://avatars.githubusercontent.com/u/66178232?s=72&u=3ac9fd0c519b26804da8d4fab84d406ec059d61d&v=4" width="24" alt="Avatar of khusamayasir"> khusamayasir
+			</a><br/>
+			Khawaja Usama Yasir
+		</td>
+		<td>Sir Syed University Of<br/>Engineering<br/>&<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/khusamayasir">khusamayasir</a></td>
+		<td>Karachi, Pakistan</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
 			<a href="https://github.com/muhammadabdullah660">
 				<img src="https://avatars.githubusercontent.com/u/75908938?s=72&u=d408324ff6f0d93ee4f05d581454d59c05179d5a&v=4" width="24" alt="Avatar of muhammadabdullah660"> muhammadabdullah660
 			</a><br/>
@@ -5968,7 +5981,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/ibrahimrehman1">
 				<img src="https://avatars.githubusercontent.com/u/63722045?s=72&u=efcd8a0b5989a0ba3fffae20d5a07b5eed076c80&v=4" width="24" alt="Avatar of ibrahimrehman1"> ibrahimrehman1
@@ -5981,7 +5994,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/devsyedmohsin">
 				<img src="https://avatars.githubusercontent.com/u/83846298?s=72&u=805d89c945a6700e31ccd2a63e38f745c6422bf6&v=4" width="24" alt="Avatar of devsyedmohsin"> devsyedmohsin
@@ -5992,19 +6005,6 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lahore, Pakistan</td>
 		<td>98</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/khusamayasir">
-				<img src="https://avatars.githubusercontent.com/u/66178232?s=72&u=3ac9fd0c519b26804da8d4fab84d406ec059d61d&v=4" width="24" alt="Avatar of khusamayasir"> khusamayasir
-			</a><br/>
-			Khawaja Usama Yasir
-		</td>
-		<td>Sir Syed University Of<br/>Engineering<br/>&<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/khusamayasir">khusamayasir</a></td>
-		<td>Karachi, Pakistan</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>455</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2025/4/19 8:42 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2025/4/19 8:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>@zaid-code </td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>35573</td>
-		<td>36264</td>
+		<td>35574</td>
+		<td>36265</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1824,8 +1824,8 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karachi</td>
-		<td>1122</td>
-		<td>1167</td>
+		<td>1131</td>
+		<td>1176</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -2581,7 +2581,7 @@ There are `990 users`  in Pakistan. You need at least `50 followers` to be on th
 		<td><a href="https://twitter.com/ali_hassan_here">ali_hassan_here</a></td>
 		<td>Lahore, Pakistan</td>
 		<td>62</td>
-		<td>844</td>
+		<td>847</td>
 	</tr>
 	<tr>
 		<td>178</td>
