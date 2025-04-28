@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/4/28 8:51 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/4/28 8:59 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -495,7 +495,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/timer150">timer150</a></td>
 		<td>Medina, Ohio</td>
 		<td>47</td>
-		<td>2444</td>
+		<td>2445</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1461,7 +1461,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/mudssrali">mudssrali</a></td>
 		<td>Riyadh, KSA</td>
 		<td>20</td>
-		<td>981</td>
+		<td>982</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -3104,6 +3104,20 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>215</td>
 		<td>
+			<a href="https://github.com/likhonsheikhofficial">
+				<img src="https://avatars.githubusercontent.com/u/203375680?s=72&u=bc5df3e2a64986a40e32d690d689b22712d1f537&v=4" width="24" alt="Avatar of likhonsheikhofficial"> likhonsheikhofficial
+			</a><br/>
+			Likhon Sheikh
+		</td>
+		<td>@likhonjs </td>
+		<td>No Twitter Username</td>
+		<td>Riyadh, Saudi Arabia</td>
+		<td>243</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
 			<a href="https://github.com/nagm-star">
 				<img src="https://avatars.githubusercontent.com/u/6339291?s=72&u=19dd88d678285241fdb39becbf042780bff8dd5b&v=4" width="24" alt="Avatar of nagm-star"> nagm-star
 			</a><br/>
@@ -3114,20 +3128,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Jeddah - KSA</td>
 		<td>6</td>
 		<td>243</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/likhonsheikhofficial">
-				<img src="https://avatars.githubusercontent.com/u/203375680?s=72&u=bc5df3e2a64986a40e32d690d689b22712d1f537&v=4" width="24" alt="Avatar of likhonsheikhofficial"> likhonsheikhofficial
-			</a><br/>
-			Likhon Sheikh
-		</td>
-		<td>@likhonjs </td>
-		<td>No Twitter Username</td>
-		<td>Riyadh, Saudi Arabia</td>
-		<td>242</td>
-		<td>242</td>
 	</tr>
 	<tr>
 		<td>217</td>
