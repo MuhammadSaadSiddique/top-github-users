@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2025/6/10 8:55 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2025/6/10 9:04 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -206,6 +206,20 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/hayasam">
+				<img src="https://avatars.githubusercontent.com/u/7658783?s=72&u=0e93151c5f160e56c65c491b5ab1080069e152ab&v=4" width="24" alt="Avatar of hayasam"> hayasam
+			</a><br/>
+			No Name
+		</td>
+		<td>An Najah National University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
+		<td>2488</td>
+		<td>2488</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/saedyousef">
 				<img src="https://avatars.githubusercontent.com/u/11349715?s=72&u=a1927626fe27cc8fefaf7a64290263688929bca8&v=4" width="24" alt="Avatar of saedyousef"> saedyousef
 			</a><br/>
@@ -216,20 +230,6 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>Palestine 🇵🇸 | Jordan | Germany</td>
 		<td>49</td>
 		<td>2488</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/hayasam">
-				<img src="https://avatars.githubusercontent.com/u/7658783?s=72&u=0e93151c5f160e56c65c491b5ab1080069e152ab&v=4" width="24" alt="Avatar of hayasam"> hayasam
-			</a><br/>
-			No Name
-		</td>
-		<td>An Najah National University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>2487</td>
-		<td>2487</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1979,7 +1979,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td><a href="https://twitter.com/SolaimanKmail">SolaimanKmail</a></td>
 		<td>Palestine</td>
 		<td>5</td>
-		<td>417</td>
+		<td>418</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -5498,6 +5498,20 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 	<tr>
 		<td>386</td>
 		<td>
+			<a href="https://github.com/raghad-murad">
+				<img src="https://avatars.githubusercontent.com/u/189636173?s=72&u=6ffa29286a8a5bd32004857cea0cd1c584675c47&v=4" width="24" alt="Avatar of raghad-murad"> raghad-murad
+			</a><br/>
+			Raghad Murad
+		</td>
+		<td>Birzeit University </td>
+		<td>No Twitter Username</td>
+		<td>Salfeet, Palestine </td>
+		<td>79</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
 			<a href="https://github.com/hibashraim">
 				<img src="https://avatars.githubusercontent.com/u/148657855?s=72&u=f4021b1a931d3cdb6dfec59e9b460e8c837d0913&v=4" width="24" alt="Avatar of hibashraim"> hibashraim
 			</a><br/>
@@ -5510,7 +5524,7 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Heema14">
 				<img src="https://avatars.githubusercontent.com/u/80535557?s=72&u=89c3965dcb9b35e2935c5cfaa19d24366861cc27&v=4" width="24" alt="Avatar of Heema14"> Heema14
@@ -5520,20 +5534,6 @@ There are `986 users`  in Palestine. You need at least `6 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Palestine - Gaza</td>
-		<td>78</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/raghad-murad">
-				<img src="https://avatars.githubusercontent.com/u/189636173?s=72&u=6ffa29286a8a5bd32004857cea0cd1c584675c47&v=4" width="24" alt="Avatar of raghad-murad"> raghad-murad
-			</a><br/>
-			Raghad Murad
-		</td>
-		<td>Birzeit University </td>
-		<td>No Twitter Username</td>
-		<td>Salfeet, Palestine </td>
 		<td>78</td>
 		<td>78</td>
 	</tr>
