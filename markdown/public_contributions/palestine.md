@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` by users in Palestine on `2025/8/20 8:56 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` by users in Palestine on `2025/8/20 9:05 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -960,7 +960,7 @@ There are `984 users`  in Palestine. You need at least `7 followers` to be on th
 		<td>Ptuk </td>
 		<td>No Twitter Username</td>
 		<td>Palestine-Tulkarem</td>
-		<td>293</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>67</td>

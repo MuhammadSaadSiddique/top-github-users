@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2025/8/20 8:56 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2025/8/20 9:05 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -2502,6 +2502,20 @@ There are `984 users`  in Palestine. You need at least `7 followers` to be on th
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/skmail">
+				<img src="https://avatars.githubusercontent.com/u/3670810?s=72&u=418e200e286c293bd095fe6e88d527f467a1e1a3&v=4" width="24" alt="Avatar of skmail"> skmail
+			</a><br/>
+			No Name
+		</td>
+		<td>Letsmod </td>
+		<td><a href="https://twitter.com/SolaimanKmail">SolaimanKmail</a></td>
+		<td>Palestine</td>
+		<td>5</td>
+		<td>360</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/Noortumeh">
 				<img src="https://avatars.githubusercontent.com/u/90515044?s=72&u=b9ba84d47979fba5c9c6795f78d98fff3e2db7a2&v=4" width="24" alt="Avatar of Noortumeh"> Noortumeh
 			</a><br/>
@@ -2512,20 +2526,6 @@ There are `984 users`  in Palestine. You need at least `7 followers` to be on th
 		<td>Palestine</td>
 		<td>275</td>
 		<td>360</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/skmail">
-				<img src="https://avatars.githubusercontent.com/u/3670810?s=72&u=418e200e286c293bd095fe6e88d527f467a1e1a3&v=4" width="24" alt="Avatar of skmail"> skmail
-			</a><br/>
-			No Name
-		</td>
-		<td>Letsmod </td>
-		<td><a href="https://twitter.com/SolaimanKmail">SolaimanKmail</a></td>
-		<td>Palestine</td>
-		<td>5</td>
-		<td>359</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2790,8 +2790,8 @@ There are `984 users`  in Palestine. You need at least `7 followers` to be on th
 		<td>Ptuk </td>
 		<td>No Twitter Username</td>
 		<td>Palestine-Tulkarem</td>
-		<td>293</td>
-		<td>307</td>
+		<td>294</td>
+		<td>308</td>
 	</tr>
 	<tr>
 		<td>193</td>
