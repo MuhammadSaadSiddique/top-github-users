@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/11/2 8:50 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/11/2 8:58 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1480,20 +1480,6 @@ There are `988 users`  in Saudi Arabia. You need at least `7 followers` to be on
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/hnooz">
-				<img src="https://avatars.githubusercontent.com/u/44949769?s=72&u=2d9cdc5b92a5a920178ec3273475382aefb3a9d8&v=4" width="24" alt="Avatar of hnooz"> hnooz
-			</a><br/>
-			Mohamed Idris
-		</td>
-		<td>Elmam </td>
-		<td><a href="https://twitter.com/7noOz">7noOz</a></td>
-		<td>Saudi Arabia, Riyadh</td>
-		<td>40</td>
-		<td>1026</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a href="https://github.com/AMJasser">
 				<img src="https://avatars.githubusercontent.com/u/47599891?s=72&u=ca0eb080f908959b8923dd7d4345aebd09f5ce6e&v=4" width="24" alt="Avatar of AMJasser"> AMJasser
 			</a><br/>
@@ -1503,6 +1489,20 @@ There are `988 users`  in Saudi Arabia. You need at least `7 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>4</td>
+		<td>1027</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/hnooz">
+				<img src="https://avatars.githubusercontent.com/u/44949769?s=72&u=2d9cdc5b92a5a920178ec3273475382aefb3a9d8&v=4" width="24" alt="Avatar of hnooz"> hnooz
+			</a><br/>
+			Mohamed Idris
+		</td>
+		<td>Elmam </td>
+		<td><a href="https://twitter.com/7noOz">7noOz</a></td>
+		<td>Saudi Arabia, Riyadh</td>
+		<td>40</td>
 		<td>1026</td>
 	</tr>
 	<tr>
@@ -4630,6 +4630,20 @@ There are `988 users`  in Saudi Arabia. You need at least `7 followers` to be on
 	<tr>
 		<td>324</td>
 		<td>
+			<a href="https://github.com/MohammedKhalid38">
+				<img src="https://avatars.githubusercontent.com/u/12835443?s=72&u=ca49672144454c199429925f18181e5a8ae6898c&v=4" width="24" alt="Avatar of MohammedKhalid38"> MohammedKhalid38
+			</a><br/>
+			Mohammed Khalid
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mkme38">mkme38</a></td>
+		<td>Riyadh, Saudi Arabia</td>
+		<td>0</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
 			<a href="https://github.com/HishamBS">
 				<img src="https://avatars.githubusercontent.com/u/24430074?s=72&u=071315a97da04684f97af3f0d0b03d5f628eeda2&v=4" width="24" alt="Avatar of HishamBS"> HishamBS
 			</a><br/>
@@ -4640,20 +4654,6 @@ There are `988 users`  in Saudi Arabia. You need at least `7 followers` to be on
 		<td>Riyadh , Saudi Arabia</td>
 		<td>121</td>
 		<td>121</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/MohammedKhalid38">
-				<img src="https://avatars.githubusercontent.com/u/12835443?s=72&u=ca49672144454c199429925f18181e5a8ae6898c&v=4" width="24" alt="Avatar of MohammedKhalid38"> MohammedKhalid38
-			</a><br/>
-			Mohammed Khalid
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mkme38">mkme38</a></td>
-		<td>Riyadh, Saudi Arabia</td>
-		<td>0</td>
-		<td>120</td>
 	</tr>
 	<tr>
 		<td>326</td>
