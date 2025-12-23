@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `public contributions` and `private contributions` by users in Remote on `2025/12/23 8:50 PM UTC`. This list contains users from `Remote` and cities.
+The `public contributions` and `private contributions` by users in Remote on `2025/12/23 9:04 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -130,8 +130,8 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/imiladtahanian">imiladtahanian</a></td>
 		<td>Remote</td>
-		<td>22856</td>
-		<td>23210</td>
+		<td>22858</td>
+		<td>23212</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -313,7 +313,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td><a href="https://twitter.com/rudrankriyam">rudrankriyam</a></td>
 		<td>Remote</td>
 		<td>2541</td>
-		<td>6440</td>
+		<td>6472</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -663,7 +663,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td><a href="https://twitter.com/tknickman">tknickman</a></td>
 		<td>Baltimore, MD (Remote)</td>
 		<td>470</td>
-		<td>3489</td>
+		<td>3491</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -845,7 +845,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Remote</td>
 		<td>7</td>
-		<td>2992</td>
+		<td>2993</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1992,8 +1992,8 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Remote</td>
-		<td>327</td>
-		<td>1823</td>
+		<td>329</td>
+		<td>1825</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -2161,7 +2161,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Stresa (VB), Italy (Full Remote)</td>
 		<td>5</td>
-		<td>1729</td>
+		<td>1730</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2384,8 +2384,8 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tonybnya">tonybnya</a></td>
 		<td>Cameroon (Remote)</td>
-		<td>1263</td>
-		<td>1552</td>
+		<td>1264</td>
+		<td>1553</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2651,7 +2651,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td><a href="https://twitter.com/radko93">radko93</a></td>
 		<td>Remote</td>
 		<td>13</td>
-		<td>1411</td>
+		<td>1414</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -5092,6 +5092,20 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>357</td>
 		<td>
+			<a href="https://github.com/HouariZegai">
+				<img src="https://avatars.githubusercontent.com/u/24855117?s=72&u=11933be25c41e0ca5417cf66ca1758272d75584b&v=4" width="24" alt="Avatar of HouariZegai"> HouariZegai
+			</a><br/>
+			Houari ZEGAI
+		</td>
+		<td>@yaqiin </td>
+		<td><a href="https://twitter.com/HouariZegai">HouariZegai</a></td>
+		<td>Remote</td>
+		<td>169</td>
+		<td>746</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
 			<a href="https://github.com/axelavargas">
 				<img src="https://avatars.githubusercontent.com/u/239999?s=72&u=2ad1707722037d52822bb34d39bb72a1a7d7f91d&v=4" width="24" alt="Avatar of axelavargas"> axelavargas
 			</a><br/>
@@ -5104,7 +5118,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>745</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/drag0s">
 				<img src="https://avatars.githubusercontent.com/u/16242963?s=72&u=99d9e45d21d5b7d92cf0f7df42213a099b9aac0f&v=4" width="24" alt="Avatar of drag0s"> drag0s
@@ -5116,20 +5130,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>Remote</td>
 		<td>0</td>
 		<td>741</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/HouariZegai">
-				<img src="https://avatars.githubusercontent.com/u/24855117?s=72&u=11933be25c41e0ca5417cf66ca1758272d75584b&v=4" width="24" alt="Avatar of HouariZegai"> HouariZegai
-			</a><br/>
-			Houari ZEGAI
-		</td>
-		<td>@yaqiin </td>
-		<td><a href="https://twitter.com/HouariZegai">HouariZegai</a></td>
-		<td>Remote</td>
-		<td>169</td>
-		<td>739</td>
 	</tr>
 	<tr>
 		<td>360</td>
@@ -5330,6 +5330,20 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>374</td>
 		<td>
+			<a href="https://github.com/olaishola05">
+				<img src="https://avatars.githubusercontent.com/u/45001916?s=72&u=1d417d059668f8463a6117900a108fa59de33762&v=4" width="24" alt="Avatar of olaishola05"> olaishola05
+			</a><br/>
+			Oladipupo Ishola
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/olaishola05">olaishola05</a></td>
+		<td>Nigeria. Open to remote roles</td>
+		<td>583</td>
+		<td>691</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
 			<a href="https://github.com/rmetzger">
 				<img src="https://avatars.githubusercontent.com/u/89049?s=72&u=a2ff73d0f51d15f2ea00512ae879b118a4e24809&v=4" width="24" alt="Avatar of rmetzger"> rmetzger
 			</a><br/>
@@ -5342,7 +5356,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>688</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/mmarkell">
 				<img src="https://avatars.githubusercontent.com/u/10891675?s=72&u=1226ec730595c57fd2d87e90f6b01ffb2640f7b8&v=4" width="24" alt="Avatar of mmarkell"> mmarkell
@@ -5356,7 +5370,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>682</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/reime005">
 				<img src="https://avatars.githubusercontent.com/u/15148377?s=72&u=d0136c2595f42636a790de7be89e0e0bc355056a&v=4" width="24" alt="Avatar of reime005"> reime005
@@ -5370,7 +5384,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>680</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/Sourabhjoshi1">
 				<img src="https://avatars.githubusercontent.com/u/5206152?s=72&u=ea229298e24d3a1623bdab8997a266da366e2c84&v=4" width="24" alt="Avatar of Sourabhjoshi1"> Sourabhjoshi1
@@ -5384,7 +5398,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>678</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/pmareke">
 				<img src="https://avatars.githubusercontent.com/u/3502075?s=72&u=3a33f7de3443faafbe4276d0e8427b528fce662b&v=4" width="24" alt="Avatar of pmareke"> pmareke
@@ -5396,20 +5410,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>Remote</td>
 		<td>612</td>
 		<td>677</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/olaishola05">
-				<img src="https://avatars.githubusercontent.com/u/45001916?s=72&u=1d417d059668f8463a6117900a108fa59de33762&v=4" width="24" alt="Avatar of olaishola05"> olaishola05
-			</a><br/>
-			Oladipupo Ishola
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/olaishola05">olaishola05</a></td>
-		<td>Nigeria. Open to remote roles</td>
-		<td>583</td>
-		<td>674</td>
 	</tr>
 	<tr>
 		<td>380</td>
@@ -6697,7 +6697,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td><a href="https://twitter.com/abhijithneil">abhijithneil</a></td>
 		<td>Remote</td>
 		<td>352</td>
-		<td>457</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>472</td>
@@ -6739,7 +6739,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Remote</td>
 		<td>7</td>
-		<td>453</td>
+		<td>454</td>
 	</tr>
 	<tr>
 		<td>475</td>
@@ -7214,8 +7214,8 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TarekMasryo">TarekMasryo</a></td>
 		<td>Remote, Worldwide</td>
-		<td>371</td>
-		<td>371</td>
+		<td>372</td>
+		<td>372</td>
 	</tr>
 	<tr>
 		<td>509</td>
@@ -7719,7 +7719,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>United Kingdom (Remote)</td>
 		<td>43</td>
-		<td>294</td>
+		<td>295</td>
 	</tr>
 	<tr>
 		<td>545</td>
@@ -9936,6 +9936,20 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>703</td>
 		<td>
+			<a href="https://github.com/emrekgn">
+				<img src="https://avatars.githubusercontent.com/u/10262700?s=72&u=7e245de3369bc50629830a7c26c3c002e6a41987&v=4" width="24" alt="Avatar of emrekgn"> emrekgn
+			</a><br/>
+			Emre Akkaya
+		</td>
+		<td>Open To Remote Work<br/>Opportunities<br/></td>
+		<td>No Twitter Username</td>
+		<td>Remote, EU</td>
+		<td>30</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
 			<a href="https://github.com/donniekaham">
 				<img src="https://avatars.githubusercontent.com/u/158533465?s=72&v=4" width="24" alt="Avatar of donniekaham"> donniekaham
 			</a><br/>
@@ -9948,7 +9962,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/spsaaibi">
 				<img src="https://avatars.githubusercontent.com/u/1051657?s=72&u=4705178c5378a43720d433121113c2dd66d12ba9&v=4" width="24" alt="Avatar of spsaaibi"> spsaaibi
@@ -9962,7 +9976,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/jasmeet0915">
 				<img src="https://avatars.githubusercontent.com/u/23265149?s=72&u=45dd212c8d3d7e3095311deb2fefb3c10ab33b54&v=4" width="24" alt="Avatar of jasmeet0915"> jasmeet0915
@@ -9976,7 +9990,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/Abumahfouz">
 				<img src="https://avatars.githubusercontent.com/u/23030396?s=72&u=31871cd5ce2f89147f331b8634f74ec73c2438a5&v=4" width="24" alt="Avatar of Abumahfouz"> Abumahfouz
@@ -9987,20 +10001,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td><a href="https://twitter.com/mahfouz_Dev">mahfouz_Dev</a></td>
 		<td>Remote</td>
 		<td>64</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>707</td>
-		<td>
-			<a href="https://github.com/emrekgn">
-				<img src="https://avatars.githubusercontent.com/u/10262700?s=72&u=7e245de3369bc50629830a7c26c3c002e6a41987&v=4" width="24" alt="Avatar of emrekgn"> emrekgn
-			</a><br/>
-			Emre Akkaya
-		</td>
-		<td>Open To Remote Work<br/>Opportunities<br/></td>
-		<td>No Twitter Username</td>
-		<td>Remote, EU</td>
-		<td>30</td>
 		<td>64</td>
 	</tr>
 	<tr>

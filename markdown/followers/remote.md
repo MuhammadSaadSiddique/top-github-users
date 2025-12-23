@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `number of followers` of users in Remote on `2025/12/23 8:50 PM UTC`. This list contains users from `Remote` and cities.
+The `number of followers` of users in Remote on `2025/12/23 9:04 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -10299,6 +10299,19 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>785</td>
 		<td>
+			<a href="https://github.com/distalx">
+				<img src="https://avatars.githubusercontent.com/u/11193792?s=72&u=2c63e3f819c3e99702cd022bfea471b74d8602b6&v=4" width="24" alt="Avatar of distalx"> distalx
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Remote, Global</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
 			<a href="https://github.com/ubongndoh">
 				<img src="https://avatars.githubusercontent.com/u/21159314?s=72&u=fb00d6958199617ff1b6ea5ca0c5f8715f90decc&v=4" width="24" alt="Avatar of ubongndoh"> ubongndoh
 			</a><br/>
@@ -10310,7 +10323,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/axelavargas">
 				<img src="https://avatars.githubusercontent.com/u/239999?s=72&u=2ad1707722037d52822bb34d39bb72a1a7d7f91d&v=4" width="24" alt="Avatar of axelavargas"> axelavargas
@@ -10323,7 +10336,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/tm9k1">
 				<img src="https://avatars.githubusercontent.com/u/22996531?s=72&u=3d4d10725c15ff065f715688ecba1e4ad2a35f25&v=4" width="24" alt="Avatar of tm9k1"> tm9k1
@@ -10336,7 +10349,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/michaelguild13">
 				<img src="https://avatars.githubusercontent.com/u/989574?s=72&u=dae03764b640293cb248a9e053e60c45c461e63d&v=4" width="24" alt="Avatar of michaelguild13"> michaelguild13
@@ -10346,19 +10359,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>Threde Llc </td>
 		<td>No Twitter Username</td>
 		<td>Washington DC / Remote</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>789</td>
-		<td>
-			<a href="https://github.com/distalx">
-				<img src="https://avatars.githubusercontent.com/u/11193792?s=72&u=2c63e3f819c3e99702cd022bfea471b74d8602b6&v=4" width="24" alt="Avatar of distalx"> distalx
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Remote, Global</td>
 		<td>57</td>
 	</tr>
 	<tr>
