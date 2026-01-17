@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `public contributions` by users in Remote on `2026/1/17 8:49 PM UTC`. This list contains users from `Remote` and cities.
+The `public contributions` by users in Remote on `2026/1/17 9:01 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -128,7 +128,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/imiladtahanian">imiladtahanian</a></td>
 		<td>Remote</td>
-		<td>22888</td>
+		<td>22889</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1316,19 +1316,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/olaishola05">
-				<img src="https://avatars.githubusercontent.com/u/45001916?s=72&u=1d417d059668f8463a6117900a108fa59de33762&v=4" width="24" alt="Avatar of olaishola05"> olaishola05
-			</a><br/>
-			Oladipupo Ishola
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/olaishola05">olaishola05</a></td>
-		<td>Nigeria. Open to remote roles</td>
-		<td>588</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/trungleduc">
 				<img src="https://avatars.githubusercontent.com/u/4451292?s=72&u=d360ffb7c25c8d8dc6176979cc55268985fb5793&v=4" width="24" alt="Avatar of trungleduc"> trungleduc
 			</a><br/>
@@ -1337,6 +1324,19 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>Quantstack </td>
 		<td>No Twitter Username</td>
 		<td>Europe / Remote</td>
+		<td>590</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/olaishola05">
+				<img src="https://avatars.githubusercontent.com/u/45001916?s=72&u=1d417d059668f8463a6117900a108fa59de33762&v=4" width="24" alt="Avatar of olaishola05"> olaishola05
+			</a><br/>
+			Oladipupo Ishola
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/olaishola05">olaishola05</a></td>
+		<td>Nigeria. Open to remote roles</td>
 		<td>588</td>
 	</tr>
 	<tr>
@@ -4839,6 +4839,19 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 	<tr>
 		<td>365</td>
 		<td>
+			<a href="https://github.com/alloyking1">
+				<img src="https://avatars.githubusercontent.com/u/22731000?s=72&u=f11e2d96a6cbbe86d7e77e728cc46b2293080c63&v=4" width="24" alt="Avatar of alloyking1"> alloyking1
+			</a><br/>
+			Moses
+		</td>
+		<td>Https://codecontent. </td>
+		<td><a href="https://twitter.com/alloyking_1">alloyking_1</a></td>
+		<td>remote</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
 			<a href="https://github.com/singerxt">
 				<img src="https://avatars.githubusercontent.com/u/5427444?s=72&u=f0b70f64a018783eecb9b1543b730d156ddd9cac&v=4" width="24" alt="Avatar of singerxt"> singerxt
 			</a><br/>
@@ -4850,7 +4863,7 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/marinakim44">
 				<img src="https://avatars.githubusercontent.com/u/91118219?s=72&u=8b9b051b2bed9da3f1a342547aefb9f0877b26ad&v=4" width="24" alt="Avatar of marinakim44"> marinakim44
@@ -4860,19 +4873,6 @@ There are `968 users`  in Remote. You need at least `47 followers` to be on this
 		<td>Vidatec Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Remote</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/alloyking1">
-				<img src="https://avatars.githubusercontent.com/u/22731000?s=72&u=f11e2d96a6cbbe86d7e77e728cc46b2293080c63&v=4" width="24" alt="Avatar of alloyking1"> alloyking1
-			</a><br/>
-			Moses
-		</td>
-		<td>Https://codecontent. </td>
-		<td><a href="https://twitter.com/alloyking_1">alloyking_1</a></td>
-		<td>remote</td>
 		<td>90</td>
 	</tr>
 	<tr>
