@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="" alt="Remote">
 </a>
 
-The `number of followers` of users in Remote on `2026/3/1 8:32 PM UTC`. This list contains users from `Remote` and cities.
+The `number of followers` of users in Remote on `2026/3/3 9:03 PM UTC`. This list contains users from `Remote` and cities.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
