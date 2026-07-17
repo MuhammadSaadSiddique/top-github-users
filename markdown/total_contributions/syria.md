@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="Syria">
 </a>
 
-The `public contributions` and `private contributions` by users in Syria on `2026/7/14 2:10 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
+The `public contributions` and `private contributions` by users in Syria on `2026/7/17 2:20 AM UTC`. This list contains users from `Syria` and cities `Damascus` `Aleppo` `Homs` `Latakia`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
