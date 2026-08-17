@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2026/8/17 9:09 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2026/8/17 9:19 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -1531,7 +1531,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td><a href="https://twitter.com/devorein">devorein</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>68</td>
-		<td>2509</td>
+		<td>2510</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1867,7 +1867,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td><a href="https://twitter.com/MehediDracula">MehediDracula</a></td>
 		<td>Savar, Dhaka, Bangladesh</td>
 		<td>68</td>
-		<td>2117</td>
+		<td>2120</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -2091,7 +2091,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td><a href="https://twitter.com/iamlizu">iamlizu</a></td>
 		<td>Dhaka</td>
 		<td>48</td>
-		<td>1944</td>
+		<td>1945</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2203,7 +2203,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td><a href="https://twitter.com/oneshadab">oneshadab</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>66</td>
-		<td>1874</td>
+		<td>1875</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2525,7 +2525,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td><a href="https://twitter.com/fahadamin991">fahadamin991</a></td>
 		<td>Dhaka,Bangladesh</td>
 		<td>80</td>
-		<td>1624</td>
+		<td>1625</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -4191,7 +4191,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Panchagarh, Bangladesh</td>
 		<td>298</td>
-		<td>860</td>
+		<td>861</td>
 	</tr>
 	<tr>
 		<td>293</td>
@@ -8522,6 +8522,20 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 	<tr>
 		<td>602</td>
 		<td>
+			<a href="https://github.com/AsifMohammedSifat">
+				<img src="https://avatars.githubusercontent.com/u/86705300?s=72&u=028cc1778aeffc531f2583d6cf981afacb9a757e&v=4" width="24" alt="Avatar of AsifMohammedSifat"> AsifMohammedSifat
+			</a><br/>
+			Asif Mohammed Sifat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bangladesh</td>
+		<td>125</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
 			<a href="https://github.com/rifatsoftdev">
 				<img src="https://avatars.githubusercontent.com/u/180649102?s=72&u=35dcecb01e11cff064387d25f9326e020eaceab1&v=4" width="24" alt="Avatar of rifatsoftdev"> rifatsoftdev
 			</a><br/>
@@ -8534,7 +8548,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/developerruhul">
 				<img src="https://avatars.githubusercontent.com/u/31810947?s=72&u=85c9e2c5c783837ba8f72da7586b4d2aeff7f8bb&v=4" width="24" alt="Avatar of developerruhul"> developerruhul
@@ -8546,20 +8560,6 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>Dhaka, Bangladesh</td>
 		<td>1</td>
 		<td>123</td>
-	</tr>
-	<tr>
-		<td>604</td>
-		<td>
-			<a href="https://github.com/AsifMohammedSifat">
-				<img src="https://avatars.githubusercontent.com/u/86705300?s=72&u=028cc1778aeffc531f2583d6cf981afacb9a757e&v=4" width="24" alt="Avatar of AsifMohammedSifat"> AsifMohammedSifat
-			</a><br/>
-			Asif Mohammed Sifat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bangladesh</td>
-		<td>122</td>
-		<td>122</td>
 	</tr>
 	<tr>
 		<td>605</td>

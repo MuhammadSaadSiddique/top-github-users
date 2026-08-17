@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2026/8/17 9:09 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2026/8/17 9:19 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `9 countries` and `46 cities` can be found [here](https://github.com/MuhammadSaadSiddique/top-github-users).
 
@@ -4969,6 +4969,19 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 	<tr>
 		<td>375</td>
 		<td>
+			<a href="https://github.com/AsifMohammedSifat">
+				<img src="https://avatars.githubusercontent.com/u/86705300?s=72&u=028cc1778aeffc531f2583d6cf981afacb9a757e&v=4" width="24" alt="Avatar of AsifMohammedSifat"> AsifMohammedSifat
+			</a><br/>
+			Asif Mohammed Sifat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bangladesh</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
 			<a href="https://github.com/m4hi2">
 				<img src="https://avatars.githubusercontent.com/u/3205653?s=72&v=4" width="24" alt="Avatar of m4hi2"> m4hi2
 			</a><br/>
@@ -4980,7 +4993,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/rifatsoftdev">
 				<img src="https://avatars.githubusercontent.com/u/180649102?s=72&u=35dcecb01e11cff064387d25f9326e020eaceab1&v=4" width="24" alt="Avatar of rifatsoftdev"> rifatsoftdev
@@ -4993,7 +5006,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/phpfour">
 				<img src="https://avatars.githubusercontent.com/u/171715?s=72&u=f237ca374e9fa383c99a24923ba6964b8ba445ac&v=4" width="24" alt="Avatar of phpfour"> phpfour
@@ -5006,7 +5019,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/arn-ob">
 				<img src="https://avatars.githubusercontent.com/u/8177397?s=72&u=afd5f4bc785326b4ca04bd3140d931f34799ef91&v=4" width="24" alt="Avatar of arn-ob"> arn-ob
@@ -5019,7 +5032,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/piyush1146115">
 				<img src="https://avatars.githubusercontent.com/u/15652244?s=72&u=b2079aa272fd74f5bedc74e50cc98fcbdac3522a&v=4" width="24" alt="Avatar of piyush1146115"> piyush1146115
@@ -5032,7 +5045,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/debjotyms">
 				<img src="https://avatars.githubusercontent.com/u/96808014?s=72&u=9ee9ef20f629d1507b2e80a3cfd4bab855d045e3&v=4" width="24" alt="Avatar of debjotyms"> debjotyms
@@ -5045,7 +5058,7 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/nurRiyad">
 				<img src="https://avatars.githubusercontent.com/u/45213090?s=72&u=b3c2c6c5b8fd658b512457edff384c47645450bc&v=4" width="24" alt="Avatar of nurRiyad"> nurRiyad
@@ -5055,19 +5068,6 @@ There are `976 users`  in Bangladesh. You need at least `90 followers` to be on 
 		<td>@fieldnation </td>
 		<td><a href="https://twitter.com/qdnvubp">qdnvubp</a></td>
 		<td>Dhaka Bangladesh</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/AsifMohammedSifat">
-				<img src="https://avatars.githubusercontent.com/u/86705300?s=72&u=028cc1778aeffc531f2583d6cf981afacb9a757e&v=4" width="24" alt="Avatar of AsifMohammedSifat"> AsifMohammedSifat
-			</a><br/>
-			Asif Mohammed Sifat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bangladesh</td>
 		<td>122</td>
 	</tr>
 	<tr>
